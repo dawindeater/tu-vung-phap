@@ -1,0 +1,1347 @@
+{
+ "id": 5,
+ "vi": "Thời gian",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t05-b1",
+   "title": "Đơn vị thời gian · Các ngày trong tuần",
+   "words": [
+    {
+     "id": "t05-le-jour",
+     "fr": "le jour",
+     "forms": [
+      "le jour"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ngày",
+     "viMain": "ngày",
+     "note": "",
+     "accept": [
+      "jour",
+      "le jour"
+     ],
+     "typeable": true,
+     "audioText": "le jour",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-semaine",
+     "fr": "la semaine",
+     "forms": [
+      "la semaine"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tuần",
+     "viMain": "tuần",
+     "note": "",
+     "accept": [
+      "semaine",
+      "la semaine"
+     ],
+     "typeable": true,
+     "audioText": "la semaine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-mois",
+     "fr": "le mois",
+     "forms": [
+      "le mois"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng",
+     "viMain": "tháng",
+     "note": "",
+     "accept": [
+      "mois",
+      "le mois"
+     ],
+     "typeable": true,
+     "audioText": "le mois",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-l-annee",
+     "fr": "l'année",
+     "forms": [
+      "l'année"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "năm",
+     "viMain": "năm",
+     "note": "",
+     "accept": [
+      "année",
+      "l'année"
+     ],
+     "typeable": true,
+     "audioText": "l'année",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-date",
+     "fr": "la date",
+     "forms": [
+      "la date"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ngày tháng",
+     "viMain": "ngày tháng",
+     "note": "Quelle est la date ?",
+     "accept": [
+      "date",
+      "la date"
+     ],
+     "typeable": true,
+     "audioText": "la date",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-lundi",
+     "fr": "lundi",
+     "forms": [
+      "lundi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thứ Hai",
+     "viMain": "thứ Hai",
+     "note": "",
+     "accept": [
+      "lundi"
+     ],
+     "typeable": true,
+     "audioText": "lundi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-mardi",
+     "fr": "mardi",
+     "forms": [
+      "mardi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thứ Ba",
+     "viMain": "thứ Ba",
+     "note": "",
+     "accept": [
+      "mardi"
+     ],
+     "typeable": true,
+     "audioText": "mardi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-mercredi",
+     "fr": "mercredi",
+     "forms": [
+      "mercredi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thứ Tư",
+     "viMain": "thứ Tư",
+     "note": "",
+     "accept": [
+      "mercredi"
+     ],
+     "typeable": true,
+     "audioText": "mercredi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-jeudi",
+     "fr": "jeudi",
+     "forms": [
+      "jeudi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thứ Năm",
+     "viMain": "thứ Năm",
+     "note": "",
+     "accept": [
+      "jeudi"
+     ],
+     "typeable": true,
+     "audioText": "jeudi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-vendredi",
+     "fr": "vendredi",
+     "forms": [
+      "vendredi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thứ Sáu",
+     "viMain": "thứ Sáu",
+     "note": "",
+     "accept": [
+      "vendredi"
+     ],
+     "typeable": true,
+     "audioText": "vendredi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-samedi",
+     "fr": "samedi",
+     "forms": [
+      "samedi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thứ Bảy",
+     "viMain": "thứ Bảy",
+     "note": "",
+     "accept": [
+      "samedi"
+     ],
+     "typeable": true,
+     "audioText": "samedi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-dimanche",
+     "fr": "dimanche",
+     "forms": [
+      "dimanche"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "Chủ nhật",
+     "viMain": "Chủ nhật",
+     "note": "",
+     "accept": [
+      "dimanche"
+     ],
+     "typeable": true,
+     "audioText": "dimanche",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-week-end",
+     "fr": "le week-end",
+     "forms": [
+      "le week-end"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cuối tuần",
+     "viMain": "cuối tuần",
+     "note": "",
+     "accept": [
+      "week-end",
+      "le week-end"
+     ],
+     "typeable": true,
+     "audioText": "le week-end",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t05-b2",
+   "title": "Các tháng",
+   "words": [
+    {
+     "id": "t05-janvier",
+     "fr": "janvier",
+     "forms": [
+      "janvier"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Một",
+     "viMain": "tháng Một",
+     "note": "",
+     "accept": [
+      "janvier"
+     ],
+     "typeable": true,
+     "audioText": "janvier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-fevrier",
+     "fr": "février",
+     "forms": [
+      "février"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Hai",
+     "viMain": "tháng Hai",
+     "note": "",
+     "accept": [
+      "février"
+     ],
+     "typeable": true,
+     "audioText": "février",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-mars",
+     "fr": "mars",
+     "forms": [
+      "mars"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Ba",
+     "viMain": "tháng Ba",
+     "note": "",
+     "accept": [
+      "mars"
+     ],
+     "typeable": true,
+     "audioText": "mars",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-avril",
+     "fr": "avril",
+     "forms": [
+      "avril"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Tư",
+     "viMain": "tháng Tư",
+     "note": "",
+     "accept": [
+      "avril"
+     ],
+     "typeable": true,
+     "audioText": "avril",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-mai",
+     "fr": "mai",
+     "forms": [
+      "mai"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Năm",
+     "viMain": "tháng Năm",
+     "note": "",
+     "accept": [
+      "mai"
+     ],
+     "typeable": true,
+     "audioText": "mai",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-juin",
+     "fr": "juin",
+     "forms": [
+      "juin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Sáu",
+     "viMain": "tháng Sáu",
+     "note": "",
+     "accept": [
+      "juin"
+     ],
+     "typeable": true,
+     "audioText": "juin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-juillet",
+     "fr": "juillet",
+     "forms": [
+      "juillet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Bảy",
+     "viMain": "tháng Bảy",
+     "note": "",
+     "accept": [
+      "juillet"
+     ],
+     "typeable": true,
+     "audioText": "juillet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-aout",
+     "fr": "août",
+     "forms": [
+      "août"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Tám",
+     "viMain": "tháng Tám",
+     "note": "",
+     "accept": [
+      "août"
+     ],
+     "typeable": true,
+     "audioText": "août",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-septembre",
+     "fr": "septembre",
+     "forms": [
+      "septembre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Chín",
+     "viMain": "tháng Chín",
+     "note": "",
+     "accept": [
+      "septembre"
+     ],
+     "typeable": true,
+     "audioText": "septembre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-octobre",
+     "fr": "octobre",
+     "forms": [
+      "octobre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Mười",
+     "viMain": "tháng Mười",
+     "note": "",
+     "accept": [
+      "octobre"
+     ],
+     "typeable": true,
+     "audioText": "octobre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-novembre",
+     "fr": "novembre",
+     "forms": [
+      "novembre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Mười Một",
+     "viMain": "tháng Mười Một",
+     "note": "",
+     "accept": [
+      "novembre"
+     ],
+     "typeable": true,
+     "audioText": "novembre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-decembre",
+     "fr": "décembre",
+     "forms": [
+      "décembre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tháng Mười Hai",
+     "viMain": "tháng Mười Hai",
+     "note": "",
+     "accept": [
+      "décembre"
+     ],
+     "typeable": true,
+     "audioText": "décembre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t05-b3",
+   "title": "Các mùa · Các buổi trong ngày",
+   "words": [
+    {
+     "id": "t05-la-saison",
+     "fr": "la saison",
+     "forms": [
+      "la saison"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "mùa",
+     "viMain": "mùa",
+     "note": "",
+     "accept": [
+      "saison",
+      "la saison"
+     ],
+     "typeable": true,
+     "audioText": "la saison",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-printemps",
+     "fr": "le printemps",
+     "forms": [
+      "le printemps"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mùa xuân",
+     "viMain": "mùa xuân",
+     "note": "",
+     "accept": [
+      "printemps",
+      "le printemps"
+     ],
+     "typeable": true,
+     "audioText": "le printemps",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-l-ete",
+     "fr": "l'été",
+     "forms": [
+      "l'été"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mùa hè",
+     "viMain": "mùa hè",
+     "note": "",
+     "accept": [
+      "été",
+      "l'été"
+     ],
+     "typeable": true,
+     "audioText": "l'été",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-l-automne",
+     "fr": "l'automne",
+     "forms": [
+      "l'automne"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mùa thu",
+     "viMain": "mùa thu",
+     "note": "",
+     "accept": [
+      "automne",
+      "l'automne"
+     ],
+     "typeable": true,
+     "audioText": "l'automne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-l-hiver",
+     "fr": "l'hiver",
+     "forms": [
+      "l'hiver"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mùa đông",
+     "viMain": "mùa đông",
+     "note": "",
+     "accept": [
+      "hiver",
+      "l'hiver"
+     ],
+     "typeable": true,
+     "audioText": "l'hiver",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-matin",
+     "fr": "le matin",
+     "forms": [
+      "le matin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "buổi sáng",
+     "viMain": "buổi sáng",
+     "note": "",
+     "accept": [
+      "matin",
+      "le matin"
+     ],
+     "typeable": true,
+     "audioText": "le matin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-l-apres-midi",
+     "fr": "l'après-midi",
+     "forms": [
+      "l'après-midi"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "buổi chiều",
+     "viMain": "buổi chiều",
+     "note": "dùng được cả giống đực và giống cái",
+     "accept": [
+      "après-midi",
+      "l'après-midi"
+     ],
+     "typeable": true,
+     "audioText": "l'après-midi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-soir",
+     "fr": "le soir",
+     "forms": [
+      "le soir"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "buổi tối",
+     "viMain": "buổi tối",
+     "note": "",
+     "accept": [
+      "soir",
+      "le soir"
+     ],
+     "typeable": true,
+     "audioText": "le soir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-nuit",
+     "fr": "la nuit",
+     "forms": [
+      "la nuit"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đêm",
+     "viMain": "đêm",
+     "note": "",
+     "accept": [
+      "nuit",
+      "la nuit"
+     ],
+     "typeable": true,
+     "audioText": "la nuit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-journee",
+     "fr": "la journée",
+     "forms": [
+      "la journée"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cả ngày; ban ngày",
+     "viMain": "cả ngày",
+     "note": "",
+     "accept": [
+      "journée",
+      "la journée"
+     ],
+     "typeable": true,
+     "audioText": "la journée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t05-b4",
+   "title": "Giờ giấc",
+   "words": [
+    {
+     "id": "t05-l-heure",
+     "fr": "l'heure",
+     "forms": [
+      "l'heure"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "giờ",
+     "viMain": "giờ",
+     "note": "",
+     "accept": [
+      "heure",
+      "l'heure"
+     ],
+     "typeable": true,
+     "audioText": "l'heure",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-minute",
+     "fr": "la minute",
+     "forms": [
+      "la minute"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "phút",
+     "viMain": "phút",
+     "note": "",
+     "accept": [
+      "minute",
+      "la minute"
+     ],
+     "typeable": true,
+     "audioText": "la minute",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-midi",
+     "fr": "midi",
+     "forms": [
+      "midi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "buổi trưa; 12 giờ trưa",
+     "viMain": "buổi trưa",
+     "note": "",
+     "accept": [
+      "midi"
+     ],
+     "typeable": true,
+     "audioText": "midi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-minuit",
+     "fr": "minuit",
+     "forms": [
+      "minuit"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "nửa đêm",
+     "viMain": "nửa đêm",
+     "note": "",
+     "accept": [
+      "minuit"
+     ],
+     "typeable": true,
+     "audioText": "minuit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-quelle-heure-est-il",
+     "fr": "Quelle heure est-il ?",
+     "forms": [
+      "Quelle heure est-il ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Mấy giờ rồi?",
+     "viMain": "Mấy giờ rồi?",
+     "note": "",
+     "accept": [
+      "Quelle heure est-il ?"
+     ],
+     "typeable": false,
+     "audioText": "Quelle heure est-il ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-et-quart",
+     "fr": "et quart",
+     "forms": [
+      "et quart"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "…giờ mười lăm",
+     "viMain": "…giờ mười lăm",
+     "note": "Il est trois heures et quart.",
+     "accept": [
+      "et quart"
+     ],
+     "typeable": true,
+     "audioText": "et quart",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-et-demie",
+     "fr": "et demie",
+     "forms": [
+      "et demie"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "…giờ rưỡi",
+     "viMain": "…giờ rưỡi",
+     "note": "",
+     "accept": [
+      "et demie"
+     ],
+     "typeable": true,
+     "audioText": "et demie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-moins-le-quart",
+     "fr": "moins le quart",
+     "forms": [
+      "moins le quart"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "…giờ kém mười lăm",
+     "viMain": "…giờ kém mười lăm",
+     "note": "",
+     "accept": [
+      "moins le quart"
+     ],
+     "typeable": true,
+     "audioText": "moins le quart",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-demi-heure",
+     "fr": "la demi-heure",
+     "forms": [
+      "la demi-heure"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nửa tiếng",
+     "viMain": "nửa tiếng",
+     "note": "",
+     "accept": [
+      "demi-heure",
+      "la demi-heure"
+     ],
+     "typeable": true,
+     "audioText": "la demi-heure",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-quart-d-heure",
+     "fr": "le quart d'heure",
+     "forms": [
+      "le quart d'heure"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mười lăm phút",
+     "viMain": "mười lăm phút",
+     "note": "",
+     "accept": [
+      "quart d'heure",
+      "le quart d'heure"
+     ],
+     "typeable": true,
+     "audioText": "le quart d'heure",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t05-b5",
+   "title": "Trạng từ thời gian · Đồng hồ, đúng giờ, trễ · Lễ, ngày nghỉ, cuộc hẹn",
+   "words": [
+    {
+     "id": "t05-aujourd-hui",
+     "fr": "aujourd'hui",
+     "forms": [
+      "aujourd'hui"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "hôm nay",
+     "viMain": "hôm nay",
+     "note": "",
+     "accept": [
+      "aujourd'hui"
+     ],
+     "typeable": true,
+     "audioText": "aujourd'hui",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-demain",
+     "fr": "demain",
+     "forms": [
+      "demain"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "ngày mai",
+     "viMain": "ngày mai",
+     "note": "",
+     "accept": [
+      "demain"
+     ],
+     "typeable": true,
+     "audioText": "demain",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-hier",
+     "fr": "hier",
+     "forms": [
+      "hier"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "hôm qua",
+     "viMain": "hôm qua",
+     "note": "",
+     "accept": [
+      "hier"
+     ],
+     "typeable": true,
+     "audioText": "hier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-maintenant",
+     "fr": "maintenant",
+     "forms": [
+      "maintenant"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "bây giờ",
+     "viMain": "bây giờ",
+     "note": "",
+     "accept": [
+      "maintenant"
+     ],
+     "typeable": true,
+     "audioText": "maintenant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-tot",
+     "fr": "tôt",
+     "forms": [
+      "tôt"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "sớm",
+     "viMain": "sớm",
+     "note": "",
+     "accept": [
+      "tôt"
+     ],
+     "typeable": true,
+     "audioText": "tôt",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-tard",
+     "fr": "tard",
+     "forms": [
+      "tard"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "muộn",
+     "viMain": "muộn",
+     "note": "",
+     "accept": [
+      "tard"
+     ],
+     "typeable": true,
+     "audioText": "tard",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-pendant",
+     "fr": "pendant",
+     "forms": [
+      "pendant"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "trong suốt",
+     "viMain": "trong suốt",
+     "note": "",
+     "accept": [
+      "pendant"
+     ],
+     "typeable": true,
+     "audioText": "pendant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-prochain-prochaine",
+     "fr": "prochain / prochaine",
+     "forms": [
+      "prochain",
+      "prochaine"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "tới, sau",
+     "viMain": "tới, sau",
+     "note": "la semaine prochaine",
+     "accept": [
+      "prochain",
+      "prochaine"
+     ],
+     "typeable": true,
+     "audioText": "prochain",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-dernier-derniere",
+     "fr": "dernier / dernière",
+     "forms": [
+      "dernier",
+      "dernière"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "vừa rồi; cuối cùng",
+     "viMain": "vừa rồi",
+     "note": "la semaine dernière",
+     "accept": [
+      "dernier",
+      "dernière"
+     ],
+     "typeable": true,
+     "audioText": "dernier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-montre",
+     "fr": "la montre",
+     "forms": [
+      "la montre"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đồng hồ đeo tay",
+     "viMain": "đồng hồ đeo tay",
+     "note": "",
+     "accept": [
+      "montre",
+      "la montre"
+     ],
+     "typeable": true,
+     "audioText": "la montre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-pendule",
+     "fr": "la pendule",
+     "forms": [
+      "la pendule"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đồng hồ treo tường",
+     "viMain": "đồng hồ treo tường",
+     "note": "",
+     "accept": [
+      "pendule",
+      "la pendule"
+     ],
+     "typeable": true,
+     "audioText": "la pendule",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-reveil",
+     "fr": "le réveil",
+     "forms": [
+      "le réveil"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đồng hồ báo thức",
+     "viMain": "đồng hồ báo thức",
+     "note": "",
+     "accept": [
+      "réveil",
+      "le réveil"
+     ],
+     "typeable": true,
+     "audioText": "le réveil",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-a-l-heure",
+     "fr": "à l'heure",
+     "forms": [
+      "à l'heure"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đúng giờ",
+     "viMain": "đúng giờ",
+     "note": "",
+     "accept": [
+      "à l'heure"
+     ],
+     "typeable": true,
+     "audioText": "à l'heure",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-en-retard",
+     "fr": "en retard",
+     "forms": [
+      "en retard"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "trễ, muộn",
+     "viMain": "trễ, muộn",
+     "note": "",
+     "accept": [
+      "en retard"
+     ],
+     "typeable": true,
+     "audioText": "en retard",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-en-avance",
+     "fr": "en avance",
+     "forms": [
+      "en avance"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "sớm (hơn giờ hẹn)",
+     "viMain": "sớm (hơn giờ hẹn)",
+     "note": "",
+     "accept": [
+      "en avance"
+     ],
+     "typeable": true,
+     "audioText": "en avance",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-rendez-vous",
+     "fr": "le rendez-vous",
+     "forms": [
+      "le rendez-vous"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cuộc hẹn",
+     "viMain": "cuộc hẹn",
+     "note": "",
+     "accept": [
+      "rendez-vous",
+      "le rendez-vous"
+     ],
+     "typeable": true,
+     "audioText": "le rendez-vous",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-la-fete",
+     "fr": "la fête",
+     "forms": [
+      "la fête"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "lễ hội; bữa tiệc",
+     "viMain": "lễ hội",
+     "note": "",
+     "accept": [
+      "fête",
+      "la fête"
+     ],
+     "typeable": true,
+     "audioText": "la fête",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-noel",
+     "fr": "Noël",
+     "forms": [
+      "Noël"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "Giáng sinh",
+     "viMain": "Giáng sinh",
+     "note": "",
+     "accept": [
+      "Noël"
+     ],
+     "typeable": true,
+     "audioText": "Noël",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t05-le-jour-ferie",
+     "fr": "le jour férié",
+     "forms": [
+      "le jour férié"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ngày nghỉ lễ",
+     "viMain": "ngày nghỉ lễ",
+     "note": "",
+     "accept": [
+      "jour férié",
+      "le jour férié"
+     ],
+     "typeable": true,
+     "audioText": "le jour férié",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2034 @@
+{
+ "id": 2,
+ "vi": "Thông tin cá nhân",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t02-b1",
+   "title": "Họ tên, tuổi, nơi sinh",
+   "words": [
+    {
+     "id": "t02-le-nom",
+     "fr": "le nom",
+     "forms": [
+      "le nom"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tên (họ tên)",
+     "viMain": "tên (họ tên)",
+     "note": "",
+     "accept": [
+      "nom",
+      "le nom"
+     ],
+     "typeable": true,
+     "audioText": "le nom",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-nom-de-famille",
+     "fr": "le nom de famille",
+     "forms": [
+      "le nom de famille"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "họ",
+     "viMain": "họ",
+     "note": "",
+     "accept": [
+      "nom de famille",
+      "le nom de famille"
+     ],
+     "typeable": true,
+     "audioText": "le nom de famille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-prenom",
+     "fr": "le prénom",
+     "forms": [
+      "le prénom"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tên riêng",
+     "viMain": "tên riêng",
+     "note": "",
+     "accept": [
+      "prénom",
+      "le prénom"
+     ],
+     "typeable": true,
+     "audioText": "le prénom",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-age",
+     "fr": "l'âge",
+     "forms": [
+      "l'âge"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tuổi",
+     "viMain": "tuổi",
+     "note": "",
+     "accept": [
+      "âge",
+      "l'âge"
+     ],
+     "typeable": true,
+     "audioText": "l'âge",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-avoir-ans",
+     "fr": "avoir … ans",
+     "forms": [
+      "avoir … ans"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "… tuổi",
+     "viMain": "… tuổi",
+     "note": "J'ai 25 ans.",
+     "accept": [
+      "avoir … ans"
+     ],
+     "typeable": false,
+     "audioText": "avoir ans",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-date-de-naissance",
+     "fr": "la date de naissance",
+     "forms": [
+      "la date de naissance"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ngày sinh",
+     "viMain": "ngày sinh",
+     "note": "",
+     "accept": [
+      "date de naissance",
+      "la date de naissance"
+     ],
+     "typeable": true,
+     "audioText": "la date de naissance",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-lieu-de-naissance",
+     "fr": "le lieu de naissance",
+     "forms": [
+      "le lieu de naissance"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "nơi sinh",
+     "viMain": "nơi sinh",
+     "note": "",
+     "accept": [
+      "lieu de naissance",
+      "le lieu de naissance"
+     ],
+     "typeable": true,
+     "audioText": "le lieu de naissance",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-s-appeler",
+     "fr": "s'appeler",
+     "forms": [
+      "s'appeler"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "tên là",
+     "viMain": "tên là",
+     "note": "Je m'appelle Linh.",
+     "accept": [
+      "s'appeler"
+     ],
+     "typeable": true,
+     "audioText": "s'appeler",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-etre-ne-nee-a",
+     "fr": "être né / née à",
+     "forms": [
+      "être né / née à"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "sinh ra ở",
+     "viMain": "sinh ra ở",
+     "note": "",
+     "accept": [
+      "être né / née à"
+     ],
+     "typeable": false,
+     "audioText": "être né née à",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-epeler",
+     "fr": "épeler",
+     "forms": [
+      "épeler"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đánh vần",
+     "viMain": "đánh vần",
+     "note": "",
+     "accept": [
+      "épeler"
+     ],
+     "typeable": true,
+     "audioText": "épeler",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-sexe",
+     "fr": "le sexe",
+     "forms": [
+      "le sexe"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "giới tính",
+     "viMain": "giới tính",
+     "note": "",
+     "accept": [
+      "sexe",
+      "le sexe"
+     ],
+     "typeable": true,
+     "audioText": "le sexe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t02-b2",
+   "title": "Địa chỉ, liên lạc · Tình trạng gia đình",
+   "words": [
+    {
+     "id": "t02-l-adresse",
+     "fr": "l'adresse",
+     "forms": [
+      "l'adresse"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "địa chỉ",
+     "viMain": "địa chỉ",
+     "note": "",
+     "accept": [
+      "adresse",
+      "l'adresse"
+     ],
+     "typeable": true,
+     "audioText": "l'adresse",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-numero-de-telephone",
+     "fr": "le numéro de téléphone",
+     "forms": [
+      "le numéro de téléphone"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "số điện thoại",
+     "viMain": "số điện thoại",
+     "note": "",
+     "accept": [
+      "numéro de téléphone",
+      "le numéro de téléphone"
+     ],
+     "typeable": true,
+     "audioText": "le numéro de téléphone",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-adresse-e-mail",
+     "fr": "l'adresse e-mail",
+     "forms": [
+      "l'adresse e-mail"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "địa chỉ e-mail",
+     "viMain": "địa chỉ e-mail",
+     "note": "",
+     "accept": [
+      "adresse e-mail",
+      "l'adresse e-mail"
+     ],
+     "typeable": true,
+     "audioText": "l'adresse e-mail",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-code-postal",
+     "fr": "le code postal",
+     "forms": [
+      "le code postal"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mã bưu chính",
+     "viMain": "mã bưu chính",
+     "note": "",
+     "accept": [
+      "code postal",
+      "le code postal"
+     ],
+     "typeable": true,
+     "audioText": "le code postal",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-habiter",
+     "fr": "habiter",
+     "forms": [
+      "habiter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "sống, ở",
+     "viMain": "sống, ở",
+     "note": "J'habite à Hanoï.",
+     "accept": [
+      "habiter"
+     ],
+     "typeable": true,
+     "audioText": "habiter",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c04"
+    },
+    {
+     "id": "t02-vivre",
+     "fr": "vivre",
+     "forms": [
+      "vivre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "sống",
+     "viMain": "sống",
+     "note": "",
+     "accept": [
+      "vivre"
+     ],
+     "typeable": true,
+     "audioText": "vivre",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c04"
+    },
+    {
+     "id": "t02-l-avenue",
+     "fr": "l'avenue",
+     "forms": [
+      "l'avenue"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đại lộ",
+     "viMain": "đại lộ",
+     "note": "",
+     "accept": [
+      "avenue",
+      "l'avenue"
+     ],
+     "typeable": true,
+     "audioText": "l'avenue",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-arrondissement",
+     "fr": "l'arrondissement",
+     "forms": [
+      "l'arrondissement"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quận (ở các thành phố lớn như Paris)",
+     "viMain": "quận (ở các thành phố lớn như Paris)",
+     "note": "",
+     "accept": [
+      "arrondissement",
+      "l'arrondissement"
+     ],
+     "typeable": true,
+     "audioText": "l'arrondissement",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-celibataire",
+     "fr": "célibataire",
+     "forms": [
+      "célibataire"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "độc thân",
+     "viMain": "độc thân",
+     "note": "",
+     "accept": [
+      "célibataire"
+     ],
+     "typeable": true,
+     "audioText": "célibataire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-marie-mariee",
+     "fr": "marié / mariée",
+     "forms": [
+      "marié",
+      "mariée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đã kết hôn",
+     "viMain": "đã kết hôn",
+     "note": "",
+     "accept": [
+      "marié",
+      "mariée"
+     ],
+     "typeable": true,
+     "audioText": "marié",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-divorce-divorcee",
+     "fr": "divorcé / divorcée",
+     "forms": [
+      "divorcé",
+      "divorcée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đã ly hôn",
+     "viMain": "đã ly hôn",
+     "note": "",
+     "accept": [
+      "divorcé",
+      "divorcée"
+     ],
+     "typeable": true,
+     "audioText": "divorcé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-veuf-veuve",
+     "fr": "veuf / veuve",
+     "forms": [
+      "veuf",
+      "veuve"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "góa",
+     "viMain": "góa",
+     "note": "",
+     "accept": [
+      "veuf",
+      "veuve"
+     ],
+     "typeable": true,
+     "audioText": "veuf",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-situation-de-famille",
+     "fr": "la situation de famille",
+     "forms": [
+      "la situation de famille"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tình trạng hôn nhân",
+     "viMain": "tình trạng hôn nhân",
+     "note": "",
+     "accept": [
+      "situation de famille",
+      "la situation de famille"
+     ],
+     "typeable": true,
+     "audioText": "la situation de famille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t02-b3",
+   "title": "Giấy tờ, biểu mẫu",
+   "words": [
+    {
+     "id": "t02-remplir-un-formulaire",
+     "fr": "remplir un formulaire",
+     "forms": [
+      "remplir un formulaire"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "điền vào mẫu đơn",
+     "viMain": "điền vào mẫu đơn",
+     "note": "",
+     "accept": [
+      "remplir un formulaire"
+     ],
+     "typeable": true,
+     "audioText": "remplir un formulaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-signer",
+     "fr": "signer",
+     "forms": [
+      "signer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ký tên",
+     "viMain": "ký tên",
+     "note": "",
+     "accept": [
+      "signer"
+     ],
+     "typeable": true,
+     "audioText": "signer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-carte-d-identite",
+     "fr": "la carte d'identité",
+     "forms": [
+      "la carte d'identité"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thẻ căn cước",
+     "viMain": "thẻ căn cước",
+     "note": "",
+     "accept": [
+      "carte d'identité",
+      "la carte d'identité"
+     ],
+     "typeable": true,
+     "audioText": "la carte d'identité",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-passeport",
+     "fr": "le passeport",
+     "forms": [
+      "le passeport"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "hộ chiếu",
+     "viMain": "hộ chiếu",
+     "note": "",
+     "accept": [
+      "passeport",
+      "le passeport"
+     ],
+     "typeable": true,
+     "audioText": "le passeport",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-etat-civil",
+     "fr": "l'état civil",
+     "forms": [
+      "l'état civil"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "hộ tịch; thông tin cá nhân",
+     "viMain": "hộ tịch",
+     "note": "",
+     "accept": [
+      "état civil",
+      "l'état civil"
+     ],
+     "typeable": true,
+     "audioText": "l'état civil",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-formulaire",
+     "fr": "le formulaire",
+     "forms": [
+      "le formulaire"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mẫu đơn",
+     "viMain": "mẫu đơn",
+     "note": "",
+     "accept": [
+      "formulaire",
+      "le formulaire"
+     ],
+     "typeable": true,
+     "audioText": "le formulaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-signature",
+     "fr": "la signature",
+     "forms": [
+      "la signature"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chữ ký",
+     "viMain": "chữ ký",
+     "note": "",
+     "accept": [
+      "signature",
+      "la signature"
+     ],
+     "typeable": true,
+     "audioText": "la signature",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-permis-de-conduire",
+     "fr": "le permis de conduire",
+     "forms": [
+      "le permis de conduire"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bằng lái xe",
+     "viMain": "bằng lái xe",
+     "note": "",
+     "accept": [
+      "permis de conduire",
+      "le permis de conduire"
+     ],
+     "typeable": true,
+     "audioText": "le permis de conduire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t02-b4",
+   "title": "Quốc gia và quốc tịch (1/3)",
+   "words": [
+    {
+     "id": "t02-le-pays",
+     "fr": "le pays",
+     "forms": [
+      "le pays"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đất nước",
+     "viMain": "đất nước",
+     "note": "",
+     "accept": [
+      "pays",
+      "le pays"
+     ],
+     "typeable": true,
+     "audioText": "le pays",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-nationalite",
+     "fr": "la nationalité",
+     "forms": [
+      "la nationalité"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "quốc tịch",
+     "viMain": "quốc tịch",
+     "note": "",
+     "accept": [
+      "nationalité",
+      "la nationalité"
+     ],
+     "typeable": true,
+     "audioText": "la nationalité",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-francais-francaise",
+     "fr": "français / française",
+     "forms": [
+      "français",
+      "française"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Pháp; thuộc Pháp",
+     "viMain": "người Pháp",
+     "note": "",
+     "accept": [
+      "français",
+      "française"
+     ],
+     "typeable": true,
+     "audioText": "français",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-vietnamien-vietnamienne",
+     "fr": "vietnamien / vietnamienne",
+     "forms": [
+      "vietnamien",
+      "vietnamienne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Việt Nam",
+     "viMain": "người Việt Nam",
+     "note": "",
+     "accept": [
+      "vietnamien",
+      "vietnamienne"
+     ],
+     "typeable": true,
+     "audioText": "vietnamien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-anglais-anglaise",
+     "fr": "anglais / anglaise",
+     "forms": [
+      "anglais",
+      "anglaise"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Anh; tiếng Anh",
+     "viMain": "người Anh",
+     "note": "",
+     "accept": [
+      "anglais",
+      "anglaise"
+     ],
+     "typeable": true,
+     "audioText": "anglais",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c05"
+    },
+    {
+     "id": "t02-americain-americaine",
+     "fr": "américain / américaine",
+     "forms": [
+      "américain",
+      "américaine"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Mỹ",
+     "viMain": "người Mỹ",
+     "note": "",
+     "accept": [
+      "américain",
+      "américaine"
+     ],
+     "typeable": true,
+     "audioText": "américain",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-chinois-chinoise",
+     "fr": "chinois / chinoise",
+     "forms": [
+      "chinois",
+      "chinoise"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Trung Quốc",
+     "viMain": "người Trung Quốc",
+     "note": "",
+     "accept": [
+      "chinois",
+      "chinoise"
+     ],
+     "typeable": true,
+     "audioText": "chinois",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-japonais-japonaise",
+     "fr": "japonais / japonaise",
+     "forms": [
+      "japonais",
+      "japonaise"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Nhật",
+     "viMain": "người Nhật",
+     "note": "",
+     "accept": [
+      "japonais",
+      "japonaise"
+     ],
+     "typeable": true,
+     "audioText": "japonais",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-coreen-coreenne",
+     "fr": "coréen / coréenne",
+     "forms": [
+      "coréen",
+      "coréenne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Hàn Quốc",
+     "viMain": "người Hàn Quốc",
+     "note": "",
+     "accept": [
+      "coréen",
+      "coréenne"
+     ],
+     "typeable": true,
+     "audioText": "coréen",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-allemand-allemande",
+     "fr": "allemand / allemande",
+     "forms": [
+      "allemand",
+      "allemande"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Đức",
+     "viMain": "người Đức",
+     "note": "",
+     "accept": [
+      "allemand",
+      "allemande"
+     ],
+     "typeable": true,
+     "audioText": "allemand",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-espagnol-espagnole",
+     "fr": "espagnol / espagnole",
+     "forms": [
+      "espagnol",
+      "espagnole"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Tây Ban Nha",
+     "viMain": "người Tây Ban Nha",
+     "note": "",
+     "accept": [
+      "espagnol",
+      "espagnole"
+     ],
+     "typeable": true,
+     "audioText": "espagnol",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-italien-italienne",
+     "fr": "italien / italienne",
+     "forms": [
+      "italien",
+      "italienne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Ý",
+     "viMain": "người Ý",
+     "note": "",
+     "accept": [
+      "italien",
+      "italienne"
+     ],
+     "typeable": true,
+     "audioText": "italien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-france",
+     "fr": "la France",
+     "forms": [
+      "la France"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "nước Pháp",
+     "viMain": "nước Pháp",
+     "note": "en France",
+     "accept": [
+      "France",
+      "la France"
+     ],
+     "typeable": true,
+     "audioText": "la France",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-viet-nam",
+     "fr": "le Viêt Nam",
+     "forms": [
+      "le Viêt Nam"
+     ],
+     "pos": "np m",
+     "posGroup": "noun",
+     "gender": "np m",
+     "vi": "Việt Nam",
+     "viMain": "Việt Nam",
+     "note": "au Viêt Nam",
+     "accept": [
+      "Viêt Nam",
+      "le Viêt Nam"
+     ],
+     "typeable": true,
+     "audioText": "le Viêt Nam",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-angleterre",
+     "fr": "l'Angleterre",
+     "forms": [
+      "l'Angleterre"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "nước Anh",
+     "viMain": "nước Anh",
+     "note": "en Angleterre",
+     "accept": [
+      "Angleterre",
+      "l'Angleterre"
+     ],
+     "typeable": true,
+     "audioText": "l'Angleterre",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c05"
+    }
+   ]
+  },
+  {
+   "id": "t02-b5",
+   "title": "Quốc gia và quốc tịch (2/3)",
+   "words": [
+    {
+     "id": "t02-les-etats-unis",
+     "fr": "les États-Unis",
+     "forms": [
+      "les États-Unis"
+     ],
+     "pos": "np m pl",
+     "posGroup": "noun",
+     "gender": "np m pl",
+     "vi": "Hoa Kỳ",
+     "viMain": "Hoa Kỳ",
+     "note": "aux États-Unis",
+     "accept": [
+      "États-Unis",
+      "les États-Unis"
+     ],
+     "typeable": true,
+     "audioText": "les États-Unis",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-chine",
+     "fr": "la Chine",
+     "forms": [
+      "la Chine"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Trung Quốc",
+     "viMain": "Trung Quốc",
+     "note": "en Chine",
+     "accept": [
+      "Chine",
+      "la Chine"
+     ],
+     "typeable": true,
+     "audioText": "la Chine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-japon",
+     "fr": "le Japon",
+     "forms": [
+      "le Japon"
+     ],
+     "pos": "np m",
+     "posGroup": "noun",
+     "gender": "np m",
+     "vi": "Nhật Bản",
+     "viMain": "Nhật Bản",
+     "note": "au Japon",
+     "accept": [
+      "Japon",
+      "le Japon"
+     ],
+     "typeable": true,
+     "audioText": "le Japon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-coree-du-sud",
+     "fr": "la Corée du Sud",
+     "forms": [
+      "la Corée du Sud"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Hàn Quốc",
+     "viMain": "Hàn Quốc",
+     "note": "en Corée du Sud",
+     "accept": [
+      "Corée du Sud",
+      "la Corée du Sud"
+     ],
+     "typeable": true,
+     "audioText": "la Corée du Sud",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-allemagne",
+     "fr": "l'Allemagne",
+     "forms": [
+      "l'Allemagne"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "nước Đức",
+     "viMain": "nước Đức",
+     "note": "en Allemagne",
+     "accept": [
+      "Allemagne",
+      "l'Allemagne"
+     ],
+     "typeable": true,
+     "audioText": "l'Allemagne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-espagne",
+     "fr": "l'Espagne",
+     "forms": [
+      "l'Espagne"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Tây Ban Nha",
+     "viMain": "Tây Ban Nha",
+     "note": "en Espagne",
+     "accept": [
+      "Espagne",
+      "l'Espagne"
+     ],
+     "typeable": true,
+     "audioText": "l'Espagne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-italie",
+     "fr": "l'Italie",
+     "forms": [
+      "l'Italie"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "nước Ý",
+     "viMain": "nước Ý",
+     "note": "en Italie",
+     "accept": [
+      "Italie",
+      "l'Italie"
+     ],
+     "typeable": true,
+     "audioText": "l'Italie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-etranger-etrangere",
+     "fr": "étranger / étrangère",
+     "forms": [
+      "étranger",
+      "étrangère"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "nước ngoài; người nước ngoài",
+     "viMain": "nước ngoài",
+     "note": "une langue étrangère",
+     "accept": [
+      "étranger",
+      "étrangère"
+     ],
+     "typeable": true,
+     "audioText": "étranger",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-britannique",
+     "fr": "britannique",
+     "forms": [
+      "britannique"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Anh (Vương quốc Anh)",
+     "viMain": "người Anh (Vương quốc Anh)",
+     "note": "",
+     "accept": [
+      "britannique"
+     ],
+     "typeable": true,
+     "audioText": "britannique",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c05"
+    },
+    {
+     "id": "t02-belge",
+     "fr": "belge",
+     "forms": [
+      "belge"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Bỉ",
+     "viMain": "người Bỉ",
+     "note": "không đổi giống",
+     "accept": [
+      "belge"
+     ],
+     "typeable": true,
+     "audioText": "belge",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-suisse",
+     "fr": "suisse",
+     "forms": [
+      "suisse"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Thụy Sĩ",
+     "viMain": "người Thụy Sĩ",
+     "note": "không đổi giống",
+     "accept": [
+      "suisse"
+     ],
+     "typeable": true,
+     "audioText": "suisse",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-canadien-canadienne",
+     "fr": "canadien / canadienne",
+     "forms": [
+      "canadien",
+      "canadienne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Canada",
+     "viMain": "người Canada",
+     "note": "",
+     "accept": [
+      "canadien",
+      "canadienne"
+     ],
+     "typeable": true,
+     "audioText": "canadien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-portugais-portugaise",
+     "fr": "portugais / portugaise",
+     "forms": [
+      "portugais",
+      "portugaise"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Bồ Đào Nha",
+     "viMain": "người Bồ Đào Nha",
+     "note": "",
+     "accept": [
+      "portugais",
+      "portugaise"
+     ],
+     "typeable": true,
+     "audioText": "portugais",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-bresilien-bresilienne",
+     "fr": "brésilien / brésilienne",
+     "forms": [
+      "brésilien",
+      "brésilienne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Brazil",
+     "viMain": "người Brazil",
+     "note": "",
+     "accept": [
+      "brésilien",
+      "brésilienne"
+     ],
+     "typeable": true,
+     "audioText": "brésilien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t02-b6",
+   "title": "Quốc gia và quốc tịch (3/3)",
+   "words": [
+    {
+     "id": "t02-australien-australienne",
+     "fr": "australien / australienne",
+     "forms": [
+      "australien",
+      "australienne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Úc",
+     "viMain": "người Úc",
+     "note": "",
+     "accept": [
+      "australien",
+      "australienne"
+     ],
+     "typeable": true,
+     "audioText": "australien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-marocain-marocaine",
+     "fr": "marocain / marocaine",
+     "forms": [
+      "marocain",
+      "marocaine"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Ma-rốc",
+     "viMain": "người Ma-rốc",
+     "note": "",
+     "accept": [
+      "marocain",
+      "marocaine"
+     ],
+     "typeable": true,
+     "audioText": "marocain",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-russe",
+     "fr": "russe",
+     "forms": [
+      "russe"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "người Nga",
+     "viMain": "người Nga",
+     "note": "không đổi giống",
+     "accept": [
+      "russe"
+     ],
+     "typeable": true,
+     "audioText": "russe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-grande-bretagne",
+     "fr": "la Grande-Bretagne",
+     "forms": [
+      "la Grande-Bretagne"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Anh (Đảo Anh)",
+     "viMain": "Anh (Đảo Anh)",
+     "note": "en Grande-Bretagne",
+     "accept": [
+      "Grande-Bretagne",
+      "la Grande-Bretagne"
+     ],
+     "typeable": true,
+     "audioText": "la Grande-Bretagne",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c05"
+    },
+    {
+     "id": "t02-la-belgique",
+     "fr": "la Belgique",
+     "forms": [
+      "la Belgique"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Bỉ",
+     "viMain": "Bỉ",
+     "note": "en Belgique",
+     "accept": [
+      "Belgique",
+      "la Belgique"
+     ],
+     "typeable": true,
+     "audioText": "la Belgique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-suisse",
+     "fr": "la Suisse",
+     "forms": [
+      "la Suisse"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Thụy Sĩ",
+     "viMain": "Thụy Sĩ",
+     "note": "en Suisse",
+     "accept": [
+      "Suisse",
+      "la Suisse"
+     ],
+     "typeable": true,
+     "audioText": "la Suisse",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-canada",
+     "fr": "le Canada",
+     "forms": [
+      "le Canada"
+     ],
+     "pos": "np m",
+     "posGroup": "noun",
+     "gender": "np m",
+     "vi": "Canada",
+     "viMain": "Canada",
+     "note": "au Canada",
+     "accept": [
+      "Canada",
+      "le Canada"
+     ],
+     "typeable": true,
+     "audioText": "le Canada",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-portugal",
+     "fr": "le Portugal",
+     "forms": [
+      "le Portugal"
+     ],
+     "pos": "np m",
+     "posGroup": "noun",
+     "gender": "np m",
+     "vi": "Bồ Đào Nha",
+     "viMain": "Bồ Đào Nha",
+     "note": "au Portugal",
+     "accept": [
+      "Portugal",
+      "le Portugal"
+     ],
+     "typeable": true,
+     "audioText": "le Portugal",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-bresil",
+     "fr": "le Brésil",
+     "forms": [
+      "le Brésil"
+     ],
+     "pos": "np m",
+     "posGroup": "noun",
+     "gender": "np m",
+     "vi": "Brazil",
+     "viMain": "Brazil",
+     "note": "au Brésil",
+     "accept": [
+      "Brésil",
+      "le Brésil"
+     ],
+     "typeable": true,
+     "audioText": "le Brésil",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-australie",
+     "fr": "l'Australie",
+     "forms": [
+      "l'Australie"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Úc",
+     "viMain": "Úc",
+     "note": "en Australie",
+     "accept": [
+      "Australie",
+      "l'Australie"
+     ],
+     "typeable": true,
+     "audioText": "l'Australie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-maroc",
+     "fr": "le Maroc",
+     "forms": [
+      "le Maroc"
+     ],
+     "pos": "np m",
+     "posGroup": "noun",
+     "gender": "np m",
+     "vi": "Ma-rốc",
+     "viMain": "Ma-rốc",
+     "note": "au Maroc",
+     "accept": [
+      "Maroc",
+      "le Maroc"
+     ],
+     "typeable": true,
+     "audioText": "le Maroc",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-russie",
+     "fr": "la Russie",
+     "forms": [
+      "la Russie"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Nga",
+     "viMain": "Nga",
+     "note": "en Russie",
+     "accept": [
+      "Russie",
+      "la Russie"
+     ],
+     "typeable": true,
+     "audioText": "la Russie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-thailande",
+     "fr": "la Thaïlande",
+     "forms": [
+      "la Thaïlande"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "Thái Lan",
+     "viMain": "Thái Lan",
+     "note": "en Thaïlande",
+     "accept": [
+      "Thaïlande",
+      "la Thaïlande"
+     ],
+     "typeable": true,
+     "audioText": "la Thaïlande",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-capitale",
+     "fr": "la capitale",
+     "forms": [
+      "la capitale"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thủ đô",
+     "viMain": "thủ đô",
+     "note": "",
+     "accept": [
+      "capitale",
+      "la capitale"
+     ],
+     "typeable": true,
+     "audioText": "la capitale",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t02-b7",
+   "title": "Ngôn ngữ",
+   "words": [
+    {
+     "id": "t02-la-langue",
+     "fr": "la langue",
+     "forms": [
+      "la langue"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ngôn ngữ",
+     "viMain": "ngôn ngữ",
+     "note": "",
+     "accept": [
+      "langue",
+      "la langue"
+     ],
+     "typeable": true,
+     "audioText": "la langue",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-parler",
+     "fr": "parler",
+     "forms": [
+      "parler"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "nói",
+     "viMain": "nói",
+     "note": "Je parle vietnamien.",
+     "accept": [
+      "parler"
+     ],
+     "typeable": true,
+     "audioText": "parler",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-francais",
+     "fr": "le français",
+     "forms": [
+      "le français"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Pháp",
+     "viMain": "tiếng Pháp",
+     "note": "tên ngôn ngữ luôn giống đực",
+     "accept": [
+      "français",
+      "le français"
+     ],
+     "typeable": true,
+     "audioText": "le français",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-anglais",
+     "fr": "l'anglais",
+     "forms": [
+      "l'anglais"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Anh",
+     "viMain": "tiếng Anh",
+     "note": "",
+     "accept": [
+      "anglais",
+      "l'anglais"
+     ],
+     "typeable": true,
+     "audioText": "l'anglais",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-vietnamien",
+     "fr": "le vietnamien",
+     "forms": [
+      "le vietnamien"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Việt",
+     "viMain": "tiếng Việt",
+     "note": "",
+     "accept": [
+      "vietnamien",
+      "le vietnamien"
+     ],
+     "typeable": true,
+     "audioText": "le vietnamien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-chinois",
+     "fr": "le chinois",
+     "forms": [
+      "le chinois"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Trung",
+     "viMain": "tiếng Trung",
+     "note": "",
+     "accept": [
+      "chinois",
+      "le chinois"
+     ],
+     "typeable": true,
+     "audioText": "le chinois",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-japonais",
+     "fr": "le japonais",
+     "forms": [
+      "le japonais"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Nhật",
+     "viMain": "tiếng Nhật",
+     "note": "",
+     "accept": [
+      "japonais",
+      "le japonais"
+     ],
+     "typeable": true,
+     "audioText": "le japonais",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-le-coreen",
+     "fr": "le coréen",
+     "forms": [
+      "le coréen"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Hàn",
+     "viMain": "tiếng Hàn",
+     "note": "",
+     "accept": [
+      "coréen",
+      "le coréen"
+     ],
+     "typeable": true,
+     "audioText": "le coréen",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-espagnol",
+     "fr": "l'espagnol",
+     "forms": [
+      "l'espagnol"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Tây Ban Nha",
+     "viMain": "tiếng Tây Ban Nha",
+     "note": "",
+     "accept": [
+      "espagnol",
+      "l'espagnol"
+     ],
+     "typeable": true,
+     "audioText": "l'espagnol",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-allemand",
+     "fr": "l'allemand",
+     "forms": [
+      "l'allemand"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Đức",
+     "viMain": "tiếng Đức",
+     "note": "",
+     "accept": [
+      "allemand",
+      "l'allemand"
+     ],
+     "typeable": true,
+     "audioText": "l'allemand",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-italien",
+     "fr": "l'italien",
+     "forms": [
+      "l'italien"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiếng Ý",
+     "viMain": "tiếng Ý",
+     "note": "",
+     "accept": [
+      "italien",
+      "l'italien"
+     ],
+     "typeable": true,
+     "audioText": "l'italien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-langue-etrangere",
+     "fr": "la langue étrangère",
+     "forms": [
+      "la langue étrangère"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ngoại ngữ",
+     "viMain": "ngoại ngữ",
+     "note": "",
+     "accept": [
+      "langue étrangère",
+      "la langue étrangère"
+     ],
+     "typeable": true,
+     "audioText": "la langue étrangère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t02-b8",
+   "title": "Châu lục, địa lý cơ bản",
+   "words": [
+    {
+     "id": "t02-l-europe",
+     "fr": "l'Europe",
+     "forms": [
+      "l'Europe"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "châu Âu",
+     "viMain": "châu Âu",
+     "note": "en Europe",
+     "accept": [
+      "Europe",
+      "l'Europe"
+     ],
+     "typeable": true,
+     "audioText": "l'Europe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-asie",
+     "fr": "l'Asie",
+     "forms": [
+      "l'Asie"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "châu Á",
+     "viMain": "châu Á",
+     "note": "en Asie",
+     "accept": [
+      "Asie",
+      "l'Asie"
+     ],
+     "typeable": true,
+     "audioText": "l'Asie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-afrique",
+     "fr": "l'Afrique",
+     "forms": [
+      "l'Afrique"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "châu Phi",
+     "viMain": "châu Phi",
+     "note": "en Afrique",
+     "accept": [
+      "Afrique",
+      "l'Afrique"
+     ],
+     "typeable": true,
+     "audioText": "l'Afrique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-amerique",
+     "fr": "l'Amérique",
+     "forms": [
+      "l'Amérique"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "châu Mỹ",
+     "viMain": "châu Mỹ",
+     "note": "en Amérique",
+     "accept": [
+      "Amérique",
+      "l'Amérique"
+     ],
+     "typeable": true,
+     "audioText": "l'Amérique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-oceanie",
+     "fr": "l'Océanie",
+     "forms": [
+      "l'Océanie"
+     ],
+     "pos": "np f",
+     "posGroup": "noun",
+     "gender": "np f",
+     "vi": "châu Đại Dương",
+     "viMain": "châu Đại Dương",
+     "note": "en Océanie",
+     "accept": [
+      "Océanie",
+      "l'Océanie"
+     ],
+     "typeable": true,
+     "audioText": "l'Océanie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-la-frontiere",
+     "fr": "la frontière",
+     "forms": [
+      "la frontière"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "biên giới",
+     "viMain": "biên giới",
+     "note": "",
+     "accept": [
+      "frontière",
+      "la frontière"
+     ],
+     "typeable": true,
+     "audioText": "la frontière",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t02-l-habitant",
+     "fr": "l'habitant",
+     "forms": [
+      "l'habitant"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cư dân",
+     "viMain": "cư dân",
+     "note": "",
+     "accept": [
+      "habitant",
+      "l'habitant"
+     ],
+     "typeable": true,
+     "audioText": "l'habitant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "_ghi_chu": "Các nhóm từ dễ nhầm đáp án. Mọi mục trong cùng một nhóm không được xuất hiện cùng nhau trong một câu trắc nghiệm. Mỗi mục viết đúng như cột Tiếng Pháp trong xlsx (không phân biệt hoa thường).",
+  "groups": [
+    {"id": "c01", "items": ["pardon", "excusez-moi", "désolé / désolée", "s'excuser"]},
+    {"id": "c02", "items": ["de rien", "je vous en prie", "ce n'est rien"]},
+    {"id": "c03", "items": ["le médecin", "le docteur"]},
+    {"id": "c04", "items": ["vivre", "habiter"]},
+    {"id": "c05", "items": ["anglais / anglaise", "britannique", "l'Angleterre", "la Grande-Bretagne"]}
+  ]
+}

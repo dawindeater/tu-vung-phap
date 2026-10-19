@@ -1,0 +1,1897 @@
+{
+ "id": 8,
+ "vi": "Thành phố, chỉ đường, giao thông",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t08-b1",
+   "title": "Thành phố, khu phố · Ga, bến, sân bay",
+   "words": [
+    {
+     "id": "t08-la-ville",
+     "fr": "la ville",
+     "forms": [
+      "la ville"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thành phố",
+     "viMain": "thành phố",
+     "note": "",
+     "accept": [
+      "ville",
+      "la ville"
+     ],
+     "typeable": true,
+     "audioText": "la ville",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-village",
+     "fr": "le village",
+     "forms": [
+      "le village"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "làng",
+     "viMain": "làng",
+     "note": "",
+     "accept": [
+      "village",
+      "le village"
+     ],
+     "typeable": true,
+     "audioText": "le village",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-campagne",
+     "fr": "la campagne",
+     "forms": [
+      "la campagne"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nông thôn",
+     "viMain": "nông thôn",
+     "note": "",
+     "accept": [
+      "campagne",
+      "la campagne"
+     ],
+     "typeable": true,
+     "audioText": "la campagne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-quartier",
+     "fr": "le quartier",
+     "forms": [
+      "le quartier"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "khu phố",
+     "viMain": "khu phố",
+     "note": "",
+     "accept": [
+      "quartier",
+      "le quartier"
+     ],
+     "typeable": true,
+     "audioText": "le quartier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-rue",
+     "fr": "la rue",
+     "forms": [
+      "la rue"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "con đường, phố",
+     "viMain": "con đường, phố",
+     "note": "",
+     "accept": [
+      "rue",
+      "la rue"
+     ],
+     "typeable": true,
+     "audioText": "la rue",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-place",
+     "fr": "la place",
+     "forms": [
+      "la place"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "quảng trường",
+     "viMain": "quảng trường",
+     "note": "",
+     "accept": [
+      "place",
+      "la place"
+     ],
+     "typeable": true,
+     "audioText": "la place",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-centre-ville",
+     "fr": "le centre-ville",
+     "forms": [
+      "le centre-ville"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trung tâm thành phố",
+     "viMain": "trung tâm thành phố",
+     "note": "",
+     "accept": [
+      "centre-ville",
+      "le centre-ville"
+     ],
+     "typeable": true,
+     "audioText": "le centre-ville",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-gare",
+     "fr": "la gare",
+     "forms": [
+      "la gare"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ga tàu",
+     "viMain": "ga tàu",
+     "note": "",
+     "accept": [
+      "gare",
+      "la gare"
+     ],
+     "typeable": true,
+     "audioText": "la gare",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-station-de-metro",
+     "fr": "la station de métro",
+     "forms": [
+      "la station de métro"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ga tàu điện ngầm",
+     "viMain": "ga tàu điện ngầm",
+     "note": "",
+     "accept": [
+      "station de métro",
+      "la station de métro"
+     ],
+     "typeable": true,
+     "audioText": "la station de métro",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-arret-de-bus",
+     "fr": "l'arrêt de bus",
+     "forms": [
+      "l'arrêt de bus"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trạm xe buýt",
+     "viMain": "trạm xe buýt",
+     "note": "",
+     "accept": [
+      "arrêt de bus",
+      "l'arrêt de bus"
+     ],
+     "typeable": true,
+     "audioText": "l'arrêt de bus",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-aeroport",
+     "fr": "l'aéroport",
+     "forms": [
+      "l'aéroport"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sân bay",
+     "viMain": "sân bay",
+     "note": "",
+     "accept": [
+      "aéroport",
+      "l'aéroport"
+     ],
+     "typeable": true,
+     "audioText": "l'aéroport",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-quai",
+     "fr": "le quai",
+     "forms": [
+      "le quai"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sân ga; bến",
+     "viMain": "sân ga",
+     "note": "",
+     "accept": [
+      "quai",
+      "le quai"
+     ],
+     "typeable": true,
+     "audioText": "le quai",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-guichet",
+     "fr": "le guichet",
+     "forms": [
+      "le guichet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quầy bán vé",
+     "viMain": "quầy bán vé",
+     "note": "",
+     "accept": [
+      "guichet",
+      "le guichet"
+     ],
+     "typeable": true,
+     "audioText": "le guichet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t08-b2",
+   "title": "Địa điểm, cửa hàng",
+   "words": [
+    {
+     "id": "t08-la-poste",
+     "fr": "la poste",
+     "forms": [
+      "la poste"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bưu điện",
+     "viMain": "bưu điện",
+     "note": "",
+     "accept": [
+      "poste",
+      "la poste"
+     ],
+     "typeable": true,
+     "audioText": "la poste",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-banque",
+     "fr": "la banque",
+     "forms": [
+      "la banque"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ngân hàng",
+     "viMain": "ngân hàng",
+     "note": "",
+     "accept": [
+      "banque",
+      "la banque"
+     ],
+     "typeable": true,
+     "audioText": "la banque",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-pharmacie",
+     "fr": "la pharmacie",
+     "forms": [
+      "la pharmacie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "hiệu thuốc",
+     "viMain": "hiệu thuốc",
+     "note": "",
+     "accept": [
+      "pharmacie",
+      "la pharmacie"
+     ],
+     "typeable": true,
+     "audioText": "la pharmacie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-hopital",
+     "fr": "l'hôpital",
+     "forms": [
+      "l'hôpital"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bệnh viện",
+     "viMain": "bệnh viện",
+     "note": "",
+     "accept": [
+      "hôpital",
+      "l'hôpital"
+     ],
+     "typeable": true,
+     "audioText": "l'hôpital",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-ecole",
+     "fr": "l'école",
+     "forms": [
+      "l'école"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "trường học",
+     "viMain": "trường học",
+     "note": "",
+     "accept": [
+      "école",
+      "l'école"
+     ],
+     "typeable": true,
+     "audioText": "l'école",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-boulangerie",
+     "fr": "la boulangerie",
+     "forms": [
+      "la boulangerie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tiệm bánh mì",
+     "viMain": "tiệm bánh mì",
+     "note": "",
+     "accept": [
+      "boulangerie",
+      "la boulangerie"
+     ],
+     "typeable": true,
+     "audioText": "la boulangerie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-supermarche",
+     "fr": "le supermarché",
+     "forms": [
+      "le supermarché"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "siêu thị",
+     "viMain": "siêu thị",
+     "note": "",
+     "accept": [
+      "supermarché",
+      "le supermarché"
+     ],
+     "typeable": true,
+     "audioText": "le supermarché",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-marche",
+     "fr": "le marché",
+     "forms": [
+      "le marché"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chợ",
+     "viMain": "chợ",
+     "note": "",
+     "accept": [
+      "marché",
+      "le marché"
+     ],
+     "typeable": true,
+     "audioText": "le marché",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-restaurant",
+     "fr": "le restaurant",
+     "forms": [
+      "le restaurant"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "nhà hàng",
+     "viMain": "nhà hàng",
+     "note": "",
+     "accept": [
+      "restaurant",
+      "le restaurant"
+     ],
+     "typeable": true,
+     "audioText": "le restaurant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-cafe",
+     "fr": "le café",
+     "forms": [
+      "le café"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quán cà phê",
+     "viMain": "quán cà phê",
+     "note": "còn nghĩa \"cà phê\" (đồ uống): xem chủ đề 10",
+     "accept": [
+      "café",
+      "le café"
+     ],
+     "typeable": true,
+     "audioText": "le café",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-musee",
+     "fr": "le musée",
+     "forms": [
+      "le musée"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bảo tàng",
+     "viMain": "bảo tàng",
+     "note": "",
+     "accept": [
+      "musée",
+      "le musée"
+     ],
+     "typeable": true,
+     "audioText": "le musée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-cinema",
+     "fr": "le cinéma",
+     "forms": [
+      "le cinéma"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "rạp chiếu phim",
+     "viMain": "rạp chiếu phim",
+     "note": "",
+     "accept": [
+      "cinéma",
+      "le cinéma"
+     ],
+     "typeable": true,
+     "audioText": "le cinéma",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-parc",
+     "fr": "le parc",
+     "forms": [
+      "le parc"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "công viên",
+     "viMain": "công viên",
+     "note": "",
+     "accept": [
+      "parc",
+      "le parc"
+     ],
+     "typeable": true,
+     "audioText": "le parc",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-mairie",
+     "fr": "la mairie",
+     "forms": [
+      "la mairie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tòa thị chính",
+     "viMain": "tòa thị chính",
+     "note": "",
+     "accept": [
+      "mairie",
+      "la mairie"
+     ],
+     "typeable": true,
+     "audioText": "la mairie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-pont",
+     "fr": "le pont",
+     "forms": [
+      "le pont"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cây cầu",
+     "viMain": "cây cầu",
+     "note": "",
+     "accept": [
+      "pont",
+      "le pont"
+     ],
+     "typeable": true,
+     "audioText": "le pont",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-cathedrale",
+     "fr": "la cathédrale",
+     "forms": [
+      "la cathédrale"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nhà thờ lớn",
+     "viMain": "nhà thờ lớn",
+     "note": "",
+     "accept": [
+      "cathédrale",
+      "la cathédrale"
+     ],
+     "typeable": true,
+     "audioText": "la cathédrale",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-chateau",
+     "fr": "le château",
+     "forms": [
+      "le château"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "lâu đài",
+     "viMain": "lâu đài",
+     "note": "",
+     "accept": [
+      "château",
+      "le château"
+     ],
+     "typeable": true,
+     "audioText": "le château",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t08-b3",
+   "title": "Chỉ đường (1/2)",
+   "words": [
+    {
+     "id": "t08-a-droite",
+     "fr": "à droite",
+     "forms": [
+      "à droite"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "bên phải; rẽ phải",
+     "viMain": "bên phải",
+     "note": "",
+     "accept": [
+      "à droite"
+     ],
+     "typeable": true,
+     "audioText": "à droite",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-a-gauche",
+     "fr": "à gauche",
+     "forms": [
+      "à gauche"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "bên trái; rẽ trái",
+     "viMain": "bên trái",
+     "note": "",
+     "accept": [
+      "à gauche"
+     ],
+     "typeable": true,
+     "audioText": "à gauche",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-tout-droit",
+     "fr": "tout droit",
+     "forms": [
+      "tout droit"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đi thẳng",
+     "viMain": "đi thẳng",
+     "note": "",
+     "accept": [
+      "tout droit"
+     ],
+     "typeable": true,
+     "audioText": "tout droit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-tourner",
+     "fr": "tourner",
+     "forms": [
+      "tourner"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "rẽ",
+     "viMain": "rẽ",
+     "note": "",
+     "accept": [
+      "tourner"
+     ],
+     "typeable": true,
+     "audioText": "tourner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-traverser",
+     "fr": "traverser",
+     "forms": [
+      "traverser"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "băng qua",
+     "viMain": "băng qua",
+     "note": "",
+     "accept": [
+      "traverser"
+     ],
+     "typeable": true,
+     "audioText": "traverser",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-continuer",
+     "fr": "continuer",
+     "forms": [
+      "continuer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "tiếp tục",
+     "viMain": "tiếp tục",
+     "note": "",
+     "accept": [
+      "continuer"
+     ],
+     "typeable": true,
+     "audioText": "continuer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-pres-de",
+     "fr": "près de",
+     "forms": [
+      "près de"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "gần",
+     "viMain": "gần",
+     "note": "",
+     "accept": [
+      "près de"
+     ],
+     "typeable": true,
+     "audioText": "près de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-loin-de",
+     "fr": "loin de",
+     "forms": [
+      "loin de"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "xa",
+     "viMain": "xa",
+     "note": "",
+     "accept": [
+      "loin de"
+     ],
+     "typeable": true,
+     "audioText": "loin de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-a-cote-de",
+     "fr": "à côté de",
+     "forms": [
+      "à côté de"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "bên cạnh",
+     "viMain": "bên cạnh",
+     "note": "",
+     "accept": [
+      "à côté de"
+     ],
+     "typeable": true,
+     "audioText": "à côté de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-en-face-de",
+     "fr": "en face de",
+     "forms": [
+      "en face de"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "đối diện",
+     "viMain": "đối diện",
+     "note": "",
+     "accept": [
+      "en face de"
+     ],
+     "typeable": true,
+     "audioText": "en face de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t08-b4",
+   "title": "Chỉ đường (2/2)",
+   "words": [
+    {
+     "id": "t08-devant",
+     "fr": "devant",
+     "forms": [
+      "devant"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "phía trước",
+     "viMain": "phía trước",
+     "note": "",
+     "accept": [
+      "devant"
+     ],
+     "typeable": true,
+     "audioText": "devant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-derriere",
+     "fr": "derrière",
+     "forms": [
+      "derrière"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "phía sau",
+     "viMain": "phía sau",
+     "note": "",
+     "accept": [
+      "derrière"
+     ],
+     "typeable": true,
+     "audioText": "derrière",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-au-coin-de",
+     "fr": "au coin de",
+     "forms": [
+      "au coin de"
+     ],
+     "pos": "prép",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "ở góc (đường)",
+     "viMain": "ở góc (đường)",
+     "note": "",
+     "accept": [
+      "au coin de"
+     ],
+     "typeable": true,
+     "audioText": "au coin de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-feu-rouge",
+     "fr": "le feu rouge",
+     "forms": [
+      "le feu rouge"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đèn đỏ",
+     "viMain": "đèn đỏ",
+     "note": "",
+     "accept": [
+      "feu rouge",
+      "le feu rouge"
+     ],
+     "typeable": true,
+     "audioText": "le feu rouge",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-trottoir",
+     "fr": "le trottoir",
+     "forms": [
+      "le trottoir"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "vỉa hè",
+     "viMain": "vỉa hè",
+     "note": "",
+     "accept": [
+      "trottoir",
+      "le trottoir"
+     ],
+     "typeable": true,
+     "audioText": "le trottoir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-ou-est",
+     "fr": "Où est … ?",
+     "forms": [
+      "Où est … ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "… ở đâu?",
+     "viMain": "… ở đâu?",
+     "note": "",
+     "accept": [
+      "Où est … ?"
+     ],
+     "typeable": false,
+     "audioText": "Où est ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-c-est-loin",
+     "fr": "C'est loin ?",
+     "forms": [
+      "C'est loin ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Có xa không?",
+     "viMain": "Có xa không?",
+     "note": "",
+     "accept": [
+      "C'est loin ?"
+     ],
+     "typeable": false,
+     "audioText": "C'est loin ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-carrefour",
+     "fr": "le carrefour",
+     "forms": [
+      "le carrefour"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ngã tư",
+     "viMain": "ngã tư",
+     "note": "",
+     "accept": [
+      "carrefour",
+      "le carrefour"
+     ],
+     "typeable": true,
+     "audioText": "le carrefour",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-suivre",
+     "fr": "suivre",
+     "forms": [
+      "suivre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đi theo",
+     "viMain": "đi theo",
+     "note": "",
+     "accept": [
+      "suivre"
+     ],
+     "typeable": true,
+     "audioText": "suivre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t08-b5",
+   "title": "Phương tiện",
+   "words": [
+    {
+     "id": "t08-le-bus",
+     "fr": "le bus",
+     "forms": [
+      "le bus"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "xe buýt",
+     "viMain": "xe buýt",
+     "note": "",
+     "accept": [
+      "bus",
+      "le bus"
+     ],
+     "typeable": true,
+     "audioText": "le bus",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-metro",
+     "fr": "le métro",
+     "forms": [
+      "le métro"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tàu điện ngầm",
+     "viMain": "tàu điện ngầm",
+     "note": "",
+     "accept": [
+      "métro",
+      "le métro"
+     ],
+     "typeable": true,
+     "audioText": "le métro",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-train",
+     "fr": "le train",
+     "forms": [
+      "le train"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tàu hỏa",
+     "viMain": "tàu hỏa",
+     "note": "",
+     "accept": [
+      "train",
+      "le train"
+     ],
+     "typeable": true,
+     "audioText": "le train",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-voiture",
+     "fr": "la voiture",
+     "forms": [
+      "la voiture"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ô tô",
+     "viMain": "ô tô",
+     "note": "",
+     "accept": [
+      "voiture",
+      "la voiture"
+     ],
+     "typeable": true,
+     "audioText": "la voiture",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-velo",
+     "fr": "le vélo",
+     "forms": [
+      "le vélo"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "xe đạp",
+     "viMain": "xe đạp",
+     "note": "",
+     "accept": [
+      "vélo",
+      "le vélo"
+     ],
+     "typeable": true,
+     "audioText": "le vélo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-moto",
+     "fr": "la moto",
+     "forms": [
+      "la moto"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "xe máy; mô tô",
+     "viMain": "xe máy",
+     "note": "",
+     "accept": [
+      "moto",
+      "la moto"
+     ],
+     "typeable": true,
+     "audioText": "la moto",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-avion",
+     "fr": "l'avion",
+     "forms": [
+      "l'avion"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "máy bay",
+     "viMain": "máy bay",
+     "note": "",
+     "accept": [
+      "avion",
+      "l'avion"
+     ],
+     "typeable": true,
+     "audioText": "l'avion",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-taxi",
+     "fr": "le taxi",
+     "forms": [
+      "le taxi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "taxi",
+     "viMain": "taxi",
+     "note": "",
+     "accept": [
+      "taxi",
+      "le taxi"
+     ],
+     "typeable": true,
+     "audioText": "le taxi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-tram",
+     "fr": "le tram",
+     "forms": [
+      "le tram"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tàu điện mặt đất",
+     "viMain": "tàu điện mặt đất",
+     "note": "",
+     "accept": [
+      "tram",
+      "le tram"
+     ],
+     "typeable": true,
+     "audioText": "le tram",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-tgv",
+     "fr": "le TGV",
+     "forms": [
+      "le TGV"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tàu cao tốc TGV",
+     "viMain": "tàu cao tốc TGV",
+     "note": "",
+     "accept": [
+      "TGV",
+      "le TGV"
+     ],
+     "typeable": true,
+     "audioText": "le TGV",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-bateau",
+     "fr": "le bateau",
+     "forms": [
+      "le bateau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tàu thuyền",
+     "viMain": "tàu thuyền",
+     "note": "",
+     "accept": [
+      "bateau",
+      "le bateau"
+     ],
+     "typeable": true,
+     "audioText": "le bateau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-camion",
+     "fr": "le camion",
+     "forms": [
+      "le camion"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "xe tải",
+     "viMain": "xe tải",
+     "note": "",
+     "accept": [
+      "camion",
+      "le camion"
+     ],
+     "typeable": true,
+     "audioText": "le camion",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t08-b6",
+   "title": "Vé, lộ trình · Di chuyển (động từ)",
+   "words": [
+    {
+     "id": "t08-le-billet",
+     "fr": "le billet",
+     "forms": [
+      "le billet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "vé (tàu, máy bay)",
+     "viMain": "vé (tàu, máy bay)",
+     "note": "",
+     "accept": [
+      "billet",
+      "le billet"
+     ],
+     "typeable": true,
+     "audioText": "le billet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-a-pied",
+     "fr": "à pied",
+     "forms": [
+      "à pied"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đi bộ",
+     "viMain": "đi bộ",
+     "note": "",
+     "accept": [
+      "à pied"
+     ],
+     "typeable": true,
+     "audioText": "à pied",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-prendre-le-bus",
+     "fr": "prendre le bus",
+     "forms": [
+      "prendre le bus"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đi xe buýt",
+     "viMain": "đi xe buýt",
+     "note": "",
+     "accept": [
+      "prendre le bus"
+     ],
+     "typeable": true,
+     "audioText": "prendre le bus",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-ticket",
+     "fr": "le ticket",
+     "forms": [
+      "le ticket"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "vé (xe buýt, tàu điện)",
+     "viMain": "vé (xe buýt, tàu điện)",
+     "note": "",
+     "accept": [
+      "ticket",
+      "le ticket"
+     ],
+     "typeable": true,
+     "audioText": "le ticket",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-aller-retour",
+     "fr": "l'aller-retour",
+     "forms": [
+      "l'aller-retour"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "vé khứ hồi",
+     "viMain": "vé khứ hồi",
+     "note": "",
+     "accept": [
+      "aller-retour",
+      "l'aller-retour"
+     ],
+     "typeable": true,
+     "audioText": "l'aller-retour",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-trajet",
+     "fr": "le trajet",
+     "forms": [
+      "le trajet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chặng đường",
+     "viMain": "chặng đường",
+     "note": "",
+     "accept": [
+      "trajet",
+      "le trajet"
+     ],
+     "typeable": true,
+     "audioText": "le trajet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-itineraire",
+     "fr": "l'itinéraire",
+     "forms": [
+      "l'itinéraire"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "lộ trình",
+     "viMain": "lộ trình",
+     "note": "",
+     "accept": [
+      "itinéraire",
+      "l'itinéraire"
+     ],
+     "typeable": true,
+     "audioText": "l'itinéraire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-vol",
+     "fr": "le vol",
+     "forms": [
+      "le vol"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chuyến bay",
+     "viMain": "chuyến bay",
+     "note": "",
+     "accept": [
+      "vol",
+      "le vol"
+     ],
+     "typeable": true,
+     "audioText": "le vol",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-depart",
+     "fr": "le départ",
+     "forms": [
+      "le départ"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sự khởi hành; giờ đi",
+     "viMain": "sự khởi hành",
+     "note": "",
+     "accept": [
+      "départ",
+      "le départ"
+     ],
+     "typeable": true,
+     "audioText": "le départ",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-aller",
+     "fr": "aller",
+     "forms": [
+      "aller"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đi",
+     "viMain": "đi",
+     "note": "",
+     "accept": [
+      "aller"
+     ],
+     "typeable": true,
+     "audioText": "aller",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-arriver",
+     "fr": "arriver",
+     "forms": [
+      "arriver"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đến",
+     "viMain": "đến",
+     "note": "",
+     "accept": [
+      "arriver"
+     ],
+     "typeable": true,
+     "audioText": "arriver",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-partir",
+     "fr": "partir",
+     "forms": [
+      "partir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đi, khởi hành",
+     "viMain": "đi, khởi hành",
+     "note": "",
+     "accept": [
+      "partir"
+     ],
+     "typeable": true,
+     "audioText": "partir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-monter",
+     "fr": "monter",
+     "forms": [
+      "monter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "lên (xe, tầng)",
+     "viMain": "lên (xe, tầng)",
+     "note": "",
+     "accept": [
+      "monter"
+     ],
+     "typeable": true,
+     "audioText": "monter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-descendre",
+     "fr": "descendre",
+     "forms": [
+      "descendre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "xuống",
+     "viMain": "xuống",
+     "note": "",
+     "accept": [
+      "descendre"
+     ],
+     "typeable": true,
+     "audioText": "descendre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t08-b7",
+   "title": "Đi ô tô · Phương hướng",
+   "words": [
+    {
+     "id": "t08-conduire",
+     "fr": "conduire",
+     "forms": [
+      "conduire"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "lái xe",
+     "viMain": "lái xe",
+     "note": "",
+     "accept": [
+      "conduire"
+     ],
+     "typeable": true,
+     "audioText": "conduire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-conducteur-la-conductrice",
+     "fr": "le conducteur / la conductrice",
+     "forms": [
+      "le conducteur",
+      "la conductrice"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người lái xe",
+     "viMain": "người lái xe",
+     "note": "",
+     "accept": [
+      "conducteur",
+      "le conducteur",
+      "conductrice",
+      "la conductrice"
+     ],
+     "typeable": true,
+     "audioText": "le conducteur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-route",
+     "fr": "la route",
+     "forms": [
+      "la route"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đường bộ",
+     "viMain": "đường bộ",
+     "note": "",
+     "accept": [
+      "route",
+      "la route"
+     ],
+     "typeable": true,
+     "audioText": "la route",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-autoroute",
+     "fr": "l'autoroute",
+     "forms": [
+      "l'autoroute"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đường cao tốc",
+     "viMain": "đường cao tốc",
+     "note": "",
+     "accept": [
+      "autoroute",
+      "l'autoroute"
+     ],
+     "typeable": true,
+     "audioText": "l'autoroute",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-essence",
+     "fr": "l'essence",
+     "forms": [
+      "l'essence"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "xăng",
+     "viMain": "xăng",
+     "note": "",
+     "accept": [
+      "essence",
+      "l'essence"
+     ],
+     "typeable": true,
+     "audioText": "l'essence",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-station-service",
+     "fr": "la station-service",
+     "forms": [
+      "la station-service"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "trạm xăng",
+     "viMain": "trạm xăng",
+     "note": "",
+     "accept": [
+      "station-service",
+      "la station-service"
+     ],
+     "typeable": true,
+     "audioText": "la station-service",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-panne",
+     "fr": "la panne",
+     "forms": [
+      "la panne"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "sự cố hỏng xe",
+     "viMain": "sự cố hỏng xe",
+     "note": "",
+     "accept": [
+      "panne",
+      "la panne"
+     ],
+     "typeable": true,
+     "audioText": "la panne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-parking",
+     "fr": "le parking",
+     "forms": [
+      "le parking"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bãi đỗ xe",
+     "viMain": "bãi đỗ xe",
+     "note": "",
+     "accept": [
+      "parking",
+      "le parking"
+     ],
+     "typeable": true,
+     "audioText": "le parking",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-kilometre",
+     "fr": "le kilomètre",
+     "forms": [
+      "le kilomètre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ki-lô-mét",
+     "viMain": "ki-lô-mét",
+     "note": "",
+     "accept": [
+      "kilomètre",
+      "le kilomètre"
+     ],
+     "typeable": true,
+     "audioText": "le kilomètre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-la-direction",
+     "fr": "la direction",
+     "forms": [
+      "la direction"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "hướng đi",
+     "viMain": "hướng đi",
+     "note": "",
+     "accept": [
+      "direction",
+      "la direction"
+     ],
+     "typeable": true,
+     "audioText": "la direction",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-nord",
+     "fr": "le nord",
+     "forms": [
+      "le nord"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phía bắc",
+     "viMain": "phía bắc",
+     "note": "",
+     "accept": [
+      "nord",
+      "le nord"
+     ],
+     "typeable": true,
+     "audioText": "le nord",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-le-sud",
+     "fr": "le sud",
+     "forms": [
+      "le sud"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phía nam",
+     "viMain": "phía nam",
+     "note": "",
+     "accept": [
+      "sud",
+      "le sud"
+     ],
+     "typeable": true,
+     "audioText": "le sud",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-est",
+     "fr": "l'est",
+     "forms": [
+      "l'est"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phía đông",
+     "viMain": "phía đông",
+     "note": "",
+     "accept": [
+      "est",
+      "l'est"
+     ],
+     "typeable": true,
+     "audioText": "l'est",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t08-l-ouest",
+     "fr": "l'ouest",
+     "forms": [
+      "l'ouest"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phía tây",
+     "viMain": "phía tây",
+     "note": "",
+     "accept": [
+      "ouest",
+      "l'ouest"
+     ],
+     "typeable": true,
+     "audioText": "l'ouest",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

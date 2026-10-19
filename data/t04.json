@@ -1,0 +1,1351 @@
+{
+ "id": 4,
+ "vi": "Gia đình",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t04-b1",
+   "title": "Gia đình hạt nhân",
+   "words": [
+    {
+     "id": "t04-la-famille",
+     "fr": "la famille",
+     "forms": [
+      "la famille"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "gia đình",
+     "viMain": "gia đình",
+     "note": "",
+     "accept": [
+      "famille",
+      "la famille"
+     ],
+     "typeable": true,
+     "audioText": "la famille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-les-parents",
+     "fr": "les parents",
+     "forms": [
+      "les parents"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "bố mẹ",
+     "viMain": "bố mẹ",
+     "note": "",
+     "accept": [
+      "parents",
+      "les parents"
+     ],
+     "typeable": true,
+     "audioText": "les parents",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-pere",
+     "fr": "le père",
+     "forms": [
+      "le père"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bố",
+     "viMain": "bố",
+     "note": "",
+     "accept": [
+      "père",
+      "le père"
+     ],
+     "typeable": true,
+     "audioText": "le père",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-mere",
+     "fr": "la mère",
+     "forms": [
+      "la mère"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "mẹ",
+     "viMain": "mẹ",
+     "note": "",
+     "accept": [
+      "mère",
+      "la mère"
+     ],
+     "typeable": true,
+     "audioText": "la mère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-papa",
+     "fr": "le papa",
+     "forms": [
+      "le papa"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ba, bố (thân mật)",
+     "viMain": "ba, bố (thân mật)",
+     "note": "",
+     "accept": [
+      "papa",
+      "le papa"
+     ],
+     "typeable": true,
+     "audioText": "le papa",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-maman",
+     "fr": "la maman",
+     "forms": [
+      "la maman"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "mẹ (thân mật)",
+     "viMain": "mẹ (thân mật)",
+     "note": "",
+     "accept": [
+      "maman",
+      "la maman"
+     ],
+     "typeable": true,
+     "audioText": "la maman",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-fils",
+     "fr": "le fils",
+     "forms": [
+      "le fils"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "con trai",
+     "viMain": "con trai",
+     "note": "",
+     "accept": [
+      "fils",
+      "le fils"
+     ],
+     "typeable": true,
+     "audioText": "le fils",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-fille",
+     "fr": "la fille",
+     "forms": [
+      "la fille"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "con gái; cô gái",
+     "viMain": "con gái",
+     "note": "",
+     "accept": [
+      "fille",
+      "la fille"
+     ],
+     "typeable": true,
+     "audioText": "la fille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-l-enfant",
+     "fr": "l'enfant",
+     "forms": [
+      "l'enfant"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "đứa trẻ; con",
+     "viMain": "đứa trẻ",
+     "note": "",
+     "accept": [
+      "enfant",
+      "l'enfant"
+     ],
+     "typeable": true,
+     "audioText": "l'enfant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-frere",
+     "fr": "le frère",
+     "forms": [
+      "le frère"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "anh/em trai",
+     "viMain": "anh/em trai",
+     "note": "",
+     "accept": [
+      "frère",
+      "le frère"
+     ],
+     "typeable": true,
+     "audioText": "le frère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-soeur",
+     "fr": "la sœur",
+     "forms": [
+      "la sœur"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chị/em gái",
+     "viMain": "chị/em gái",
+     "note": "",
+     "accept": [
+      "sœur",
+      "la sœur"
+     ],
+     "typeable": true,
+     "audioText": "la sœur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-l-arbre-genealogique",
+     "fr": "l'arbre généalogique",
+     "forms": [
+      "l'arbre généalogique"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cây gia phả",
+     "viMain": "cây gia phả",
+     "note": "",
+     "accept": [
+      "arbre généalogique",
+      "l'arbre généalogique"
+     ],
+     "typeable": true,
+     "audioText": "l'arbre généalogique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t04-b2",
+   "title": "Ông bà, cháu · Họ hàng",
+   "words": [
+    {
+     "id": "t04-le-grand-pere",
+     "fr": "le grand-père",
+     "forms": [
+      "le grand-père"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ông",
+     "viMain": "ông",
+     "note": "",
+     "accept": [
+      "grand-père",
+      "le grand-père"
+     ],
+     "typeable": true,
+     "audioText": "le grand-père",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-grand-mere",
+     "fr": "la grand-mère",
+     "forms": [
+      "la grand-mère"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bà",
+     "viMain": "bà",
+     "note": "",
+     "accept": [
+      "grand-mère",
+      "la grand-mère"
+     ],
+     "typeable": true,
+     "audioText": "la grand-mère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-les-grands-parents",
+     "fr": "les grands-parents",
+     "forms": [
+      "les grands-parents"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "ông bà",
+     "viMain": "ông bà",
+     "note": "",
+     "accept": [
+      "grands-parents",
+      "les grands-parents"
+     ],
+     "typeable": true,
+     "audioText": "les grands-parents",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-petit-fils",
+     "fr": "le petit-fils",
+     "forms": [
+      "le petit-fils"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cháu trai (của ông bà)",
+     "viMain": "cháu trai (của ông bà)",
+     "note": "",
+     "accept": [
+      "petit-fils",
+      "le petit-fils"
+     ],
+     "typeable": true,
+     "audioText": "le petit-fils",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-petite-fille",
+     "fr": "la petite-fille",
+     "forms": [
+      "la petite-fille"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cháu gái (của ông bà)",
+     "viMain": "cháu gái (của ông bà)",
+     "note": "",
+     "accept": [
+      "petite-fille",
+      "la petite-fille"
+     ],
+     "typeable": true,
+     "audioText": "la petite-fille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-papi",
+     "fr": "le papi",
+     "forms": [
+      "le papi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ông (thân mật)",
+     "viMain": "ông (thân mật)",
+     "note": "thân mật",
+     "accept": [
+      "papi",
+      "le papi"
+     ],
+     "typeable": true,
+     "audioText": "le papi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-mamie",
+     "fr": "la mamie",
+     "forms": [
+      "la mamie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bà (thân mật)",
+     "viMain": "bà (thân mật)",
+     "note": "thân mật",
+     "accept": [
+      "mamie",
+      "la mamie"
+     ],
+     "typeable": true,
+     "audioText": "la mamie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-les-petits-enfants",
+     "fr": "les petits-enfants",
+     "forms": [
+      "les petits-enfants"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "các cháu (của ông bà)",
+     "viMain": "các cháu (của ông bà)",
+     "note": "",
+     "accept": [
+      "petits-enfants",
+      "les petits-enfants"
+     ],
+     "typeable": true,
+     "audioText": "les petits-enfants",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-l-oncle",
+     "fr": "l'oncle",
+     "forms": [
+      "l'oncle"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chú, bác, cậu",
+     "viMain": "chú, bác, cậu",
+     "note": "",
+     "accept": [
+      "oncle",
+      "l'oncle"
+     ],
+     "typeable": true,
+     "audioText": "l'oncle",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-tante",
+     "fr": "la tante",
+     "forms": [
+      "la tante"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cô, dì, bác gái",
+     "viMain": "cô, dì, bác gái",
+     "note": "",
+     "accept": [
+      "tante",
+      "la tante"
+     ],
+     "typeable": true,
+     "audioText": "la tante",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-cousin",
+     "fr": "le cousin",
+     "forms": [
+      "le cousin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "anh/em họ (nam)",
+     "viMain": "anh/em họ (nam)",
+     "note": "",
+     "accept": [
+      "cousin",
+      "le cousin"
+     ],
+     "typeable": true,
+     "audioText": "le cousin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-cousine",
+     "fr": "la cousine",
+     "forms": [
+      "la cousine"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chị/em họ (nữ)",
+     "viMain": "chị/em họ (nữ)",
+     "note": "",
+     "accept": [
+      "cousine",
+      "la cousine"
+     ],
+     "typeable": true,
+     "audioText": "la cousine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-neveu",
+     "fr": "le neveu",
+     "forms": [
+      "le neveu"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cháu trai (của cô, chú)",
+     "viMain": "cháu trai (của cô, chú)",
+     "note": "",
+     "accept": [
+      "neveu",
+      "le neveu"
+     ],
+     "typeable": true,
+     "audioText": "le neveu",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-niece",
+     "fr": "la nièce",
+     "forms": [
+      "la nièce"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cháu gái (của cô, chú)",
+     "viMain": "cháu gái (của cô, chú)",
+     "note": "",
+     "accept": [
+      "nièce",
+      "la nièce"
+     ],
+     "typeable": true,
+     "audioText": "la nièce",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-tonton",
+     "fr": "le tonton",
+     "forms": [
+      "le tonton"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chú/bác/cậu (thân mật)",
+     "viMain": "chú/bác/cậu (thân mật)",
+     "note": "thân mật",
+     "accept": [
+      "tonton",
+      "le tonton"
+     ],
+     "typeable": true,
+     "audioText": "le tonton",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-tatie",
+     "fr": "la tatie",
+     "forms": [
+      "la tatie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cô/dì (thân mật)",
+     "viMain": "cô/dì (thân mật)",
+     "note": "cũng nói: la tata",
+     "accept": [
+      "tatie",
+      "la tatie"
+     ],
+     "typeable": true,
+     "audioText": "la tatie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t04-b3",
+   "title": "Vợ chồng, nhà vợ/chồng",
+   "words": [
+    {
+     "id": "t04-le-mari",
+     "fr": "le mari",
+     "forms": [
+      "le mari"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chồng",
+     "viMain": "chồng",
+     "note": "",
+     "accept": [
+      "mari",
+      "le mari"
+     ],
+     "typeable": true,
+     "audioText": "le mari",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-femme",
+     "fr": "la femme",
+     "forms": [
+      "la femme"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "vợ; phụ nữ",
+     "viMain": "vợ",
+     "note": "ma femme = vợ tôi",
+     "accept": [
+      "femme",
+      "la femme"
+     ],
+     "typeable": true,
+     "audioText": "la femme",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-beau-pere",
+     "fr": "le beau-père",
+     "forms": [
+      "le beau-père"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bố chồng/bố vợ; bố dượng",
+     "viMain": "bố chồng/bố vợ",
+     "note": "",
+     "accept": [
+      "beau-père",
+      "le beau-père"
+     ],
+     "typeable": true,
+     "audioText": "le beau-père",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-belle-mere",
+     "fr": "la belle-mère",
+     "forms": [
+      "la belle-mère"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "mẹ chồng/mẹ vợ; mẹ kế",
+     "viMain": "mẹ chồng/mẹ vợ",
+     "note": "",
+     "accept": [
+      "belle-mère",
+      "la belle-mère"
+     ],
+     "typeable": true,
+     "audioText": "la belle-mère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-belle-fille",
+     "fr": "la belle-fille",
+     "forms": [
+      "la belle-fille"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "con dâu",
+     "viMain": "con dâu",
+     "note": "",
+     "accept": [
+      "belle-fille",
+      "la belle-fille"
+     ],
+     "typeable": true,
+     "audioText": "la belle-fille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-gendre",
+     "fr": "le gendre",
+     "forms": [
+      "le gendre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "con rể",
+     "viMain": "con rể",
+     "note": "",
+     "accept": [
+      "gendre",
+      "le gendre"
+     ],
+     "typeable": true,
+     "audioText": "le gendre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-les-beaux-parents",
+     "fr": "les beaux-parents",
+     "forms": [
+      "les beaux-parents"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "bố mẹ chồng/bố mẹ vợ",
+     "viMain": "bố mẹ chồng/bố mẹ vợ",
+     "note": "",
+     "accept": [
+      "beaux-parents",
+      "les beaux-parents"
+     ],
+     "typeable": true,
+     "audioText": "les beaux-parents",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-beau-frere",
+     "fr": "le beau-frère",
+     "forms": [
+      "le beau-frère"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "anh/em rể; anh/em vợ/chồng",
+     "viMain": "anh/em rể",
+     "note": "",
+     "accept": [
+      "beau-frère",
+      "le beau-frère"
+     ],
+     "typeable": true,
+     "audioText": "le beau-frère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-belle-soeur",
+     "fr": "la belle-sœur",
+     "forms": [
+      "la belle-sœur"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chị/em dâu; chị/em vợ/chồng",
+     "viMain": "chị/em dâu",
+     "note": "",
+     "accept": [
+      "belle-sœur",
+      "la belle-sœur"
+     ],
+     "typeable": true,
+     "audioText": "la belle-sœur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-compagnon-la-compagne",
+     "fr": "le compagnon / la compagne",
+     "forms": [
+      "le compagnon",
+      "la compagne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "bạn đời",
+     "viMain": "bạn đời",
+     "note": "",
+     "accept": [
+      "compagnon",
+      "le compagnon",
+      "compagne",
+      "la compagne"
+     ],
+     "typeable": true,
+     "audioText": "le compagnon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-couple",
+     "fr": "le couple",
+     "forms": [
+      "le couple"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cặp đôi",
+     "viMain": "cặp đôi",
+     "note": "",
+     "accept": [
+      "couple",
+      "le couple"
+     ],
+     "typeable": true,
+     "audioText": "le couple",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t04-b4",
+   "title": "Độ tuổi, các giai đoạn cuộc đời",
+   "words": [
+    {
+     "id": "t04-l-homme",
+     "fr": "l'homme",
+     "forms": [
+      "l'homme"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đàn ông",
+     "viMain": "đàn ông",
+     "note": "",
+     "accept": [
+      "homme",
+      "l'homme"
+     ],
+     "typeable": true,
+     "audioText": "l'homme",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-garcon",
+     "fr": "le garçon",
+     "forms": [
+      "le garçon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cậu bé; con trai",
+     "viMain": "cậu bé",
+     "note": "",
+     "accept": [
+      "garçon",
+      "le garçon"
+     ],
+     "typeable": true,
+     "audioText": "le garçon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-bebe",
+     "fr": "le bébé",
+     "forms": [
+      "le bébé"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "em bé",
+     "viMain": "em bé",
+     "note": "",
+     "accept": [
+      "bébé",
+      "le bébé"
+     ],
+     "typeable": true,
+     "audioText": "le bébé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-naitre",
+     "fr": "naître",
+     "forms": [
+      "naître"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "sinh ra",
+     "viMain": "sinh ra",
+     "note": "",
+     "accept": [
+      "naître"
+     ],
+     "typeable": true,
+     "audioText": "naître",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-jeune",
+     "fr": "jeune",
+     "forms": [
+      "jeune"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "trẻ",
+     "viMain": "trẻ",
+     "note": "",
+     "accept": [
+      "jeune"
+     ],
+     "typeable": true,
+     "audioText": "jeune",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-vieux-vieille",
+     "fr": "vieux / vieille",
+     "forms": [
+      "vieux",
+      "vieille"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "già; cũ",
+     "viMain": "già",
+     "note": "",
+     "accept": [
+      "vieux",
+      "vieille"
+     ],
+     "typeable": true,
+     "audioText": "vieux",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-personne",
+     "fr": "la personne",
+     "forms": [
+      "la personne"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "người",
+     "viMain": "người",
+     "note": "luôn giống cái, kể cả khi chỉ nam",
+     "accept": [
+      "personne",
+      "la personne"
+     ],
+     "typeable": true,
+     "audioText": "la personne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-l-adulte",
+     "fr": "l'adulte",
+     "forms": [
+      "l'adulte"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người lớn",
+     "viMain": "người lớn",
+     "note": "",
+     "accept": [
+      "adulte",
+      "l'adulte"
+     ],
+     "typeable": true,
+     "audioText": "l'adulte",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-l-adolescent-l-adolescente",
+     "fr": "l'adolescent / l'adolescente",
+     "forms": [
+      "l'adolescent",
+      "l'adolescente"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "thiếu niên",
+     "viMain": "thiếu niên",
+     "note": "",
+     "accept": [
+      "adolescent",
+      "l'adolescent",
+      "adolescente",
+      "l'adolescente"
+     ],
+     "typeable": true,
+     "audioText": "l'adolescent",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-la-personne-agee",
+     "fr": "la personne âgée",
+     "forms": [
+      "la personne âgée"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "người cao tuổi",
+     "viMain": "người cao tuổi",
+     "note": "\"âgé\" lịch sự hơn \"vieux\"",
+     "accept": [
+      "personne âgée",
+      "la personne âgée"
+     ],
+     "typeable": true,
+     "audioText": "la personne âgée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-age-agee",
+     "fr": "âgé / âgée",
+     "forms": [
+      "âgé",
+      "âgée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "lớn tuổi",
+     "viMain": "lớn tuổi",
+     "note": "",
+     "accept": [
+      "âgé",
+      "âgée"
+     ],
+     "typeable": true,
+     "audioText": "âgé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-l-enfance",
+     "fr": "l'enfance",
+     "forms": [
+      "l'enfance"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thời thơ ấu",
+     "viMain": "thời thơ ấu",
+     "note": "",
+     "accept": [
+      "enfance",
+      "l'enfance"
+     ],
+     "typeable": true,
+     "audioText": "l'enfance",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-grandir",
+     "fr": "grandir",
+     "forms": [
+      "grandir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "lớn lên",
+     "viMain": "lớn lên",
+     "note": "",
+     "accept": [
+      "grandir"
+     ],
+     "typeable": true,
+     "audioText": "grandir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-quel-age-as-tu",
+     "fr": "Quel âge as-tu ?",
+     "forms": [
+      "Quel âge as-tu ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Bạn bao nhiêu tuổi?",
+     "viMain": "Bạn bao nhiêu tuổi?",
+     "note": "trang trọng: Quel âge avez-vous ?",
+     "accept": [
+      "Quel âge as-tu ?"
+     ],
+     "typeable": false,
+     "audioText": "Quel âge as-tu ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t04-b5",
+   "title": "Bạn bè · Tình yêu, hôn nhân, sinh nhật",
+   "words": [
+    {
+     "id": "t04-l-ami-l-amie",
+     "fr": "l'ami / l'amie",
+     "forms": [
+      "l'ami",
+      "l'amie"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "bạn",
+     "viMain": "bạn",
+     "note": "",
+     "accept": [
+      "ami",
+      "l'ami",
+      "amie",
+      "l'amie"
+     ],
+     "typeable": true,
+     "audioText": "l'ami",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-copain-la-copine",
+     "fr": "le copain / la copine",
+     "forms": [
+      "le copain",
+      "la copine"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "bạn (thân mật)",
+     "viMain": "bạn (thân mật)",
+     "note": "thân mật",
+     "accept": [
+      "copain",
+      "le copain",
+      "copine",
+      "la copine"
+     ],
+     "typeable": true,
+     "audioText": "le copain",
+     "sameMeaningGroup": "sm-ban-than-mat",
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-petit-ami-la-petite-amie",
+     "fr": "le petit ami / la petite amie",
+     "forms": [
+      "le petit ami",
+      "la petite amie"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "bạn trai / bạn gái",
+     "viMain": "bạn trai / bạn gái",
+     "note": "",
+     "accept": [
+      "petit ami",
+      "le petit ami",
+      "petite amie",
+      "la petite amie"
+     ],
+     "typeable": true,
+     "audioText": "le petit ami",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-se-marier",
+     "fr": "se marier",
+     "forms": [
+      "se marier"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "kết hôn",
+     "viMain": "kết hôn",
+     "note": "",
+     "accept": [
+      "se marier"
+     ],
+     "typeable": true,
+     "audioText": "se marier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-mariage",
+     "fr": "le mariage",
+     "forms": [
+      "le mariage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đám cưới; hôn nhân",
+     "viMain": "đám cưới",
+     "note": "",
+     "accept": [
+      "mariage",
+      "le mariage"
+     ],
+     "typeable": true,
+     "audioText": "le mariage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-l-anniversaire",
+     "fr": "l'anniversaire",
+     "forms": [
+      "l'anniversaire"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sinh nhật",
+     "viMain": "sinh nhật",
+     "note": "",
+     "accept": [
+      "anniversaire",
+      "l'anniversaire"
+     ],
+     "typeable": true,
+     "audioText": "l'anniversaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-amoureux-amoureuse",
+     "fr": "amoureux / amoureuse",
+     "forms": [
+      "amoureux",
+      "amoureuse"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đang yêu",
+     "viMain": "đang yêu",
+     "note": "",
+     "accept": [
+      "amoureux",
+      "amoureuse"
+     ],
+     "typeable": true,
+     "audioText": "amoureux",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-le-divorce",
+     "fr": "le divorce",
+     "forms": [
+      "le divorce"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "việc ly hôn",
+     "viMain": "việc ly hôn",
+     "note": "",
+     "accept": [
+      "divorce",
+      "le divorce"
+     ],
+     "typeable": true,
+     "audioText": "le divorce",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t04-divorcer",
+     "fr": "divorcer",
+     "forms": [
+      "divorcer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ly hôn",
+     "viMain": "ly hôn",
+     "note": "",
+     "accept": [
+      "divorcer"
+     ],
+     "typeable": true,
+     "audioText": "divorcer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

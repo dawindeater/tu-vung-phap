@@ -1,0 +1,1224 @@
+{
+ "id": 6,
+ "vi": "Hoạt động hằng ngày",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t06-b1",
+   "title": "Buổi sáng, vệ sinh cá nhân · Bữa ăn",
+   "words": [
+    {
+     "id": "t06-se-reveiller",
+     "fr": "se réveiller",
+     "forms": [
+      "se réveiller"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thức dậy",
+     "viMain": "thức dậy",
+     "note": "động từ phản thân",
+     "accept": [
+      "se réveiller"
+     ],
+     "typeable": true,
+     "audioText": "se réveiller",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-lever",
+     "fr": "se lever",
+     "forms": [
+      "se lever"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ngủ dậy; đứng dậy",
+     "viMain": "ngủ dậy",
+     "note": "động từ phản thân",
+     "accept": [
+      "se lever"
+     ],
+     "typeable": true,
+     "audioText": "se lever",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-laver",
+     "fr": "se laver",
+     "forms": [
+      "se laver"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "tắm rửa; rửa mặt",
+     "viMain": "tắm rửa",
+     "note": "động từ phản thân",
+     "accept": [
+      "se laver"
+     ],
+     "typeable": true,
+     "audioText": "se laver",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-prendre-une-douche",
+     "fr": "prendre une douche",
+     "forms": [
+      "prendre une douche"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "tắm vòi sen",
+     "viMain": "tắm vòi sen",
+     "note": "",
+     "accept": [
+      "prendre une douche"
+     ],
+     "typeable": true,
+     "audioText": "prendre une douche",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-brosser-les-dents",
+     "fr": "se brosser les dents",
+     "forms": [
+      "se brosser les dents"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đánh răng",
+     "viMain": "đánh răng",
+     "note": "",
+     "accept": [
+      "se brosser les dents"
+     ],
+     "typeable": true,
+     "audioText": "se brosser les dents",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-s-habiller",
+     "fr": "s'habiller",
+     "forms": [
+      "s'habiller"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "mặc quần áo",
+     "viMain": "mặc quần áo",
+     "note": "động từ phản thân",
+     "accept": [
+      "s'habiller"
+     ],
+     "typeable": true,
+     "audioText": "s'habiller",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-maquiller",
+     "fr": "se maquiller",
+     "forms": [
+      "se maquiller"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "trang điểm",
+     "viMain": "trang điểm",
+     "note": "động từ phản thân",
+     "accept": [
+      "se maquiller"
+     ],
+     "typeable": true,
+     "audioText": "se maquiller",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-coiffer",
+     "fr": "se coiffer",
+     "forms": [
+      "se coiffer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "chải đầu",
+     "viMain": "chải đầu",
+     "note": "động từ phản thân",
+     "accept": [
+      "se coiffer"
+     ],
+     "typeable": true,
+     "audioText": "se coiffer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-laver-les-mains",
+     "fr": "se laver les mains",
+     "forms": [
+      "se laver les mains"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "rửa tay",
+     "viMain": "rửa tay",
+     "note": "",
+     "accept": [
+      "se laver les mains"
+     ],
+     "typeable": true,
+     "audioText": "se laver les mains",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-le-dentifrice",
+     "fr": "le dentifrice",
+     "forms": [
+      "le dentifrice"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "kem đánh răng",
+     "viMain": "kem đánh răng",
+     "note": "",
+     "accept": [
+      "dentifrice",
+      "le dentifrice"
+     ],
+     "typeable": true,
+     "audioText": "le dentifrice",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-le-petit-dejeuner",
+     "fr": "le petit déjeuner",
+     "forms": [
+      "le petit déjeuner"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bữa sáng",
+     "viMain": "bữa sáng",
+     "note": "",
+     "accept": [
+      "petit déjeuner",
+      "le petit déjeuner"
+     ],
+     "typeable": true,
+     "audioText": "le petit déjeuner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-dejeuner",
+     "fr": "déjeuner",
+     "forms": [
+      "déjeuner"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ăn trưa",
+     "viMain": "ăn trưa",
+     "note": "",
+     "accept": [
+      "déjeuner"
+     ],
+     "typeable": true,
+     "audioText": "déjeuner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-le-dejeuner",
+     "fr": "le déjeuner",
+     "forms": [
+      "le déjeuner"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bữa trưa",
+     "viMain": "bữa trưa",
+     "note": "",
+     "accept": [
+      "déjeuner",
+      "le déjeuner"
+     ],
+     "typeable": true,
+     "audioText": "le déjeuner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-diner",
+     "fr": "dîner",
+     "forms": [
+      "dîner"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ăn tối",
+     "viMain": "ăn tối",
+     "note": "",
+     "accept": [
+      "dîner"
+     ],
+     "typeable": true,
+     "audioText": "dîner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-le-diner",
+     "fr": "le dîner",
+     "forms": [
+      "le dîner"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bữa tối",
+     "viMain": "bữa tối",
+     "note": "",
+     "accept": [
+      "dîner",
+      "le dîner"
+     ],
+     "typeable": true,
+     "audioText": "le dîner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t06-b2",
+   "title": "Học, làm việc, giải trí (1/2)",
+   "words": [
+    {
+     "id": "t06-etudier",
+     "fr": "étudier",
+     "forms": [
+      "étudier"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "học",
+     "viMain": "học",
+     "note": "",
+     "accept": [
+      "étudier"
+     ],
+     "typeable": true,
+     "audioText": "étudier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-aller-a-l-ecole",
+     "fr": "aller à l'école",
+     "forms": [
+      "aller à l'école"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đi học",
+     "viMain": "đi học",
+     "note": "",
+     "accept": [
+      "aller à l'école"
+     ],
+     "typeable": true,
+     "audioText": "aller à l'école",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-aller-au-travail",
+     "fr": "aller au travail",
+     "forms": [
+      "aller au travail"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đi làm",
+     "viMain": "đi làm",
+     "note": "",
+     "accept": [
+      "aller au travail"
+     ],
+     "typeable": true,
+     "audioText": "aller au travail",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-rentrer",
+     "fr": "rentrer",
+     "forms": [
+      "rentrer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "về nhà",
+     "viMain": "về nhà",
+     "note": "",
+     "accept": [
+      "rentrer"
+     ],
+     "typeable": true,
+     "audioText": "rentrer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-reposer",
+     "fr": "se reposer",
+     "forms": [
+      "se reposer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "nghỉ ngơi",
+     "viMain": "nghỉ ngơi",
+     "note": "",
+     "accept": [
+      "se reposer"
+     ],
+     "typeable": true,
+     "audioText": "se reposer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-regarder-la-television",
+     "fr": "regarder la télévision",
+     "forms": [
+      "regarder la télévision"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "xem ti vi",
+     "viMain": "xem ti vi",
+     "note": "",
+     "accept": [
+      "regarder la télévision"
+     ],
+     "typeable": true,
+     "audioText": "regarder la télévision",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-lire",
+     "fr": "lire",
+     "forms": [
+      "lire"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đọc",
+     "viMain": "đọc",
+     "note": "",
+     "accept": [
+      "lire"
+     ],
+     "typeable": true,
+     "audioText": "lire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-ecouter-la-radio",
+     "fr": "écouter la radio",
+     "forms": [
+      "écouter la radio"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "nghe đài",
+     "viMain": "nghe đài",
+     "note": "",
+     "accept": [
+      "écouter la radio"
+     ],
+     "typeable": true,
+     "audioText": "écouter la radio",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-ecouter-de-la-musique",
+     "fr": "écouter de la musique",
+     "forms": [
+      "écouter de la musique"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "nghe nhạc",
+     "viMain": "nghe nhạc",
+     "note": "",
+     "accept": [
+      "écouter de la musique"
+     ],
+     "typeable": true,
+     "audioText": "écouter de la musique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-telephoner",
+     "fr": "téléphoner",
+     "forms": [
+      "téléphoner"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "gọi điện thoại",
+     "viMain": "gọi điện thoại",
+     "note": "",
+     "accept": [
+      "téléphoner"
+     ],
+     "typeable": true,
+     "audioText": "téléphoner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-promener",
+     "fr": "se promener",
+     "forms": [
+      "se promener"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đi dạo",
+     "viMain": "đi dạo",
+     "note": "động từ phản thân",
+     "accept": [
+      "se promener"
+     ],
+     "typeable": true,
+     "audioText": "se promener",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-commencer",
+     "fr": "commencer",
+     "forms": [
+      "commencer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "bắt đầu",
+     "viMain": "bắt đầu",
+     "note": "",
+     "accept": [
+      "commencer"
+     ],
+     "typeable": true,
+     "audioText": "commencer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t06-b3",
+   "title": "Học, làm việc, giải trí (2/2)",
+   "words": [
+    {
+     "id": "t06-finir",
+     "fr": "finir",
+     "forms": [
+      "finir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "kết thúc",
+     "viMain": "kết thúc",
+     "note": "",
+     "accept": [
+      "finir"
+     ],
+     "typeable": true,
+     "audioText": "finir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-ecrire",
+     "fr": "écrire",
+     "forms": [
+      "écrire"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "viết",
+     "viMain": "viết",
+     "note": "",
+     "accept": [
+      "écrire"
+     ],
+     "typeable": true,
+     "audioText": "écrire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-ouvrir",
+     "fr": "ouvrir",
+     "forms": [
+      "ouvrir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "mở",
+     "viMain": "mở",
+     "note": "",
+     "accept": [
+      "ouvrir"
+     ],
+     "typeable": true,
+     "audioText": "ouvrir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-fermer",
+     "fr": "fermer",
+     "forms": [
+      "fermer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đóng",
+     "viMain": "đóng",
+     "note": "",
+     "accept": [
+      "fermer"
+     ],
+     "typeable": true,
+     "audioText": "fermer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-allumer",
+     "fr": "allumer",
+     "forms": [
+      "allumer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "bật (đèn, ti vi)",
+     "viMain": "bật (đèn, ti vi)",
+     "note": "",
+     "accept": [
+      "allumer"
+     ],
+     "typeable": true,
+     "audioText": "allumer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-eteindre",
+     "fr": "éteindre",
+     "forms": [
+      "éteindre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "tắt",
+     "viMain": "tắt",
+     "note": "",
+     "accept": [
+      "éteindre"
+     ],
+     "typeable": true,
+     "audioText": "éteindre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-chercher",
+     "fr": "chercher",
+     "forms": [
+      "chercher"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "tìm; đón",
+     "viMain": "tìm",
+     "note": "",
+     "accept": [
+      "chercher"
+     ],
+     "typeable": true,
+     "audioText": "chercher",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-accompagner",
+     "fr": "accompagner",
+     "forms": [
+      "accompagner"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đi cùng; đưa đi",
+     "viMain": "đi cùng",
+     "note": "",
+     "accept": [
+      "accompagner"
+     ],
+     "typeable": true,
+     "audioText": "accompagner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-repondre",
+     "fr": "répondre",
+     "forms": [
+      "répondre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "trả lời",
+     "viMain": "trả lời",
+     "note": "",
+     "accept": [
+      "répondre"
+     ],
+     "typeable": true,
+     "audioText": "répondre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-le-journal",
+     "fr": "le journal",
+     "forms": [
+      "le journal"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "báo; bản tin",
+     "viMain": "báo",
+     "note": "",
+     "accept": [
+      "journal",
+      "le journal"
+     ],
+     "typeable": true,
+     "audioText": "le journal",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-le-courrier",
+     "fr": "le courrier",
+     "forms": [
+      "le courrier"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thư từ",
+     "viMain": "thư từ",
+     "note": "",
+     "accept": [
+      "courrier",
+      "le courrier"
+     ],
+     "typeable": true,
+     "audioText": "le courrier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-le-message",
+     "fr": "le message",
+     "forms": [
+      "le message"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tin nhắn",
+     "viMain": "tin nhắn",
+     "note": "",
+     "accept": [
+      "message",
+      "le message"
+     ],
+     "typeable": true,
+     "audioText": "le message",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t06-b4",
+   "title": "Việc nhà · Buổi tối, đi ngủ",
+   "words": [
+    {
+     "id": "t06-faire-la-cuisine",
+     "fr": "faire la cuisine",
+     "forms": [
+      "faire la cuisine"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "nấu ăn",
+     "viMain": "nấu ăn",
+     "note": "",
+     "accept": [
+      "faire la cuisine"
+     ],
+     "typeable": true,
+     "audioText": "faire la cuisine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-faire-le-menage",
+     "fr": "faire le ménage",
+     "forms": [
+      "faire le ménage"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "dọn dẹp nhà cửa",
+     "viMain": "dọn dẹp nhà cửa",
+     "note": "",
+     "accept": [
+      "faire le ménage"
+     ],
+     "typeable": true,
+     "audioText": "faire le ménage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-faire-la-vaisselle",
+     "fr": "faire la vaisselle",
+     "forms": [
+      "faire la vaisselle"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "rửa bát",
+     "viMain": "rửa bát",
+     "note": "",
+     "accept": [
+      "faire la vaisselle"
+     ],
+     "typeable": true,
+     "audioText": "faire la vaisselle",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-faire-la-lessive",
+     "fr": "faire la lessive",
+     "forms": [
+      "faire la lessive"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "giặt đồ",
+     "viMain": "giặt đồ",
+     "note": "",
+     "accept": [
+      "faire la lessive"
+     ],
+     "typeable": true,
+     "audioText": "faire la lessive",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-faire-les-courses",
+     "fr": "faire les courses",
+     "forms": [
+      "faire les courses"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đi mua thực phẩm",
+     "viMain": "đi mua thực phẩm",
+     "note": "",
+     "accept": [
+      "faire les courses"
+     ],
+     "typeable": true,
+     "audioText": "faire les courses",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-ranger",
+     "fr": "ranger",
+     "forms": [
+      "ranger"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "sắp xếp, dọn gọn",
+     "viMain": "sắp xếp, dọn gọn",
+     "note": "",
+     "accept": [
+      "ranger"
+     ],
+     "typeable": true,
+     "audioText": "ranger",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-nettoyer",
+     "fr": "nettoyer",
+     "forms": [
+      "nettoyer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "lau dọn",
+     "viMain": "lau dọn",
+     "note": "",
+     "accept": [
+      "nettoyer"
+     ],
+     "typeable": true,
+     "audioText": "nettoyer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-passer-l-aspirateur",
+     "fr": "passer l'aspirateur",
+     "forms": [
+      "passer l'aspirateur"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "hút bụi",
+     "viMain": "hút bụi",
+     "note": "",
+     "accept": [
+      "passer l'aspirateur"
+     ],
+     "typeable": true,
+     "audioText": "passer l'aspirateur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-preparer-le-repas",
+     "fr": "préparer le repas",
+     "forms": [
+      "préparer le repas"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chuẩn bị bữa ăn",
+     "viMain": "chuẩn bị bữa ăn",
+     "note": "",
+     "accept": [
+      "préparer le repas"
+     ],
+     "typeable": true,
+     "audioText": "préparer le repas",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-se-coucher",
+     "fr": "se coucher",
+     "forms": [
+      "se coucher"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đi ngủ",
+     "viMain": "đi ngủ",
+     "note": "động từ phản thân",
+     "accept": [
+      "se coucher"
+     ],
+     "typeable": true,
+     "audioText": "se coucher",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-dormir",
+     "fr": "dormir",
+     "forms": [
+      "dormir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ngủ",
+     "viMain": "ngủ",
+     "note": "",
+     "accept": [
+      "dormir"
+     ],
+     "typeable": true,
+     "audioText": "dormir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t06-b5",
+   "title": "Tần suất · Trình tự",
+   "words": [
+    {
+     "id": "t06-toujours",
+     "fr": "toujours",
+     "forms": [
+      "toujours"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "luôn luôn",
+     "viMain": "luôn luôn",
+     "note": "",
+     "accept": [
+      "toujours"
+     ],
+     "typeable": true,
+     "audioText": "toujours",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-souvent",
+     "fr": "souvent",
+     "forms": [
+      "souvent"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "thường",
+     "viMain": "thường",
+     "note": "",
+     "accept": [
+      "souvent"
+     ],
+     "typeable": true,
+     "audioText": "souvent",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-parfois",
+     "fr": "parfois",
+     "forms": [
+      "parfois"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "thỉnh thoảng",
+     "viMain": "thỉnh thoảng",
+     "note": "",
+     "accept": [
+      "parfois"
+     ],
+     "typeable": true,
+     "audioText": "parfois",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-jamais",
+     "fr": "jamais",
+     "forms": [
+      "jamais"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "không bao giờ",
+     "viMain": "không bao giờ",
+     "note": "đi với ne: Je ne dors jamais tard.",
+     "accept": [
+      "jamais"
+     ],
+     "typeable": true,
+     "audioText": "jamais",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-tous-les-jours",
+     "fr": "tous les jours",
+     "forms": [
+      "tous les jours"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "mỗi ngày",
+     "viMain": "mỗi ngày",
+     "note": "",
+     "accept": [
+      "tous les jours"
+     ],
+     "typeable": true,
+     "audioText": "tous les jours",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-d-abord",
+     "fr": "d'abord",
+     "forms": [
+      "d'abord"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "trước hết",
+     "viMain": "trước hết",
+     "note": "",
+     "accept": [
+      "d'abord"
+     ],
+     "typeable": true,
+     "audioText": "d'abord",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-ensuite",
+     "fr": "ensuite",
+     "forms": [
+      "ensuite"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "sau đó",
+     "viMain": "sau đó",
+     "note": "",
+     "accept": [
+      "ensuite"
+     ],
+     "typeable": true,
+     "audioText": "ensuite",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-puis",
+     "fr": "puis",
+     "forms": [
+      "puis"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "rồi",
+     "viMain": "rồi",
+     "note": "",
+     "accept": [
+      "puis"
+     ],
+     "typeable": true,
+     "audioText": "puis",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t06-enfin",
+     "fr": "enfin",
+     "forms": [
+      "enfin"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "cuối cùng",
+     "viMain": "cuối cùng",
+     "note": "",
+     "accept": [
+      "enfin"
+     ],
+     "typeable": true,
+     "audioText": "enfin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

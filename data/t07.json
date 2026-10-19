@@ -1,0 +1,1518 @@
+{
+ "id": 7,
+ "vi": "Nhà cửa",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t07-b1",
+   "title": "Loại nhà ở",
+   "words": [
+    {
+     "id": "t07-la-maison",
+     "fr": "la maison",
+     "forms": [
+      "la maison"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nhà (nhà riêng)",
+     "viMain": "nhà (nhà riêng)",
+     "note": "",
+     "accept": [
+      "maison",
+      "la maison"
+     ],
+     "typeable": true,
+     "audioText": "la maison",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-appartement",
+     "fr": "l'appartement",
+     "forms": [
+      "l'appartement"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "căn hộ",
+     "viMain": "căn hộ",
+     "note": "",
+     "accept": [
+      "appartement",
+      "l'appartement"
+     ],
+     "typeable": true,
+     "audioText": "l'appartement",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-immeuble",
+     "fr": "l'immeuble",
+     "forms": [
+      "l'immeuble"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tòa nhà chung cư",
+     "viMain": "tòa nhà chung cư",
+     "note": "",
+     "accept": [
+      "immeuble",
+      "l'immeuble"
+     ],
+     "typeable": true,
+     "audioText": "l'immeuble",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-logement",
+     "fr": "le logement",
+     "forms": [
+      "le logement"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chỗ ở",
+     "viMain": "chỗ ở",
+     "note": "",
+     "accept": [
+      "logement",
+      "le logement"
+     ],
+     "typeable": true,
+     "audioText": "le logement",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-studio",
+     "fr": "le studio",
+     "forms": [
+      "le studio"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "căn hộ studio",
+     "viMain": "căn hộ studio",
+     "note": "",
+     "accept": [
+      "studio",
+      "le studio"
+     ],
+     "typeable": true,
+     "audioText": "le studio",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-deux-pieces",
+     "fr": "le deux-pièces",
+     "forms": [
+      "le deux-pièces"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "căn hộ hai phòng",
+     "viMain": "căn hộ hai phòng",
+     "note": "",
+     "accept": [
+      "deux-pièces",
+      "le deux-pièces"
+     ],
+     "typeable": true,
+     "audioText": "le deux-pièces",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t07-b2",
+   "title": "Các phòng",
+   "words": [
+    {
+     "id": "t07-la-piece",
+     "fr": "la pièce",
+     "forms": [
+      "la pièce"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "phòng (nói chung)",
+     "viMain": "phòng (nói chung)",
+     "note": "",
+     "accept": [
+      "pièce",
+      "la pièce"
+     ],
+     "typeable": true,
+     "audioText": "la pièce",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-salon",
+     "fr": "le salon",
+     "forms": [
+      "le salon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phòng khách",
+     "viMain": "phòng khách",
+     "note": "",
+     "accept": [
+      "salon",
+      "le salon"
+     ],
+     "typeable": true,
+     "audioText": "le salon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-salle-a-manger",
+     "fr": "la salle à manger",
+     "forms": [
+      "la salle à manger"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "phòng ăn",
+     "viMain": "phòng ăn",
+     "note": "",
+     "accept": [
+      "salle à manger",
+      "la salle à manger"
+     ],
+     "typeable": true,
+     "audioText": "la salle à manger",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-cuisine",
+     "fr": "la cuisine",
+     "forms": [
+      "la cuisine"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nhà bếp",
+     "viMain": "nhà bếp",
+     "note": "faire la cuisine = nấu ăn",
+     "accept": [
+      "cuisine",
+      "la cuisine"
+     ],
+     "typeable": true,
+     "audioText": "la cuisine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-chambre",
+     "fr": "la chambre",
+     "forms": [
+      "la chambre"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "phòng ngủ",
+     "viMain": "phòng ngủ",
+     "note": "",
+     "accept": [
+      "chambre",
+      "la chambre"
+     ],
+     "typeable": true,
+     "audioText": "la chambre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-salle-de-bains",
+     "fr": "la salle de bains",
+     "forms": [
+      "la salle de bains"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "phòng tắm",
+     "viMain": "phòng tắm",
+     "note": "",
+     "accept": [
+      "salle de bains",
+      "la salle de bains"
+     ],
+     "typeable": true,
+     "audioText": "la salle de bains",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-les-toilettes",
+     "fr": "les toilettes",
+     "forms": [
+      "les toilettes"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "nhà vệ sinh",
+     "viMain": "nhà vệ sinh",
+     "note": "",
+     "accept": [
+      "toilettes",
+      "les toilettes"
+     ],
+     "typeable": true,
+     "audioText": "les toilettes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-entree",
+     "fr": "l'entrée",
+     "forms": [
+      "l'entrée"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "lối vào; sảnh",
+     "viMain": "lối vào",
+     "note": "",
+     "accept": [
+      "entrée",
+      "l'entrée"
+     ],
+     "typeable": true,
+     "audioText": "l'entrée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-couloir",
+     "fr": "le couloir",
+     "forms": [
+      "le couloir"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "hành lang",
+     "viMain": "hành lang",
+     "note": "",
+     "accept": [
+      "couloir",
+      "le couloir"
+     ],
+     "typeable": true,
+     "audioText": "le couloir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-balcon",
+     "fr": "le balcon",
+     "forms": [
+      "le balcon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ban công",
+     "viMain": "ban công",
+     "note": "",
+     "accept": [
+      "balcon",
+      "le balcon"
+     ],
+     "typeable": true,
+     "audioText": "le balcon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-jardin",
+     "fr": "le jardin",
+     "forms": [
+      "le jardin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "vườn",
+     "viMain": "vườn",
+     "note": "",
+     "accept": [
+      "jardin",
+      "le jardin"
+     ],
+     "typeable": true,
+     "audioText": "le jardin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-garage",
+     "fr": "le garage",
+     "forms": [
+      "le garage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ga-ra",
+     "viMain": "ga-ra",
+     "note": "",
+     "accept": [
+      "garage",
+      "le garage"
+     ],
+     "typeable": true,
+     "audioText": "le garage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-sejour",
+     "fr": "le séjour",
+     "forms": [
+      "le séjour"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phòng khách, phòng sinh hoạt chung",
+     "viMain": "phòng khách, phòng sinh hoạt chung",
+     "note": "",
+     "accept": [
+      "séjour",
+      "le séjour"
+     ],
+     "typeable": true,
+     "audioText": "le séjour",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t07-b3",
+   "title": "Cấu trúc tòa nhà",
+   "words": [
+    {
+     "id": "t07-l-etage",
+     "fr": "l'étage",
+     "forms": [
+      "l'étage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tầng (lầu)",
+     "viMain": "tầng (lầu)",
+     "note": "",
+     "accept": [
+      "étage",
+      "l'étage"
+     ],
+     "typeable": true,
+     "audioText": "l'étage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-rez-de-chaussee",
+     "fr": "le rez-de-chaussée",
+     "forms": [
+      "le rez-de-chaussée"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tầng trệt",
+     "viMain": "tầng trệt",
+     "note": "",
+     "accept": [
+      "rez-de-chaussée",
+      "le rez-de-chaussée"
+     ],
+     "typeable": true,
+     "audioText": "le rez-de-chaussée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-escalier",
+     "fr": "l'escalier",
+     "forms": [
+      "l'escalier"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cầu thang",
+     "viMain": "cầu thang",
+     "note": "",
+     "accept": [
+      "escalier",
+      "l'escalier"
+     ],
+     "typeable": true,
+     "audioText": "l'escalier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-ascenseur",
+     "fr": "l'ascenseur",
+     "forms": [
+      "l'ascenseur"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thang máy",
+     "viMain": "thang máy",
+     "note": "",
+     "accept": [
+      "ascenseur",
+      "l'ascenseur"
+     ],
+     "typeable": true,
+     "audioText": "l'ascenseur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-porte",
+     "fr": "la porte",
+     "forms": [
+      "la porte"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cửa ra vào",
+     "viMain": "cửa ra vào",
+     "note": "",
+     "accept": [
+      "porte",
+      "la porte"
+     ],
+     "typeable": true,
+     "audioText": "la porte",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-fenetre",
+     "fr": "la fenêtre",
+     "forms": [
+      "la fenêtre"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cửa sổ",
+     "viMain": "cửa sổ",
+     "note": "",
+     "accept": [
+      "fenêtre",
+      "la fenêtre"
+     ],
+     "typeable": true,
+     "audioText": "la fenêtre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-cle",
+     "fr": "la clé",
+     "forms": [
+      "la clé"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chìa khóa",
+     "viMain": "chìa khóa",
+     "note": "",
+     "accept": [
+      "clé",
+      "la clé"
+     ],
+     "typeable": true,
+     "audioText": "la clé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-mur",
+     "fr": "le mur",
+     "forms": [
+      "le mur"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bức tường",
+     "viMain": "bức tường",
+     "note": "",
+     "accept": [
+      "mur",
+      "le mur"
+     ],
+     "typeable": true,
+     "audioText": "le mur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-toit",
+     "fr": "le toit",
+     "forms": [
+      "le toit"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mái nhà",
+     "viMain": "mái nhà",
+     "note": "",
+     "accept": [
+      "toit",
+      "le toit"
+     ],
+     "typeable": true,
+     "audioText": "le toit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-sol",
+     "fr": "le sol",
+     "forms": [
+      "le sol"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sàn nhà",
+     "viMain": "sàn nhà",
+     "note": "",
+     "accept": [
+      "sol",
+      "le sol"
+     ],
+     "typeable": true,
+     "audioText": "le sol",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-plafond",
+     "fr": "le plafond",
+     "forms": [
+      "le plafond"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trần nhà",
+     "viMain": "trần nhà",
+     "note": "",
+     "accept": [
+      "plafond",
+      "le plafond"
+     ],
+     "typeable": true,
+     "audioText": "le plafond",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-sonnette",
+     "fr": "la sonnette",
+     "forms": [
+      "la sonnette"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chuông cửa",
+     "viMain": "chuông cửa",
+     "note": "",
+     "accept": [
+      "sonnette",
+      "la sonnette"
+     ],
+     "typeable": true,
+     "audioText": "la sonnette",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-serrure",
+     "fr": "la serrure",
+     "forms": [
+      "la serrure"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ổ khóa",
+     "viMain": "ổ khóa",
+     "note": "",
+     "accept": [
+      "serrure",
+      "la serrure"
+     ],
+     "typeable": true,
+     "audioText": "la serrure",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t07-b4",
+   "title": "Đồ nội thất",
+   "words": [
+    {
+     "id": "t07-le-meuble",
+     "fr": "le meuble",
+     "forms": [
+      "le meuble"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đồ nội thất",
+     "viMain": "đồ nội thất",
+     "note": "",
+     "accept": [
+      "meuble",
+      "le meuble"
+     ],
+     "typeable": true,
+     "audioText": "le meuble",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-table",
+     "fr": "la table",
+     "forms": [
+      "la table"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cái bàn",
+     "viMain": "cái bàn",
+     "note": "",
+     "accept": [
+      "table",
+      "la table"
+     ],
+     "typeable": true,
+     "audioText": "la table",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-chaise",
+     "fr": "la chaise",
+     "forms": [
+      "la chaise"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cái ghế",
+     "viMain": "cái ghế",
+     "note": "",
+     "accept": [
+      "chaise",
+      "la chaise"
+     ],
+     "typeable": true,
+     "audioText": "la chaise",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-canape",
+     "fr": "le canapé",
+     "forms": [
+      "le canapé"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ghế sofa",
+     "viMain": "ghế sofa",
+     "note": "",
+     "accept": [
+      "canapé",
+      "le canapé"
+     ],
+     "typeable": true,
+     "audioText": "le canapé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-fauteuil",
+     "fr": "le fauteuil",
+     "forms": [
+      "le fauteuil"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ghế bành",
+     "viMain": "ghế bành",
+     "note": "",
+     "accept": [
+      "fauteuil",
+      "le fauteuil"
+     ],
+     "typeable": true,
+     "audioText": "le fauteuil",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-lit",
+     "fr": "le lit",
+     "forms": [
+      "le lit"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cái giường",
+     "viMain": "cái giường",
+     "note": "",
+     "accept": [
+      "lit",
+      "le lit"
+     ],
+     "typeable": true,
+     "audioText": "le lit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-armoire",
+     "fr": "l'armoire",
+     "forms": [
+      "l'armoire"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tủ quần áo",
+     "viMain": "tủ quần áo",
+     "note": "",
+     "accept": [
+      "armoire",
+      "l'armoire"
+     ],
+     "typeable": true,
+     "audioText": "l'armoire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-etagere",
+     "fr": "l'étagère",
+     "forms": [
+      "l'étagère"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "kệ, giá sách",
+     "viMain": "kệ, giá sách",
+     "note": "",
+     "accept": [
+      "étagère",
+      "l'étagère"
+     ],
+     "typeable": true,
+     "audioText": "l'étagère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-lampe",
+     "fr": "la lampe",
+     "forms": [
+      "la lampe"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đèn",
+     "viMain": "đèn",
+     "note": "",
+     "accept": [
+      "lampe",
+      "la lampe"
+     ],
+     "typeable": true,
+     "audioText": "la lampe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-tapis",
+     "fr": "le tapis",
+     "forms": [
+      "le tapis"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tấm thảm",
+     "viMain": "tấm thảm",
+     "note": "",
+     "accept": [
+      "tapis",
+      "le tapis"
+     ],
+     "typeable": true,
+     "audioText": "le tapis",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-rideau",
+     "fr": "le rideau",
+     "forms": [
+      "le rideau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "rèm cửa",
+     "viMain": "rèm cửa",
+     "note": "",
+     "accept": [
+      "rideau",
+      "le rideau"
+     ],
+     "typeable": true,
+     "audioText": "le rideau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t07-b5",
+   "title": "Phòng tắm · Thuê nhà, hàng xóm",
+   "words": [
+    {
+     "id": "t07-la-douche",
+     "fr": "la douche",
+     "forms": [
+      "la douche"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "vòi sen",
+     "viMain": "vòi sen",
+     "note": "",
+     "accept": [
+      "douche",
+      "la douche"
+     ],
+     "typeable": true,
+     "audioText": "la douche",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-baignoire",
+     "fr": "la baignoire",
+     "forms": [
+      "la baignoire"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bồn tắm",
+     "viMain": "bồn tắm",
+     "note": "",
+     "accept": [
+      "baignoire",
+      "la baignoire"
+     ],
+     "typeable": true,
+     "audioText": "la baignoire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-lavabo",
+     "fr": "le lavabo",
+     "forms": [
+      "le lavabo"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bồn rửa mặt",
+     "viMain": "bồn rửa mặt",
+     "note": "",
+     "accept": [
+      "lavabo",
+      "le lavabo"
+     ],
+     "typeable": true,
+     "audioText": "le lavabo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-miroir",
+     "fr": "le miroir",
+     "forms": [
+      "le miroir"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "gương",
+     "viMain": "gương",
+     "note": "",
+     "accept": [
+      "miroir",
+      "le miroir"
+     ],
+     "typeable": true,
+     "audioText": "le miroir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-voisin-la-voisine",
+     "fr": "le voisin / la voisine",
+     "forms": [
+      "le voisin",
+      "la voisine"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "hàng xóm",
+     "viMain": "hàng xóm",
+     "note": "",
+     "accept": [
+      "voisin",
+      "le voisin",
+      "voisine",
+      "la voisine"
+     ],
+     "typeable": true,
+     "audioText": "le voisin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-louer",
+     "fr": "louer",
+     "forms": [
+      "louer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thuê; cho thuê",
+     "viMain": "thuê",
+     "note": "",
+     "accept": [
+      "louer"
+     ],
+     "typeable": true,
+     "audioText": "louer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-demenager",
+     "fr": "déménager",
+     "forms": [
+      "déménager"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "chuyển nhà",
+     "viMain": "chuyển nhà",
+     "note": "",
+     "accept": [
+      "déménager"
+     ],
+     "typeable": true,
+     "audioText": "déménager",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-proprietaire-la-proprietaire",
+     "fr": "le propriétaire / la propriétaire",
+     "forms": [
+      "le propriétaire",
+      "la propriétaire"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "chủ nhà",
+     "viMain": "chủ nhà",
+     "note": "",
+     "accept": [
+      "propriétaire",
+      "le propriétaire",
+      "la propriétaire"
+     ],
+     "typeable": true,
+     "audioText": "le propriétaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-locataire-la-locataire",
+     "fr": "le locataire / la locataire",
+     "forms": [
+      "le locataire",
+      "la locataire"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người thuê nhà",
+     "viMain": "người thuê nhà",
+     "note": "",
+     "accept": [
+      "locataire",
+      "le locataire",
+      "la locataire"
+     ],
+     "typeable": true,
+     "audioText": "le locataire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-loyer",
+     "fr": "le loyer",
+     "forms": [
+      "le loyer"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiền thuê nhà",
+     "viMain": "tiền thuê nhà",
+     "note": "",
+     "accept": [
+      "loyer",
+      "le loyer"
+     ],
+     "typeable": true,
+     "audioText": "le loyer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-agence-immobiliere",
+     "fr": "l'agence immobilière",
+     "forms": [
+      "l'agence immobilière"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "công ty môi giới nhà đất",
+     "viMain": "công ty môi giới nhà đất",
+     "note": "",
+     "accept": [
+      "agence immobilière",
+      "l'agence immobilière"
+     ],
+     "typeable": true,
+     "audioText": "l'agence immobilière",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t07-b6",
+   "title": "Tính chất nhà ở · Thiết bị, tiện ích",
+   "words": [
+    {
+     "id": "t07-calme",
+     "fr": "calme",
+     "forms": [
+      "calme"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "yên tĩnh",
+     "viMain": "yên tĩnh",
+     "note": "không đổi giống",
+     "accept": [
+      "calme"
+     ],
+     "typeable": true,
+     "audioText": "calme",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-bruyant-bruyante",
+     "fr": "bruyant / bruyante",
+     "forms": [
+      "bruyant",
+      "bruyante"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "ồn ào",
+     "viMain": "ồn ào",
+     "note": "",
+     "accept": [
+      "bruyant",
+      "bruyante"
+     ],
+     "typeable": true,
+     "audioText": "bruyant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-confortable",
+     "fr": "confortable",
+     "forms": [
+      "confortable"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "tiện nghi, thoải mái",
+     "viMain": "tiện nghi, thoải mái",
+     "note": "không đổi giống",
+     "accept": [
+      "confortable"
+     ],
+     "typeable": true,
+     "audioText": "confortable",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-moderne",
+     "fr": "moderne",
+     "forms": [
+      "moderne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "hiện đại",
+     "viMain": "hiện đại",
+     "note": "không đổi giống",
+     "accept": [
+      "moderne"
+     ],
+     "typeable": true,
+     "audioText": "moderne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-ancien-ancienne",
+     "fr": "ancien / ancienne",
+     "forms": [
+      "ancien",
+      "ancienne"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "cũ, cổ",
+     "viMain": "cũ, cổ",
+     "note": "",
+     "accept": [
+      "ancien",
+      "ancienne"
+     ],
+     "typeable": true,
+     "audioText": "ancien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-meuble-meublee",
+     "fr": "meublé / meublée",
+     "forms": [
+      "meublé",
+      "meublée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "có sẵn nội thất",
+     "viMain": "có sẵn nội thất",
+     "note": "",
+     "accept": [
+      "meublé",
+      "meublée"
+     ],
+     "typeable": true,
+     "audioText": "meublé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-metre-carre",
+     "fr": "le mètre carré",
+     "forms": [
+      "le mètre carré"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mét vuông",
+     "viMain": "mét vuông",
+     "note": "",
+     "accept": [
+      "mètre carré",
+      "le mètre carré"
+     ],
+     "typeable": true,
+     "audioText": "le mètre carré",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-refrigerateur",
+     "fr": "le réfrigérateur",
+     "forms": [
+      "le réfrigérateur"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tủ lạnh",
+     "viMain": "tủ lạnh",
+     "note": "nói tắt: le frigo (thân mật)",
+     "accept": [
+      "réfrigérateur",
+      "le réfrigérateur"
+     ],
+     "typeable": true,
+     "audioText": "le réfrigérateur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-lumiere",
+     "fr": "la lumière",
+     "forms": [
+      "la lumière"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ánh sáng; đèn",
+     "viMain": "ánh sáng",
+     "note": "",
+     "accept": [
+      "lumière",
+      "la lumière"
+     ],
+     "typeable": true,
+     "audioText": "la lumière",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-four",
+     "fr": "le four",
+     "forms": [
+      "le four"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "lò nướng",
+     "viMain": "lò nướng",
+     "note": "",
+     "accept": [
+      "four",
+      "le four"
+     ],
+     "typeable": true,
+     "audioText": "le four",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-aspirateur",
+     "fr": "l'aspirateur",
+     "forms": [
+      "l'aspirateur"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "máy hút bụi",
+     "viMain": "máy hút bụi",
+     "note": "",
+     "accept": [
+      "aspirateur",
+      "l'aspirateur"
+     ],
+     "typeable": true,
+     "audioText": "l'aspirateur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-la-machine-a-laver",
+     "fr": "la machine à laver",
+     "forms": [
+      "la machine à laver"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "máy giặt",
+     "viMain": "máy giặt",
+     "note": "",
+     "accept": [
+      "machine à laver",
+      "la machine à laver"
+     ],
+     "typeable": true,
+     "audioText": "la machine à laver",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-balai",
+     "fr": "le balai",
+     "forms": [
+      "le balai"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cái chổi",
+     "viMain": "cái chổi",
+     "note": "",
+     "accept": [
+      "balai",
+      "le balai"
+     ],
+     "typeable": true,
+     "audioText": "le balai",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-chauffage",
+     "fr": "le chauffage",
+     "forms": [
+      "le chauffage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "hệ thống sưởi",
+     "viMain": "hệ thống sưởi",
+     "note": "",
+     "accept": [
+      "chauffage",
+      "le chauffage"
+     ],
+     "typeable": true,
+     "audioText": "le chauffage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-l-electricite",
+     "fr": "l'électricité",
+     "forms": [
+      "l'électricité"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "điện",
+     "viMain": "điện",
+     "note": "",
+     "accept": [
+      "électricité",
+      "l'électricité"
+     ],
+     "typeable": true,
+     "audioText": "l'électricité",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t07-le-gaz",
+     "fr": "le gaz",
+     "forms": [
+      "le gaz"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "khí đốt",
+     "viMain": "khí đốt",
+     "note": "",
+     "accept": [
+      "gaz",
+      "le gaz"
+     ],
+     "typeable": true,
+     "audioText": "le gaz",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1816 @@
+{
+ "id": 9,
+ "vi": "Màu sắc, quần áo, miêu tả",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t09-b1",
+   "title": "Màu sắc",
+   "words": [
+    {
+     "id": "t09-la-couleur",
+     "fr": "la couleur",
+     "forms": [
+      "la couleur"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "màu sắc",
+     "viMain": "màu sắc",
+     "note": "",
+     "accept": [
+      "couleur",
+      "la couleur"
+     ],
+     "typeable": true,
+     "audioText": "la couleur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-rouge",
+     "fr": "rouge",
+     "forms": [
+      "rouge"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đỏ",
+     "viMain": "đỏ",
+     "note": "",
+     "accept": [
+      "rouge"
+     ],
+     "typeable": true,
+     "audioText": "rouge",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-bleu-bleue",
+     "fr": "bleu / bleue",
+     "forms": [
+      "bleu",
+      "bleue"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "xanh dương",
+     "viMain": "xanh dương",
+     "note": "",
+     "accept": [
+      "bleu",
+      "bleue"
+     ],
+     "typeable": true,
+     "audioText": "bleu",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-vert-verte",
+     "fr": "vert / verte",
+     "forms": [
+      "vert",
+      "verte"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "xanh lá",
+     "viMain": "xanh lá",
+     "note": "",
+     "accept": [
+      "vert",
+      "verte"
+     ],
+     "typeable": true,
+     "audioText": "vert",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-jaune",
+     "fr": "jaune",
+     "forms": [
+      "jaune"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "vàng",
+     "viMain": "vàng",
+     "note": "",
+     "accept": [
+      "jaune"
+     ],
+     "typeable": true,
+     "audioText": "jaune",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-noir-noire",
+     "fr": "noir / noire",
+     "forms": [
+      "noir",
+      "noire"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đen",
+     "viMain": "đen",
+     "note": "",
+     "accept": [
+      "noir",
+      "noire"
+     ],
+     "typeable": true,
+     "audioText": "noir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-blanc-blanche",
+     "fr": "blanc / blanche",
+     "forms": [
+      "blanc",
+      "blanche"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "trắng",
+     "viMain": "trắng",
+     "note": "",
+     "accept": [
+      "blanc",
+      "blanche"
+     ],
+     "typeable": true,
+     "audioText": "blanc",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-gris-grise",
+     "fr": "gris / grise",
+     "forms": [
+      "gris",
+      "grise"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "xám",
+     "viMain": "xám",
+     "note": "",
+     "accept": [
+      "gris",
+      "grise"
+     ],
+     "typeable": true,
+     "audioText": "gris",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-orange",
+     "fr": "orange",
+     "forms": [
+      "orange"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "cam",
+     "viMain": "cam",
+     "note": "bất biến (không đổi giống, số)",
+     "accept": [
+      "orange"
+     ],
+     "typeable": true,
+     "audioText": "orange",
+     "sameMeaningGroup": "sm-cam",
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-rose",
+     "fr": "rose",
+     "forms": [
+      "rose"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "hồng",
+     "viMain": "hồng",
+     "note": "",
+     "accept": [
+      "rose"
+     ],
+     "typeable": true,
+     "audioText": "rose",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-violet-violette",
+     "fr": "violet / violette",
+     "forms": [
+      "violet",
+      "violette"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "tím",
+     "viMain": "tím",
+     "note": "",
+     "accept": [
+      "violet",
+      "violette"
+     ],
+     "typeable": true,
+     "audioText": "violet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-marron",
+     "fr": "marron",
+     "forms": [
+      "marron"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "nâu",
+     "viMain": "nâu",
+     "note": "bất biến (không đổi giống, số)",
+     "accept": [
+      "marron"
+     ],
+     "typeable": true,
+     "audioText": "marron",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-clair-claire",
+     "fr": "clair / claire",
+     "forms": [
+      "clair",
+      "claire"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "sáng (màu)",
+     "viMain": "sáng (màu)",
+     "note": "vert clair",
+     "accept": [
+      "clair",
+      "claire"
+     ],
+     "typeable": true,
+     "audioText": "clair",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-fonce-foncee",
+     "fr": "foncé / foncée",
+     "forms": [
+      "foncé",
+      "foncée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đậm (màu)",
+     "viMain": "đậm (màu)",
+     "note": "bleu foncé",
+     "accept": [
+      "foncé",
+      "foncée"
+     ],
+     "typeable": true,
+     "audioText": "foncé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t09-b2",
+   "title": "Quần áo, giày dép",
+   "words": [
+    {
+     "id": "t09-le-vetement",
+     "fr": "le vêtement",
+     "forms": [
+      "le vêtement"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quần áo (một món)",
+     "viMain": "quần áo (một món)",
+     "note": "",
+     "accept": [
+      "vêtement",
+      "le vêtement"
+     ],
+     "typeable": true,
+     "audioText": "le vêtement",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-pantalon",
+     "fr": "le pantalon",
+     "forms": [
+      "le pantalon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quần dài",
+     "viMain": "quần dài",
+     "note": "",
+     "accept": [
+      "pantalon",
+      "le pantalon"
+     ],
+     "typeable": true,
+     "audioText": "le pantalon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-jean",
+     "fr": "le jean",
+     "forms": [
+      "le jean"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quần jean",
+     "viMain": "quần jean",
+     "note": "",
+     "accept": [
+      "jean",
+      "le jean"
+     ],
+     "typeable": true,
+     "audioText": "le jean",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-jupe",
+     "fr": "la jupe",
+     "forms": [
+      "la jupe"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chân váy",
+     "viMain": "chân váy",
+     "note": "",
+     "accept": [
+      "jupe",
+      "la jupe"
+     ],
+     "typeable": true,
+     "audioText": "la jupe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-robe",
+     "fr": "la robe",
+     "forms": [
+      "la robe"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "váy liền, đầm",
+     "viMain": "váy liền, đầm",
+     "note": "",
+     "accept": [
+      "robe",
+      "la robe"
+     ],
+     "typeable": true,
+     "audioText": "la robe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-chemise",
+     "fr": "la chemise",
+     "forms": [
+      "la chemise"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "áo sơ mi",
+     "viMain": "áo sơ mi",
+     "note": "",
+     "accept": [
+      "chemise",
+      "la chemise"
+     ],
+     "typeable": true,
+     "audioText": "la chemise",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-tee-shirt",
+     "fr": "le tee-shirt",
+     "forms": [
+      "le tee-shirt"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "áo thun",
+     "viMain": "áo thun",
+     "note": "",
+     "accept": [
+      "tee-shirt",
+      "le tee-shirt"
+     ],
+     "typeable": true,
+     "audioText": "le tee-shirt",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-pull",
+     "fr": "le pull",
+     "forms": [
+      "le pull"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "áo len",
+     "viMain": "áo len",
+     "note": "",
+     "accept": [
+      "pull",
+      "le pull"
+     ],
+     "typeable": true,
+     "audioText": "le pull",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-veste",
+     "fr": "la veste",
+     "forms": [
+      "la veste"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "áo khoác ngắn",
+     "viMain": "áo khoác ngắn",
+     "note": "",
+     "accept": [
+      "veste",
+      "la veste"
+     ],
+     "typeable": true,
+     "audioText": "la veste",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-manteau",
+     "fr": "le manteau",
+     "forms": [
+      "le manteau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "áo khoác dài",
+     "viMain": "áo khoác dài",
+     "note": "",
+     "accept": [
+      "manteau",
+      "le manteau"
+     ],
+     "typeable": true,
+     "audioText": "le manteau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-l-impermeable",
+     "fr": "l'imperméable",
+     "forms": [
+      "l'imperméable"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "áo mưa",
+     "viMain": "áo mưa",
+     "note": "",
+     "accept": [
+      "imperméable",
+      "l'imperméable"
+     ],
+     "typeable": true,
+     "audioText": "l'imperméable",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-chaussures",
+     "fr": "les chaussures",
+     "forms": [
+      "les chaussures"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "giày",
+     "viMain": "giày",
+     "note": "",
+     "accept": [
+      "chaussures",
+      "les chaussures"
+     ],
+     "typeable": true,
+     "audioText": "les chaussures",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-chaussettes",
+     "fr": "les chaussettes",
+     "forms": [
+      "les chaussettes"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "tất, vớ",
+     "viMain": "tất, vớ",
+     "note": "",
+     "accept": [
+      "chaussettes",
+      "les chaussettes"
+     ],
+     "typeable": true,
+     "audioText": "les chaussettes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-baskets",
+     "fr": "les baskets",
+     "forms": [
+      "les baskets"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "giày thể thao",
+     "viMain": "giày thể thao",
+     "note": "",
+     "accept": [
+      "baskets",
+      "les baskets"
+     ],
+     "typeable": true,
+     "audioText": "les baskets",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-costume",
+     "fr": "le costume",
+     "forms": [
+      "le costume"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bộ com-lê",
+     "viMain": "bộ com-lê",
+     "note": "",
+     "accept": [
+      "costume",
+      "le costume"
+     ],
+     "typeable": true,
+     "audioText": "le costume",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-blouson",
+     "fr": "le blouson",
+     "forms": [
+      "le blouson"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "áo khoác blouson",
+     "viMain": "áo khoác blouson",
+     "note": "",
+     "accept": [
+      "blouson",
+      "le blouson"
+     ],
+     "typeable": true,
+     "audioText": "le blouson",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-survetement",
+     "fr": "le survêtement",
+     "forms": [
+      "le survêtement"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bộ đồ thể thao",
+     "viMain": "bộ đồ thể thao",
+     "note": "",
+     "accept": [
+      "survêtement",
+      "le survêtement"
+     ],
+     "typeable": true,
+     "audioText": "le survêtement",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-bottes",
+     "fr": "les bottes",
+     "forms": [
+      "les bottes"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "ủng, bốt",
+     "viMain": "ủng, bốt",
+     "note": "",
+     "accept": [
+      "bottes",
+      "les bottes"
+     ],
+     "typeable": true,
+     "audioText": "les bottes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t09-b3",
+   "title": "Phụ kiện, trang sức",
+   "words": [
+    {
+     "id": "t09-le-chapeau",
+     "fr": "le chapeau",
+     "forms": [
+      "le chapeau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mũ",
+     "viMain": "mũ",
+     "note": "",
+     "accept": [
+      "chapeau",
+      "le chapeau"
+     ],
+     "typeable": true,
+     "audioText": "le chapeau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-lunettes",
+     "fr": "les lunettes",
+     "forms": [
+      "les lunettes"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "kính mắt",
+     "viMain": "kính mắt",
+     "note": "",
+     "accept": [
+      "lunettes",
+      "les lunettes"
+     ],
+     "typeable": true,
+     "audioText": "les lunettes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-sac",
+     "fr": "le sac",
+     "forms": [
+      "le sac"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "túi xách",
+     "viMain": "túi xách",
+     "note": "",
+     "accept": [
+      "sac",
+      "le sac"
+     ],
+     "typeable": true,
+     "audioText": "le sac",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-cravate",
+     "fr": "la cravate",
+     "forms": [
+      "la cravate"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cà vạt",
+     "viMain": "cà vạt",
+     "note": "",
+     "accept": [
+      "cravate",
+      "la cravate"
+     ],
+     "typeable": true,
+     "audioText": "la cravate",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-l-echarpe",
+     "fr": "l'écharpe",
+     "forms": [
+      "l'écharpe"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "khăn quàng cổ",
+     "viMain": "khăn quàng cổ",
+     "note": "",
+     "accept": [
+      "écharpe",
+      "l'écharpe"
+     ],
+     "typeable": true,
+     "audioText": "l'écharpe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-gants",
+     "fr": "les gants",
+     "forms": [
+      "les gants"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "găng tay",
+     "viMain": "găng tay",
+     "note": "",
+     "accept": [
+      "gants",
+      "les gants"
+     ],
+     "typeable": true,
+     "audioText": "les gants",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-bonnet",
+     "fr": "le bonnet",
+     "forms": [
+      "le bonnet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mũ len",
+     "viMain": "mũ len",
+     "note": "",
+     "accept": [
+      "bonnet",
+      "le bonnet"
+     ],
+     "typeable": true,
+     "audioText": "le bonnet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-bijoux",
+     "fr": "les bijoux",
+     "forms": [
+      "les bijoux"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "đồ trang sức",
+     "viMain": "đồ trang sức",
+     "note": "",
+     "accept": [
+      "bijoux",
+      "les bijoux"
+     ],
+     "typeable": true,
+     "audioText": "les bijoux",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-bague",
+     "fr": "la bague",
+     "forms": [
+      "la bague"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nhẫn",
+     "viMain": "nhẫn",
+     "note": "",
+     "accept": [
+      "bague",
+      "la bague"
+     ],
+     "typeable": true,
+     "audioText": "la bague",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-collier",
+     "fr": "le collier",
+     "forms": [
+      "le collier"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "dây chuyền",
+     "viMain": "dây chuyền",
+     "note": "",
+     "accept": [
+      "collier",
+      "le collier"
+     ],
+     "typeable": true,
+     "audioText": "le collier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-ceinture",
+     "fr": "la ceinture",
+     "forms": [
+      "la ceinture"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thắt lưng",
+     "viMain": "thắt lưng",
+     "note": "",
+     "accept": [
+      "ceinture",
+      "la ceinture"
+     ],
+     "typeable": true,
+     "audioText": "la ceinture",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t09-b4",
+   "title": "Mặc, thử, cỡ số · Chất liệu",
+   "words": [
+    {
+     "id": "t09-porter",
+     "fr": "porter",
+     "forms": [
+      "porter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "mặc; mang; đội",
+     "viMain": "mặc",
+     "note": "",
+     "accept": [
+      "porter"
+     ],
+     "typeable": true,
+     "audioText": "porter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-mettre",
+     "fr": "mettre",
+     "forms": [
+      "mettre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "mặc vào; đặt",
+     "viMain": "mặc vào",
+     "note": "",
+     "accept": [
+      "mettre"
+     ],
+     "typeable": true,
+     "audioText": "mettre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-essayer",
+     "fr": "essayer",
+     "forms": [
+      "essayer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thử (đồ)",
+     "viMain": "thử (đồ)",
+     "note": "",
+     "accept": [
+      "essayer"
+     ],
+     "typeable": true,
+     "audioText": "essayer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-taille",
+     "fr": "la taille",
+     "forms": [
+      "la taille"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "kích cỡ; chiều cao",
+     "viMain": "kích cỡ",
+     "note": "",
+     "accept": [
+      "taille",
+      "la taille"
+     ],
+     "typeable": true,
+     "audioText": "la taille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-pointure",
+     "fr": "la pointure",
+     "forms": [
+      "la pointure"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cỡ giày",
+     "viMain": "cỡ giày",
+     "note": "",
+     "accept": [
+      "pointure",
+      "la pointure"
+     ],
+     "typeable": true,
+     "audioText": "la pointure",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-mode",
+     "fr": "la mode",
+     "forms": [
+      "la mode"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thời trang",
+     "viMain": "thời trang",
+     "note": "",
+     "accept": [
+      "mode",
+      "la mode"
+     ],
+     "typeable": true,
+     "audioText": "la mode",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-chic",
+     "fr": "chic",
+     "forms": [
+      "chic"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "sang, lịch sự",
+     "viMain": "sang, lịch sự",
+     "note": "không đổi giống",
+     "accept": [
+      "chic"
+     ],
+     "typeable": true,
+     "audioText": "chic",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-laine",
+     "fr": "la laine",
+     "forms": [
+      "la laine"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "len",
+     "viMain": "len",
+     "note": "",
+     "accept": [
+      "laine",
+      "la laine"
+     ],
+     "typeable": true,
+     "audioText": "la laine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-coton",
+     "fr": "le coton",
+     "forms": [
+      "le coton"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cotton",
+     "viMain": "cotton",
+     "note": "",
+     "accept": [
+      "coton",
+      "le coton"
+     ],
+     "typeable": true,
+     "audioText": "le coton",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-cuir",
+     "fr": "le cuir",
+     "forms": [
+      "le cuir"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "da thuộc",
+     "viMain": "da thuộc",
+     "note": "",
+     "accept": [
+      "cuir",
+      "le cuir"
+     ],
+     "typeable": true,
+     "audioText": "le cuir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t09-b5",
+   "title": "Miêu tả ngoại hình",
+   "words": [
+    {
+     "id": "t09-grand-grande",
+     "fr": "grand / grande",
+     "forms": [
+      "grand",
+      "grande"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "cao; to",
+     "viMain": "cao",
+     "note": "",
+     "accept": [
+      "grand",
+      "grande"
+     ],
+     "typeable": true,
+     "audioText": "grand",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-petit-petite",
+     "fr": "petit / petite",
+     "forms": [
+      "petit",
+      "petite"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "thấp; nhỏ",
+     "viMain": "thấp",
+     "note": "",
+     "accept": [
+      "petit",
+      "petite"
+     ],
+     "typeable": true,
+     "audioText": "petit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-gros-grosse",
+     "fr": "gros / grosse",
+     "forms": [
+      "gros",
+      "grosse"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "mập; to",
+     "viMain": "mập",
+     "note": "",
+     "accept": [
+      "gros",
+      "grosse"
+     ],
+     "typeable": true,
+     "audioText": "gros",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-mince",
+     "fr": "mince",
+     "forms": [
+      "mince"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "gầy, thon",
+     "viMain": "gầy, thon",
+     "note": "",
+     "accept": [
+      "mince"
+     ],
+     "typeable": true,
+     "audioText": "mince",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-beau-belle",
+     "fr": "beau / belle",
+     "forms": [
+      "beau",
+      "belle"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đẹp",
+     "viMain": "đẹp",
+     "note": "",
+     "accept": [
+      "beau",
+      "belle"
+     ],
+     "typeable": true,
+     "audioText": "beau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-joli-jolie",
+     "fr": "joli / jolie",
+     "forms": [
+      "joli",
+      "jolie"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "xinh",
+     "viMain": "xinh",
+     "note": "",
+     "accept": [
+      "joli",
+      "jolie"
+     ],
+     "typeable": true,
+     "audioText": "joli",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-laid-laide",
+     "fr": "laid / laide",
+     "forms": [
+      "laid",
+      "laide"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "xấu",
+     "viMain": "xấu",
+     "note": "",
+     "accept": [
+      "laid",
+      "laide"
+     ],
+     "typeable": true,
+     "audioText": "laid",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-maigre",
+     "fr": "maigre",
+     "forms": [
+      "maigre"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "gầy (còm)",
+     "viMain": "gầy (còm)",
+     "note": "không đổi giống",
+     "accept": [
+      "maigre"
+     ],
+     "typeable": true,
+     "audioText": "maigre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-leger-legere",
+     "fr": "léger / légère",
+     "forms": [
+      "léger",
+      "légère"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "nhẹ",
+     "viMain": "nhẹ",
+     "note": "",
+     "accept": [
+      "léger",
+      "légère"
+     ],
+     "typeable": true,
+     "audioText": "léger",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-lourd-lourde",
+     "fr": "lourd / lourde",
+     "forms": [
+      "lourd",
+      "lourde"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "nặng",
+     "viMain": "nặng",
+     "note": "",
+     "accept": [
+      "lourd",
+      "lourde"
+     ],
+     "typeable": true,
+     "audioText": "lourd",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-mesurer",
+     "fr": "mesurer",
+     "forms": [
+      "mesurer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "cao… (đo được)",
+     "viMain": "cao… (đo được)",
+     "note": "Il mesure 1 m 80.",
+     "accept": [
+      "mesurer"
+     ],
+     "typeable": true,
+     "audioText": "mesurer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-peser",
+     "fr": "peser",
+     "forms": [
+      "peser"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "nặng… (cân nặng)",
+     "viMain": "nặng… (cân nặng)",
+     "note": "",
+     "accept": [
+      "peser"
+     ],
+     "typeable": true,
+     "audioText": "peser",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-poids",
+     "fr": "le poids",
+     "forms": [
+      "le poids"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cân nặng",
+     "viMain": "cân nặng",
+     "note": "",
+     "accept": [
+      "poids",
+      "le poids"
+     ],
+     "typeable": true,
+     "audioText": "le poids",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-kilo",
+     "fr": "le kilo",
+     "forms": [
+      "le kilo"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ki-lô",
+     "viMain": "ki-lô",
+     "note": "",
+     "accept": [
+      "kilo",
+      "le kilo"
+     ],
+     "typeable": true,
+     "audioText": "le kilo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t09-b6",
+   "title": "Tóc, râu · Bộ phận cơ thể, khuôn mặt",
+   "words": [
+    {
+     "id": "t09-les-cheveux",
+     "fr": "les cheveux",
+     "forms": [
+      "les cheveux"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "tóc",
+     "viMain": "tóc",
+     "note": "",
+     "accept": [
+      "cheveux",
+      "les cheveux"
+     ],
+     "typeable": true,
+     "audioText": "les cheveux",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-long-longue",
+     "fr": "long / longue",
+     "forms": [
+      "long",
+      "longue"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "dài",
+     "viMain": "dài",
+     "note": "",
+     "accept": [
+      "long",
+      "longue"
+     ],
+     "typeable": true,
+     "audioText": "long",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-court-courte",
+     "fr": "court / courte",
+     "forms": [
+      "court",
+      "courte"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "ngắn",
+     "viMain": "ngắn",
+     "note": "",
+     "accept": [
+      "court",
+      "courte"
+     ],
+     "typeable": true,
+     "audioText": "court",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-blond-blonde",
+     "fr": "blond / blonde",
+     "forms": [
+      "blond",
+      "blonde"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "tóc vàng",
+     "viMain": "tóc vàng",
+     "note": "",
+     "accept": [
+      "blond",
+      "blonde"
+     ],
+     "typeable": true,
+     "audioText": "blond",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-brun-brune",
+     "fr": "brun / brune",
+     "forms": [
+      "brun",
+      "brune"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "tóc nâu sẫm",
+     "viMain": "tóc nâu sẫm",
+     "note": "",
+     "accept": [
+      "brun",
+      "brune"
+     ],
+     "typeable": true,
+     "audioText": "brun",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-roux-rousse",
+     "fr": "roux / rousse",
+     "forms": [
+      "roux",
+      "rousse"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "tóc đỏ hung",
+     "viMain": "tóc đỏ hung",
+     "note": "",
+     "accept": [
+      "roux",
+      "rousse"
+     ],
+     "typeable": true,
+     "audioText": "roux",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-barbe",
+     "fr": "la barbe",
+     "forms": [
+      "la barbe"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "râu",
+     "viMain": "râu",
+     "note": "",
+     "accept": [
+      "barbe",
+      "la barbe"
+     ],
+     "typeable": true,
+     "audioText": "la barbe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-frise-frisee",
+     "fr": "frisé / frisée",
+     "forms": [
+      "frisé",
+      "frisée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "xoăn",
+     "viMain": "xoăn",
+     "note": "",
+     "accept": [
+      "frisé",
+      "frisée"
+     ],
+     "typeable": true,
+     "audioText": "frisé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-moustache",
+     "fr": "la moustache",
+     "forms": [
+      "la moustache"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "ria mép",
+     "viMain": "ria mép",
+     "note": "",
+     "accept": [
+      "moustache",
+      "la moustache"
+     ],
+     "typeable": true,
+     "audioText": "la moustache",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-les-yeux",
+     "fr": "les yeux",
+     "forms": [
+      "les yeux"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "mắt",
+     "viMain": "mắt",
+     "note": "số ít: l'œil",
+     "accept": [
+      "yeux",
+      "les yeux"
+     ],
+     "typeable": true,
+     "audioText": "les yeux",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-tete",
+     "fr": "la tête",
+     "forms": [
+      "la tête"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đầu",
+     "viMain": "đầu",
+     "note": "",
+     "accept": [
+      "tête",
+      "la tête"
+     ],
+     "typeable": true,
+     "audioText": "la tête",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-visage",
+     "fr": "le visage",
+     "forms": [
+      "le visage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "khuôn mặt",
+     "viMain": "khuôn mặt",
+     "note": "",
+     "accept": [
+      "visage",
+      "le visage"
+     ],
+     "typeable": true,
+     "audioText": "le visage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-nez",
+     "fr": "le nez",
+     "forms": [
+      "le nez"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mũi",
+     "viMain": "mũi",
+     "note": "",
+     "accept": [
+      "nez",
+      "le nez"
+     ],
+     "typeable": true,
+     "audioText": "le nez",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-bouche",
+     "fr": "la bouche",
+     "forms": [
+      "la bouche"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "miệng",
+     "viMain": "miệng",
+     "note": "",
+     "accept": [
+      "bouche",
+      "la bouche"
+     ],
+     "typeable": true,
+     "audioText": "la bouche",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-l-oreille",
+     "fr": "l'oreille",
+     "forms": [
+      "l'oreille"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tai",
+     "viMain": "tai",
+     "note": "",
+     "accept": [
+      "oreille",
+      "l'oreille"
+     ],
+     "typeable": true,
+     "audioText": "l'oreille",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-la-main",
+     "fr": "la main",
+     "forms": [
+      "la main"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bàn tay",
+     "viMain": "bàn tay",
+     "note": "",
+     "accept": [
+      "main",
+      "la main"
+     ],
+     "typeable": true,
+     "audioText": "la main",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t09-le-dos",
+     "fr": "le dos",
+     "forms": [
+      "le dos"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "lưng",
+     "viMain": "lưng",
+     "note": "",
+     "accept": [
+      "dos",
+      "le dos"
+     ],
+     "typeable": true,
+     "audioText": "le dos",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1530 @@
+{
+ "id": 3,
+ "vi": "Nghề nghiệp",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t03-b1",
+   "title": "Khái niệm chung về nghề",
+   "words": [
+    {
+     "id": "t03-le-metier",
+     "fr": "le métier",
+     "forms": [
+      "le métier"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "nghề, công việc chuyên môn",
+     "viMain": "nghề, công việc chuyên môn",
+     "note": "",
+     "accept": [
+      "métier",
+      "le métier"
+     ],
+     "typeable": true,
+     "audioText": "le métier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-la-profession",
+     "fr": "la profession",
+     "forms": [
+      "la profession"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nghề nghiệp",
+     "viMain": "nghề nghiệp",
+     "note": "Je suis médecin. (không dùng mạo từ)",
+     "accept": [
+      "profession",
+      "la profession"
+     ],
+     "typeable": true,
+     "audioText": "la profession",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-travail",
+     "fr": "le travail",
+     "forms": [
+      "le travail"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "công việc",
+     "viMain": "công việc",
+     "note": "",
+     "accept": [
+      "travail",
+      "le travail"
+     ],
+     "typeable": true,
+     "audioText": "le travail",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-travailler",
+     "fr": "travailler",
+     "forms": [
+      "travailler"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "làm việc",
+     "viMain": "làm việc",
+     "note": "",
+     "accept": [
+      "travailler"
+     ],
+     "typeable": true,
+     "audioText": "travailler",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-bureau",
+     "fr": "le bureau",
+     "forms": [
+      "le bureau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "văn phòng",
+     "viMain": "văn phòng",
+     "note": "",
+     "accept": [
+      "bureau",
+      "le bureau"
+     ],
+     "typeable": true,
+     "audioText": "le bureau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-entreprise",
+     "fr": "l'entreprise",
+     "forms": [
+      "l'entreprise"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "công ty",
+     "viMain": "công ty",
+     "note": "",
+     "accept": [
+      "entreprise",
+      "l'entreprise"
+     ],
+     "typeable": true,
+     "audioText": "l'entreprise",
+     "sameMeaningGroup": "sm-cong-ty",
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-quel-est-votre-metier",
+     "fr": "Quel est votre métier ?",
+     "forms": [
+      "Quel est votre métier ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Nghề của bạn là gì?",
+     "viMain": "Nghề của bạn là gì?",
+     "note": "",
+     "accept": [
+      "Quel est votre métier ?"
+     ],
+     "typeable": false,
+     "audioText": "Quel est votre métier ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-emploi",
+     "fr": "l'emploi",
+     "forms": [
+      "l'emploi"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "việc làm",
+     "viMain": "việc làm",
+     "note": "",
+     "accept": [
+      "emploi",
+      "l'emploi"
+     ],
+     "typeable": true,
+     "audioText": "l'emploi",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-la-societe",
+     "fr": "la société",
+     "forms": [
+      "la société"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "công ty",
+     "viMain": "công ty",
+     "note": "",
+     "accept": [
+      "société",
+      "la société"
+     ],
+     "typeable": true,
+     "audioText": "la société",
+     "sameMeaningGroup": "sm-cong-ty",
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-usine",
+     "fr": "l'usine",
+     "forms": [
+      "l'usine"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nhà máy",
+     "viMain": "nhà máy",
+     "note": "",
+     "accept": [
+      "usine",
+      "l'usine"
+     ],
+     "typeable": true,
+     "audioText": "l'usine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-horaire",
+     "fr": "l'horaire",
+     "forms": [
+      "l'horaire"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "giờ làm việc",
+     "viMain": "giờ làm việc",
+     "note": "thường dùng số nhiều: les horaires",
+     "accept": [
+      "horaire",
+      "l'horaire"
+     ],
+     "typeable": true,
+     "audioText": "l'horaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-salaire",
+     "fr": "le salaire",
+     "forms": [
+      "le salaire"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiền lương",
+     "viMain": "tiền lương",
+     "note": "",
+     "accept": [
+      "salaire",
+      "le salaire"
+     ],
+     "typeable": true,
+     "audioText": "le salaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-patron-la-patronne",
+     "fr": "le patron / la patronne",
+     "forms": [
+      "le patron",
+      "la patronne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "ông chủ, bà chủ",
+     "viMain": "ông chủ, bà chủ",
+     "note": "",
+     "accept": [
+      "patron",
+      "le patron",
+      "patronne",
+      "la patronne"
+     ],
+     "typeable": true,
+     "audioText": "le patron",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-chef",
+     "fr": "le chef",
+     "forms": [
+      "le chef"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sếp; người đứng đầu",
+     "viMain": "sếp",
+     "note": "",
+     "accept": [
+      "chef",
+      "le chef"
+     ],
+     "typeable": true,
+     "audioText": "le chef",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-collegue-la-collegue",
+     "fr": "le collègue / la collègue",
+     "forms": [
+      "le collègue",
+      "la collègue"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "đồng nghiệp",
+     "viMain": "đồng nghiệp",
+     "note": "",
+     "accept": [
+      "collègue",
+      "le collègue",
+      "la collègue"
+     ],
+     "typeable": true,
+     "audioText": "le collègue",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-qu-est-ce-que-vous-faites-dans-la-vie",
+     "fr": "Qu'est-ce que vous faites dans la vie ?",
+     "forms": [
+      "Qu'est-ce que vous faites dans la vie ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Bạn làm nghề gì?",
+     "viMain": "Bạn làm nghề gì?",
+     "note": "",
+     "accept": [
+      "Qu'est-ce que vous faites dans la vie ?"
+     ],
+     "typeable": false,
+     "audioText": "Qu'est-ce que vous faites dans la vie ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t03-b2",
+   "title": "Học tập, giáo dục · Y tế",
+   "words": [
+    {
+     "id": "t03-l-etudiant-l-etudiante",
+     "fr": "l'étudiant / l'étudiante",
+     "forms": [
+      "l'étudiant",
+      "l'étudiante"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "sinh viên",
+     "viMain": "sinh viên",
+     "note": "",
+     "accept": [
+      "étudiant",
+      "l'étudiant",
+      "étudiante",
+      "l'étudiante"
+     ],
+     "typeable": true,
+     "audioText": "l'étudiant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-eleve",
+     "fr": "l'élève",
+     "forms": [
+      "l'élève"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "học sinh",
+     "viMain": "học sinh",
+     "note": "",
+     "accept": [
+      "élève",
+      "l'élève"
+     ],
+     "typeable": true,
+     "audioText": "l'élève",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-professeur-la-professeure",
+     "fr": "le professeur / la professeure",
+     "forms": [
+      "le professeur",
+      "la professeure"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "giáo viên; giáo sư",
+     "viMain": "giáo viên",
+     "note": "",
+     "accept": [
+      "professeur",
+      "le professeur",
+      "professeure",
+      "la professeure"
+     ],
+     "typeable": true,
+     "audioText": "le professeur",
+     "sameMeaningGroup": "sm-giao-vien",
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-enseignant-l-enseignante",
+     "fr": "l'enseignant / l'enseignante",
+     "forms": [
+      "l'enseignant",
+      "l'enseignante"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "giáo viên",
+     "viMain": "giáo viên",
+     "note": "",
+     "accept": [
+      "enseignant",
+      "l'enseignant",
+      "enseignante",
+      "l'enseignante"
+     ],
+     "typeable": true,
+     "audioText": "l'enseignant",
+     "sameMeaningGroup": "sm-giao-vien",
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-instituteur-l-institutrice",
+     "fr": "l'instituteur / l'institutrice",
+     "forms": [
+      "l'instituteur",
+      "l'institutrice"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "giáo viên tiểu học",
+     "viMain": "giáo viên tiểu học",
+     "note": "",
+     "accept": [
+      "instituteur",
+      "l'instituteur",
+      "institutrice",
+      "l'institutrice"
+     ],
+     "typeable": true,
+     "audioText": "l'instituteur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-medecin",
+     "fr": "le médecin",
+     "forms": [
+      "le médecin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bác sĩ",
+     "viMain": "bác sĩ",
+     "note": "dùng chung cho nam và nữ",
+     "accept": [
+      "médecin",
+      "le médecin"
+     ],
+     "typeable": true,
+     "audioText": "le médecin",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c03"
+    },
+    {
+     "id": "t03-l-infirmier-l-infirmiere",
+     "fr": "l'infirmier / l'infirmière",
+     "forms": [
+      "l'infirmier",
+      "l'infirmière"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "y tá",
+     "viMain": "y tá",
+     "note": "",
+     "accept": [
+      "infirmier",
+      "l'infirmier",
+      "infirmière",
+      "l'infirmière"
+     ],
+     "typeable": true,
+     "audioText": "l'infirmier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-dentiste-la-dentiste",
+     "fr": "le dentiste / la dentiste",
+     "forms": [
+      "le dentiste",
+      "la dentiste"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "nha sĩ",
+     "viMain": "nha sĩ",
+     "note": "",
+     "accept": [
+      "dentiste",
+      "le dentiste",
+      "la dentiste"
+     ],
+     "typeable": true,
+     "audioText": "le dentiste",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-pharmacien-la-pharmacienne",
+     "fr": "le pharmacien / la pharmacienne",
+     "forms": [
+      "le pharmacien",
+      "la pharmacienne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "dược sĩ",
+     "viMain": "dược sĩ",
+     "note": "",
+     "accept": [
+      "pharmacien",
+      "le pharmacien",
+      "pharmacienne",
+      "la pharmacienne"
+     ],
+     "typeable": true,
+     "audioText": "le pharmacien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-docteur",
+     "fr": "le docteur",
+     "forms": [
+      "le docteur"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bác sĩ (cách gọi)",
+     "viMain": "bác sĩ (cách gọi)",
+     "note": "",
+     "accept": [
+      "docteur",
+      "le docteur"
+     ],
+     "typeable": true,
+     "audioText": "le docteur",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c03"
+    },
+    {
+     "id": "t03-le-chirurgien-la-chirurgienne",
+     "fr": "le chirurgien / la chirurgienne",
+     "forms": [
+      "le chirurgien",
+      "la chirurgienne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "bác sĩ phẫu thuật",
+     "viMain": "bác sĩ phẫu thuật",
+     "note": "",
+     "accept": [
+      "chirurgien",
+      "le chirurgien",
+      "chirurgienne",
+      "la chirurgienne"
+     ],
+     "typeable": true,
+     "audioText": "le chirurgien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-patient-la-patiente",
+     "fr": "le patient / la patiente",
+     "forms": [
+      "le patient",
+      "la patiente"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "bệnh nhân",
+     "viMain": "bệnh nhân",
+     "note": "",
+     "accept": [
+      "patient",
+      "le patient",
+      "patiente",
+      "la patiente"
+     ],
+     "typeable": true,
+     "audioText": "le patient",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t03-b3",
+   "title": "Văn phòng, luật, kỹ thuật",
+   "words": [
+    {
+     "id": "t03-l-avocat-l-avocate",
+     "fr": "l'avocat / l'avocate",
+     "forms": [
+      "l'avocat",
+      "l'avocate"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "luật sư",
+     "viMain": "luật sư",
+     "note": "",
+     "accept": [
+      "avocat",
+      "l'avocat",
+      "avocate",
+      "l'avocate"
+     ],
+     "typeable": true,
+     "audioText": "l'avocat",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-ingenieur-l-ingenieure",
+     "fr": "l'ingénieur / l'ingénieure",
+     "forms": [
+      "l'ingénieur",
+      "l'ingénieure"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "kỹ sư",
+     "viMain": "kỹ sư",
+     "note": "",
+     "accept": [
+      "ingénieur",
+      "l'ingénieur",
+      "ingénieure",
+      "l'ingénieure"
+     ],
+     "typeable": true,
+     "audioText": "l'ingénieur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-comptable-la-comptable",
+     "fr": "le comptable / la comptable",
+     "forms": [
+      "le comptable",
+      "la comptable"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "kế toán",
+     "viMain": "kế toán",
+     "note": "",
+     "accept": [
+      "comptable",
+      "le comptable",
+      "la comptable"
+     ],
+     "typeable": true,
+     "audioText": "le comptable",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-secretaire-la-secretaire",
+     "fr": "le secrétaire / la secrétaire",
+     "forms": [
+      "le secrétaire",
+      "la secrétaire"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "thư ký",
+     "viMain": "thư ký",
+     "note": "",
+     "accept": [
+      "secrétaire",
+      "le secrétaire",
+      "la secrétaire"
+     ],
+     "typeable": true,
+     "audioText": "le secrétaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-employe-l-employee",
+     "fr": "l'employé / l'employée",
+     "forms": [
+      "l'employé",
+      "l'employée"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "nhân viên",
+     "viMain": "nhân viên",
+     "note": "",
+     "accept": [
+      "employé",
+      "l'employé",
+      "employée",
+      "l'employée"
+     ],
+     "typeable": true,
+     "audioText": "l'employé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-directeur-la-directrice",
+     "fr": "le directeur / la directrice",
+     "forms": [
+      "le directeur",
+      "la directrice"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "giám đốc",
+     "viMain": "giám đốc",
+     "note": "",
+     "accept": [
+      "directeur",
+      "le directeur",
+      "directrice",
+      "la directrice"
+     ],
+     "typeable": true,
+     "audioText": "le directeur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-informaticien-l-informaticienne",
+     "fr": "l'informaticien / l'informaticienne",
+     "forms": [
+      "l'informaticien",
+      "l'informaticienne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "chuyên viên tin học",
+     "viMain": "chuyên viên tin học",
+     "note": "",
+     "accept": [
+      "informaticien",
+      "l'informaticien",
+      "informaticienne",
+      "l'informaticienne"
+     ],
+     "typeable": true,
+     "audioText": "l'informaticien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-architecte",
+     "fr": "l'architecte",
+     "forms": [
+      "l'architecte"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "kiến trúc sư",
+     "viMain": "kiến trúc sư",
+     "note": "",
+     "accept": [
+      "architecte",
+      "l'architecte"
+     ],
+     "typeable": true,
+     "audioText": "l'architecte",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-programmeur-la-programmeuse",
+     "fr": "le programmeur / la programmeuse",
+     "forms": [
+      "le programmeur",
+      "la programmeuse"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "lập trình viên",
+     "viMain": "lập trình viên",
+     "note": "",
+     "accept": [
+      "programmeur",
+      "le programmeur",
+      "programmeuse",
+      "la programmeuse"
+     ],
+     "typeable": true,
+     "audioText": "le programmeur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-technicien-la-technicienne",
+     "fr": "le technicien / la technicienne",
+     "forms": [
+      "le technicien",
+      "la technicienne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "kỹ thuật viên",
+     "viMain": "kỹ thuật viên",
+     "note": "",
+     "accept": [
+      "technicien",
+      "le technicien",
+      "technicienne",
+      "la technicienne"
+     ],
+     "typeable": true,
+     "audioText": "le technicien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t03-b4",
+   "title": "Dịch vụ, bán hàng, ăn uống · An ninh, giao thông, lao động chân tay",
+   "words": [
+    {
+     "id": "t03-le-vendeur-la-vendeuse",
+     "fr": "le vendeur / la vendeuse",
+     "forms": [
+      "le vendeur",
+      "la vendeuse"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người bán hàng",
+     "viMain": "người bán hàng",
+     "note": "",
+     "accept": [
+      "vendeur",
+      "le vendeur",
+      "vendeuse",
+      "la vendeuse"
+     ],
+     "typeable": true,
+     "audioText": "le vendeur",
+     "sameMeaningGroup": "sm-nguoi-ban-hang",
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-serveur-la-serveuse",
+     "fr": "le serveur / la serveuse",
+     "forms": [
+      "le serveur",
+      "la serveuse"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "phục vụ bàn",
+     "viMain": "phục vụ bàn",
+     "note": "",
+     "accept": [
+      "serveur",
+      "le serveur",
+      "serveuse",
+      "la serveuse"
+     ],
+     "typeable": true,
+     "audioText": "le serveur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-cuisinier-la-cuisiniere",
+     "fr": "le cuisinier / la cuisinière",
+     "forms": [
+      "le cuisinier",
+      "la cuisinière"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "đầu bếp",
+     "viMain": "đầu bếp",
+     "note": "",
+     "accept": [
+      "cuisinier",
+      "le cuisinier",
+      "cuisinière",
+      "la cuisinière"
+     ],
+     "typeable": true,
+     "audioText": "le cuisinier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-boulanger-la-boulangere",
+     "fr": "le boulanger / la boulangère",
+     "forms": [
+      "le boulanger",
+      "la boulangère"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "thợ làm bánh mì",
+     "viMain": "thợ làm bánh mì",
+     "note": "",
+     "accept": [
+      "boulanger",
+      "le boulanger",
+      "boulangère",
+      "la boulangère"
+     ],
+     "typeable": true,
+     "audioText": "le boulanger",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-coiffeur-la-coiffeuse",
+     "fr": "le coiffeur / la coiffeuse",
+     "forms": [
+      "le coiffeur",
+      "la coiffeuse"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "thợ cắt tóc",
+     "viMain": "thợ cắt tóc",
+     "note": "",
+     "accept": [
+      "coiffeur",
+      "le coiffeur",
+      "coiffeuse",
+      "la coiffeuse"
+     ],
+     "typeable": true,
+     "audioText": "le coiffeur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-commercant-la-commercante",
+     "fr": "le commerçant / la commerçante",
+     "forms": [
+      "le commerçant",
+      "la commerçante"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người buôn bán",
+     "viMain": "người buôn bán",
+     "note": "",
+     "accept": [
+      "commerçant",
+      "le commerçant",
+      "commerçante",
+      "la commerçante"
+     ],
+     "typeable": true,
+     "audioText": "le commerçant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-boucher-la-bouchere",
+     "fr": "le boucher / la bouchère",
+     "forms": [
+      "le boucher",
+      "la bouchère"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người bán thịt",
+     "viMain": "người bán thịt",
+     "note": "",
+     "accept": [
+      "boucher",
+      "le boucher",
+      "bouchère",
+      "la bouchère"
+     ],
+     "typeable": true,
+     "audioText": "le boucher",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-chauffeur",
+     "fr": "le chauffeur",
+     "forms": [
+      "le chauffeur"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tài xế",
+     "viMain": "tài xế",
+     "note": "",
+     "accept": [
+      "chauffeur",
+      "le chauffeur"
+     ],
+     "typeable": true,
+     "audioText": "le chauffeur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-policier-la-policiere",
+     "fr": "le policier / la policière",
+     "forms": [
+      "le policier",
+      "la policière"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "cảnh sát",
+     "viMain": "cảnh sát",
+     "note": "",
+     "accept": [
+      "policier",
+      "le policier",
+      "policière",
+      "la policière"
+     ],
+     "typeable": true,
+     "audioText": "le policier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-agriculteur-l-agricultrice",
+     "fr": "l'agriculteur / l'agricultrice",
+     "forms": [
+      "l'agriculteur",
+      "l'agricultrice"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "nông dân",
+     "viMain": "nông dân",
+     "note": "",
+     "accept": [
+      "agriculteur",
+      "l'agriculteur",
+      "agricultrice",
+      "l'agricultrice"
+     ],
+     "typeable": true,
+     "audioText": "l'agriculteur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-ouvrier-l-ouvriere",
+     "fr": "l'ouvrier / l'ouvrière",
+     "forms": [
+      "l'ouvrier",
+      "l'ouvrière"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "công nhân",
+     "viMain": "công nhân",
+     "note": "",
+     "accept": [
+      "ouvrier",
+      "l'ouvrier",
+      "ouvrière",
+      "l'ouvrière"
+     ],
+     "typeable": true,
+     "audioText": "l'ouvrier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-plombier",
+     "fr": "le plombier",
+     "forms": [
+      "le plombier"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thợ sửa ống nước",
+     "viMain": "thợ sửa ống nước",
+     "note": "",
+     "accept": [
+      "plombier",
+      "le plombier"
+     ],
+     "typeable": true,
+     "audioText": "le plombier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-electricien-l-electricienne",
+     "fr": "l'électricien / l'électricienne",
+     "forms": [
+      "l'électricien",
+      "l'électricienne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "thợ điện",
+     "viMain": "thợ điện",
+     "note": "",
+     "accept": [
+      "électricien",
+      "l'électricien",
+      "électricienne",
+      "l'électricienne"
+     ],
+     "typeable": true,
+     "audioText": "l'électricien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-mecanicien-la-mecanicienne",
+     "fr": "le mécanicien / la mécanicienne",
+     "forms": [
+      "le mécanicien",
+      "la mécanicienne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "thợ máy",
+     "viMain": "thợ máy",
+     "note": "",
+     "accept": [
+      "mécanicien",
+      "le mécanicien",
+      "mécanicienne",
+      "la mécanicienne"
+     ],
+     "typeable": true,
+     "audioText": "le mécanicien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-gardien-la-gardienne",
+     "fr": "le gardien / la gardienne",
+     "forms": [
+      "le gardien",
+      "la gardienne"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người gác (chung cư)",
+     "viMain": "người gác (chung cư)",
+     "note": "",
+     "accept": [
+      "gardien",
+      "le gardien",
+      "gardienne",
+      "la gardienne"
+     ],
+     "typeable": true,
+     "audioText": "le gardien",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-pilote",
+     "fr": "le pilote",
+     "forms": [
+      "le pilote"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phi công",
+     "viMain": "phi công",
+     "note": "",
+     "accept": [
+      "pilote",
+      "le pilote"
+     ],
+     "typeable": true,
+     "audioText": "le pilote",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-hotesse-de-l-air",
+     "fr": "l'hôtesse de l'air",
+     "forms": [
+      "l'hôtesse de l'air"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tiếp viên hàng không",
+     "viMain": "tiếp viên hàng không",
+     "note": "",
+     "accept": [
+      "hôtesse de l'air",
+      "l'hôtesse de l'air"
+     ],
+     "typeable": true,
+     "audioText": "l'hôtesse de l'air",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t03-b5",
+   "title": "Truyền thông, nghệ thuật · Tình trạng việc làm",
+   "words": [
+    {
+     "id": "t03-le-journaliste-la-journaliste",
+     "fr": "le journaliste / la journaliste",
+     "forms": [
+      "le journaliste",
+      "la journaliste"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "nhà báo",
+     "viMain": "nhà báo",
+     "note": "",
+     "accept": [
+      "journaliste",
+      "le journaliste",
+      "la journaliste"
+     ],
+     "typeable": true,
+     "audioText": "le journaliste",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-artiste",
+     "fr": "l'artiste",
+     "forms": [
+      "l'artiste"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "nghệ sĩ",
+     "viMain": "nghệ sĩ",
+     "note": "",
+     "accept": [
+      "artiste",
+      "l'artiste"
+     ],
+     "typeable": true,
+     "audioText": "l'artiste",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-chanteur-la-chanteuse",
+     "fr": "le chanteur / la chanteuse",
+     "forms": [
+      "le chanteur",
+      "la chanteuse"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "ca sĩ",
+     "viMain": "ca sĩ",
+     "note": "",
+     "accept": [
+      "chanteur",
+      "le chanteur",
+      "chanteuse",
+      "la chanteuse"
+     ],
+     "typeable": true,
+     "audioText": "le chanteur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-l-acteur-l-actrice",
+     "fr": "l'acteur / l'actrice",
+     "forms": [
+      "l'acteur",
+      "l'actrice"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "diễn viên",
+     "viMain": "diễn viên",
+     "note": "",
+     "accept": [
+      "acteur",
+      "l'acteur",
+      "actrice",
+      "l'actrice"
+     ],
+     "typeable": true,
+     "audioText": "l'acteur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-retraite-la-retraitee",
+     "fr": "le retraité / la retraitée",
+     "forms": [
+      "le retraité",
+      "la retraitée"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người về hưu",
+     "viMain": "người về hưu",
+     "note": "",
+     "accept": [
+      "retraité",
+      "le retraité",
+      "retraitée",
+      "la retraitée"
+     ],
+     "typeable": true,
+     "audioText": "le retraité",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-etre-au-chomage",
+     "fr": "être au chômage",
+     "forms": [
+      "être au chômage"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "thất nghiệp",
+     "viMain": "thất nghiệp",
+     "note": "",
+     "accept": [
+      "être au chômage"
+     ],
+     "typeable": true,
+     "audioText": "être au chômage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-chomeur-la-chomeuse",
+     "fr": "le chômeur / la chômeuse",
+     "forms": [
+      "le chômeur",
+      "la chômeuse"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người thất nghiệp",
+     "viMain": "người thất nghiệp",
+     "note": "",
+     "accept": [
+      "chômeur",
+      "le chômeur",
+      "chômeuse",
+      "la chômeuse"
+     ],
+     "typeable": true,
+     "audioText": "le chômeur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-chomage",
+     "fr": "le chômage",
+     "forms": [
+      "le chômage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "nạn thất nghiệp",
+     "viMain": "nạn thất nghiệp",
+     "note": "",
+     "accept": [
+      "chômage",
+      "le chômage"
+     ],
+     "typeable": true,
+     "audioText": "le chômage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-stagiaire-la-stagiaire",
+     "fr": "le stagiaire / la stagiaire",
+     "forms": [
+      "le stagiaire",
+      "la stagiaire"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "thực tập sinh",
+     "viMain": "thực tập sinh",
+     "note": "",
+     "accept": [
+      "stagiaire",
+      "le stagiaire",
+      "la stagiaire"
+     ],
+     "typeable": true,
+     "audioText": "le stagiaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-le-stage",
+     "fr": "le stage",
+     "forms": [
+      "le stage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "kỳ thực tập",
+     "viMain": "kỳ thực tập",
+     "note": "",
+     "accept": [
+      "stage",
+      "le stage"
+     ],
+     "typeable": true,
+     "audioText": "le stage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t03-la-retraite",
+     "fr": "la retraite",
+     "forms": [
+      "la retraite"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "hưu trí",
+     "viMain": "hưu trí",
+     "note": "",
+     "accept": [
+      "retraite",
+      "la retraite"
+     ],
+     "typeable": true,
+     "audioText": "la retraite",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

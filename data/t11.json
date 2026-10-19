@@ -1,0 +1,2011 @@
+{
+ "id": 11,
+ "vi": "Sở thích, thời tiết, kỳ nghỉ",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t11-b1",
+   "title": "Sở thích, thích/ghét",
+   "words": [
+    {
+     "id": "t11-le-loisir",
+     "fr": "le loisir",
+     "forms": [
+      "le loisir"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thú vui; hoạt động giải trí",
+     "viMain": "thú vui",
+     "note": "",
+     "accept": [
+      "loisir",
+      "le loisir"
+     ],
+     "typeable": true,
+     "audioText": "le loisir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-aimer",
+     "fr": "aimer",
+     "forms": [
+      "aimer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thích; yêu",
+     "viMain": "thích",
+     "note": "",
+     "accept": [
+      "aimer"
+     ],
+     "typeable": true,
+     "audioText": "aimer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-adorer",
+     "fr": "adorer",
+     "forms": [
+      "adorer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "rất thích",
+     "viMain": "rất thích",
+     "note": "",
+     "accept": [
+      "adorer"
+     ],
+     "typeable": true,
+     "audioText": "adorer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-detester",
+     "fr": "détester",
+     "forms": [
+      "détester"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ghét",
+     "viMain": "ghét",
+     "note": "",
+     "accept": [
+      "détester"
+     ],
+     "typeable": true,
+     "audioText": "détester",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-preferer",
+     "fr": "préférer",
+     "forms": [
+      "préférer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thích hơn",
+     "viMain": "thích hơn",
+     "note": "",
+     "accept": [
+      "préférer"
+     ],
+     "typeable": true,
+     "audioText": "préférer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-s-amuser",
+     "fr": "s'amuser",
+     "forms": [
+      "s'amuser"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "vui chơi",
+     "viMain": "vui chơi",
+     "note": "động từ phản thân",
+     "accept": [
+      "s'amuser"
+     ],
+     "typeable": true,
+     "audioText": "s'amuser",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-sortir",
+     "fr": "sortir",
+     "forms": [
+      "sortir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ra ngoài; đi chơi",
+     "viMain": "ra ngoài",
+     "note": "",
+     "accept": [
+      "sortir"
+     ],
+     "typeable": true,
+     "audioText": "sortir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b2",
+   "title": "Thể thao (1/2)",
+   "words": [
+    {
+     "id": "t11-jouer",
+     "fr": "jouer",
+     "forms": [
+      "jouer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "chơi",
+     "viMain": "chơi",
+     "note": "",
+     "accept": [
+      "jouer"
+     ],
+     "typeable": true,
+     "audioText": "jouer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-sport",
+     "fr": "le sport",
+     "forms": [
+      "le sport"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thể thao",
+     "viMain": "thể thao",
+     "note": "",
+     "accept": [
+      "sport",
+      "le sport"
+     ],
+     "typeable": true,
+     "audioText": "le sport",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-football",
+     "fr": "le football",
+     "forms": [
+      "le football"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bóng đá",
+     "viMain": "bóng đá",
+     "note": "",
+     "accept": [
+      "football",
+      "le football"
+     ],
+     "typeable": true,
+     "audioText": "le football",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-tennis",
+     "fr": "le tennis",
+     "forms": [
+      "le tennis"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quần vợt",
+     "viMain": "quần vợt",
+     "note": "",
+     "accept": [
+      "tennis",
+      "le tennis"
+     ],
+     "typeable": true,
+     "audioText": "le tennis",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-basket",
+     "fr": "le basket",
+     "forms": [
+      "le basket"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bóng rổ",
+     "viMain": "bóng rổ",
+     "note": "",
+     "accept": [
+      "basket",
+      "le basket"
+     ],
+     "typeable": true,
+     "audioText": "le basket",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-natation",
+     "fr": "la natation",
+     "forms": [
+      "la natation"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bơi lội",
+     "viMain": "bơi lội",
+     "note": "",
+     "accept": [
+      "natation",
+      "la natation"
+     ],
+     "typeable": true,
+     "audioText": "la natation",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-nager",
+     "fr": "nager",
+     "forms": [
+      "nager"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "bơi",
+     "viMain": "bơi",
+     "note": "",
+     "accept": [
+      "nager"
+     ],
+     "typeable": true,
+     "audioText": "nager",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-courir",
+     "fr": "courir",
+     "forms": [
+      "courir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "chạy",
+     "viMain": "chạy",
+     "note": "",
+     "accept": [
+      "courir"
+     ],
+     "typeable": true,
+     "audioText": "courir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-faire-du-velo",
+     "fr": "faire du vélo",
+     "forms": [
+      "faire du vélo"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đạp xe",
+     "viMain": "đạp xe",
+     "note": "",
+     "accept": [
+      "faire du vélo"
+     ],
+     "typeable": true,
+     "audioText": "faire du vélo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-faire-du-sport",
+     "fr": "faire du sport",
+     "forms": [
+      "faire du sport"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chơi thể thao",
+     "viMain": "chơi thể thao",
+     "note": "",
+     "accept": [
+      "faire du sport"
+     ],
+     "typeable": true,
+     "audioText": "faire du sport",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-randonnee",
+     "fr": "la randonnée",
+     "forms": [
+      "la randonnée"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đi bộ đường dài",
+     "viMain": "đi bộ đường dài",
+     "note": "",
+     "accept": [
+      "randonnée",
+      "la randonnée"
+     ],
+     "typeable": true,
+     "audioText": "la randonnée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b3",
+   "title": "Thể thao (2/2)",
+   "words": [
+    {
+     "id": "t11-la-piscine",
+     "fr": "la piscine",
+     "forms": [
+      "la piscine"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "hồ bơi",
+     "viMain": "hồ bơi",
+     "note": "",
+     "accept": [
+      "piscine",
+      "la piscine"
+     ],
+     "typeable": true,
+     "audioText": "la piscine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-ski",
+     "fr": "le ski",
+     "forms": [
+      "le ski"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trượt tuyết",
+     "viMain": "trượt tuyết",
+     "note": "",
+     "accept": [
+      "ski",
+      "le ski"
+     ],
+     "typeable": true,
+     "audioText": "le ski",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-rugby",
+     "fr": "le rugby",
+     "forms": [
+      "le rugby"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bóng bầu dục",
+     "viMain": "bóng bầu dục",
+     "note": "",
+     "accept": [
+      "rugby",
+      "le rugby"
+     ],
+     "typeable": true,
+     "audioText": "le rugby",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-gymnastique",
+     "fr": "la gymnastique",
+     "forms": [
+      "la gymnastique"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thể dục",
+     "viMain": "thể dục",
+     "note": "",
+     "accept": [
+      "gymnastique",
+      "la gymnastique"
+     ],
+     "typeable": true,
+     "audioText": "la gymnastique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-l-equipe",
+     "fr": "l'équipe",
+     "forms": [
+      "l'équipe"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đội",
+     "viMain": "đội",
+     "note": "",
+     "accept": [
+      "équipe",
+      "l'équipe"
+     ],
+     "typeable": true,
+     "audioText": "l'équipe",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-match",
+     "fr": "le match",
+     "forms": [
+      "le match"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trận đấu",
+     "viMain": "trận đấu",
+     "note": "",
+     "accept": [
+      "match",
+      "le match"
+     ],
+     "typeable": true,
+     "audioText": "le match",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-joueur-la-joueuse",
+     "fr": "le joueur / la joueuse",
+     "forms": [
+      "le joueur",
+      "la joueuse"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người chơi; cầu thủ",
+     "viMain": "người chơi",
+     "note": "",
+     "accept": [
+      "joueur",
+      "le joueur",
+      "joueuse",
+      "la joueuse"
+     ],
+     "typeable": true,
+     "audioText": "le joueur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-terrain",
+     "fr": "le terrain",
+     "forms": [
+      "le terrain"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sân (thể thao)",
+     "viMain": "sân (thể thao)",
+     "note": "",
+     "accept": [
+      "terrain",
+      "le terrain"
+     ],
+     "typeable": true,
+     "audioText": "le terrain",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-gagner",
+     "fr": "gagner",
+     "forms": [
+      "gagner"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thắng; kiếm (tiền)",
+     "viMain": "thắng",
+     "note": "",
+     "accept": [
+      "gagner"
+     ],
+     "typeable": true,
+     "audioText": "gagner",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-perdre",
+     "fr": "perdre",
+     "forms": [
+      "perdre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thua; mất",
+     "viMain": "thua",
+     "note": "",
+     "accept": [
+      "perdre"
+     ],
+     "typeable": true,
+     "audioText": "perdre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b4",
+   "title": "Văn hóa, trò chơi (1/2)",
+   "words": [
+    {
+     "id": "t11-la-musique",
+     "fr": "la musique",
+     "forms": [
+      "la musique"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "âm nhạc",
+     "viMain": "âm nhạc",
+     "note": "",
+     "accept": [
+      "musique",
+      "la musique"
+     ],
+     "typeable": true,
+     "audioText": "la musique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-chanter",
+     "fr": "chanter",
+     "forms": [
+      "chanter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "hát",
+     "viMain": "hát",
+     "note": "",
+     "accept": [
+      "chanter"
+     ],
+     "typeable": true,
+     "audioText": "chanter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-danser",
+     "fr": "danser",
+     "forms": [
+      "danser"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "nhảy; khiêu vũ",
+     "viMain": "nhảy",
+     "note": "",
+     "accept": [
+      "danser"
+     ],
+     "typeable": true,
+     "audioText": "danser",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-film",
+     "fr": "le film",
+     "forms": [
+      "le film"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bộ phim",
+     "viMain": "bộ phim",
+     "note": "",
+     "accept": [
+      "film",
+      "le film"
+     ],
+     "typeable": true,
+     "audioText": "le film",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-livre",
+     "fr": "le livre",
+     "forms": [
+      "le livre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quyển sách",
+     "viMain": "quyển sách",
+     "note": "",
+     "accept": [
+      "livre",
+      "le livre"
+     ],
+     "typeable": true,
+     "audioText": "le livre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-jeu",
+     "fr": "le jeu",
+     "forms": [
+      "le jeu"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trò chơi",
+     "viMain": "trò chơi",
+     "note": "số nhiều: les jeux",
+     "accept": [
+      "jeu",
+      "le jeu"
+     ],
+     "typeable": true,
+     "audioText": "le jeu",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-jeu-video",
+     "fr": "le jeu vidéo",
+     "forms": [
+      "le jeu vidéo"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trò chơi điện tử",
+     "viMain": "trò chơi điện tử",
+     "note": "",
+     "accept": [
+      "jeu vidéo",
+      "le jeu vidéo"
+     ],
+     "typeable": true,
+     "audioText": "le jeu vidéo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-photo",
+     "fr": "la photo",
+     "forms": [
+      "la photo"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bức ảnh",
+     "viMain": "bức ảnh",
+     "note": "",
+     "accept": [
+      "photo",
+      "la photo"
+     ],
+     "typeable": true,
+     "audioText": "la photo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-peinture",
+     "fr": "la peinture",
+     "forms": [
+      "la peinture"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "hội họa; tranh",
+     "viMain": "hội họa",
+     "note": "",
+     "accept": [
+      "peinture",
+      "la peinture"
+     ],
+     "typeable": true,
+     "audioText": "la peinture",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-dessin",
+     "fr": "le dessin",
+     "forms": [
+      "le dessin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bức vẽ; môn vẽ",
+     "viMain": "bức vẽ",
+     "note": "",
+     "accept": [
+      "dessin",
+      "le dessin"
+     ],
+     "typeable": true,
+     "audioText": "le dessin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b5",
+   "title": "Văn hóa, trò chơi (2/2)",
+   "words": [
+    {
+     "id": "t11-la-lecture",
+     "fr": "la lecture",
+     "forms": [
+      "la lecture"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "việc đọc sách",
+     "viMain": "việc đọc sách",
+     "note": "",
+     "accept": [
+      "lecture",
+      "la lecture"
+     ],
+     "typeable": true,
+     "audioText": "la lecture",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-guitare",
+     "fr": "la guitare",
+     "forms": [
+      "la guitare"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đàn ghi-ta",
+     "viMain": "đàn ghi-ta",
+     "note": "",
+     "accept": [
+      "guitare",
+      "la guitare"
+     ],
+     "typeable": true,
+     "audioText": "la guitare",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-concert",
+     "fr": "le concert",
+     "forms": [
+      "le concert"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "buổi hòa nhạc",
+     "viMain": "buổi hòa nhạc",
+     "note": "",
+     "accept": [
+      "concert",
+      "le concert"
+     ],
+     "typeable": true,
+     "audioText": "le concert",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-spectacle",
+     "fr": "le spectacle",
+     "forms": [
+      "le spectacle"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "buổi biểu diễn",
+     "viMain": "buổi biểu diễn",
+     "note": "",
+     "accept": [
+      "spectacle",
+      "le spectacle"
+     ],
+     "typeable": true,
+     "audioText": "le spectacle",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-discotheque",
+     "fr": "la discothèque",
+     "forms": [
+      "la discothèque"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "vũ trường",
+     "viMain": "vũ trường",
+     "note": "",
+     "accept": [
+      "discothèque",
+      "la discothèque"
+     ],
+     "typeable": true,
+     "audioText": "la discothèque",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-bibliotheque",
+     "fr": "la bibliothèque",
+     "forms": [
+      "la bibliothèque"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thư viện",
+     "viMain": "thư viện",
+     "note": "",
+     "accept": [
+      "bibliothèque",
+      "la bibliothèque"
+     ],
+     "typeable": true,
+     "audioText": "la bibliothèque",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-les-cartes",
+     "fr": "les cartes",
+     "forms": [
+      "les cartes"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "bài tây",
+     "viMain": "bài tây",
+     "note": "jouer aux cartes",
+     "accept": [
+      "cartes",
+      "les cartes"
+     ],
+     "typeable": true,
+     "audioText": "les cartes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-les-echecs",
+     "fr": "les échecs",
+     "forms": [
+      "les échecs"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "cờ vua",
+     "viMain": "cờ vua",
+     "note": "",
+     "accept": [
+      "échecs",
+      "les échecs"
+     ],
+     "typeable": true,
+     "audioText": "les échecs",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-jouet",
+     "fr": "le jouet",
+     "forms": [
+      "le jouet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đồ chơi",
+     "viMain": "đồ chơi",
+     "note": "",
+     "accept": [
+      "jouet",
+      "le jouet"
+     ],
+     "typeable": true,
+     "audioText": "le jouet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-l-appareil-photo",
+     "fr": "l'appareil photo",
+     "forms": [
+      "l'appareil photo"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "máy ảnh",
+     "viMain": "máy ảnh",
+     "note": "",
+     "accept": [
+      "appareil photo",
+      "l'appareil photo"
+     ],
+     "typeable": true,
+     "audioText": "l'appareil photo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b6",
+   "title": "Thời tiết (1/2)",
+   "words": [
+    {
+     "id": "t11-le-temps",
+     "fr": "le temps",
+     "forms": [
+      "le temps"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thời tiết; thời gian",
+     "viMain": "thời tiết",
+     "note": "",
+     "accept": [
+      "temps",
+      "le temps"
+     ],
+     "typeable": true,
+     "audioText": "le temps",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-quel-temps-fait-il",
+     "fr": "Quel temps fait-il ?",
+     "forms": [
+      "Quel temps fait-il ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Thời tiết thế nào?",
+     "viMain": "Thời tiết thế nào?",
+     "note": "",
+     "accept": [
+      "Quel temps fait-il ?"
+     ],
+     "typeable": false,
+     "audioText": "Quel temps fait-il ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-fait-beau",
+     "fr": "Il fait beau.",
+     "forms": [
+      "Il fait beau."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Trời đẹp.",
+     "viMain": "Trời đẹp.",
+     "note": "",
+     "accept": [
+      "Il fait beau."
+     ],
+     "typeable": false,
+     "audioText": "Il fait beau.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-fait-mauvais",
+     "fr": "Il fait mauvais.",
+     "forms": [
+      "Il fait mauvais."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Trời xấu.",
+     "viMain": "Trời xấu.",
+     "note": "",
+     "accept": [
+      "Il fait mauvais."
+     ],
+     "typeable": false,
+     "audioText": "Il fait mauvais.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-fait-chaud",
+     "fr": "Il fait chaud.",
+     "forms": [
+      "Il fait chaud."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Trời nóng.",
+     "viMain": "Trời nóng.",
+     "note": "",
+     "accept": [
+      "Il fait chaud."
+     ],
+     "typeable": false,
+     "audioText": "Il fait chaud.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-fait-froid",
+     "fr": "Il fait froid.",
+     "forms": [
+      "Il fait froid."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Trời lạnh.",
+     "viMain": "Trời lạnh.",
+     "note": "",
+     "accept": [
+      "Il fait froid."
+     ],
+     "typeable": false,
+     "audioText": "Il fait froid.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-pleut",
+     "fr": "Il pleut.",
+     "forms": [
+      "Il pleut."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Trời mưa.",
+     "viMain": "Trời mưa.",
+     "note": "",
+     "accept": [
+      "Il pleut."
+     ],
+     "typeable": false,
+     "audioText": "Il pleut.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-neige",
+     "fr": "Il neige.",
+     "forms": [
+      "Il neige."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Có tuyết rơi.",
+     "viMain": "Có tuyết rơi.",
+     "note": "",
+     "accept": [
+      "Il neige."
+     ],
+     "typeable": false,
+     "audioText": "Il neige.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-soleil",
+     "fr": "le soleil",
+     "forms": [
+      "le soleil"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mặt trời; nắng",
+     "viMain": "mặt trời",
+     "note": "",
+     "accept": [
+      "soleil",
+      "le soleil"
+     ],
+     "typeable": true,
+     "audioText": "le soleil",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-pluie",
+     "fr": "la pluie",
+     "forms": [
+      "la pluie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "mưa",
+     "viMain": "mưa",
+     "note": "",
+     "accept": [
+      "pluie",
+      "la pluie"
+     ],
+     "typeable": true,
+     "audioText": "la pluie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b7",
+   "title": "Thời tiết (2/2)",
+   "words": [
+    {
+     "id": "t11-la-neige",
+     "fr": "la neige",
+     "forms": [
+      "la neige"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tuyết",
+     "viMain": "tuyết",
+     "note": "",
+     "accept": [
+      "neige",
+      "la neige"
+     ],
+     "typeable": true,
+     "audioText": "la neige",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-vent",
+     "fr": "le vent",
+     "forms": [
+      "le vent"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "gió",
+     "viMain": "gió",
+     "note": "",
+     "accept": [
+      "vent",
+      "le vent"
+     ],
+     "typeable": true,
+     "audioText": "le vent",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-nuage",
+     "fr": "le nuage",
+     "forms": [
+      "le nuage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đám mây",
+     "viMain": "đám mây",
+     "note": "",
+     "accept": [
+      "nuage",
+      "le nuage"
+     ],
+     "typeable": true,
+     "audioText": "le nuage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-temperature",
+     "fr": "la température",
+     "forms": [
+      "la température"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nhiệt độ",
+     "viMain": "nhiệt độ",
+     "note": "",
+     "accept": [
+      "température",
+      "la température"
+     ],
+     "typeable": true,
+     "audioText": "la température",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-meteo",
+     "fr": "la météo",
+     "forms": [
+      "la météo"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "dự báo thời tiết",
+     "viMain": "dự báo thời tiết",
+     "note": "",
+     "accept": [
+      "météo",
+      "la météo"
+     ],
+     "typeable": true,
+     "audioText": "la météo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-ciel",
+     "fr": "le ciel",
+     "forms": [
+      "le ciel"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bầu trời",
+     "viMain": "bầu trời",
+     "note": "",
+     "accept": [
+      "ciel",
+      "le ciel"
+     ],
+     "typeable": true,
+     "audioText": "le ciel",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-parapluie",
+     "fr": "le parapluie",
+     "forms": [
+      "le parapluie"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cái ô, dù",
+     "viMain": "cái ô, dù",
+     "note": "",
+     "accept": [
+      "parapluie",
+      "le parapluie"
+     ],
+     "typeable": true,
+     "audioText": "le parapluie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-l-orage",
+     "fr": "l'orage",
+     "forms": [
+      "l'orage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "giông bão",
+     "viMain": "giông bão",
+     "note": "",
+     "accept": [
+      "orage",
+      "l'orage"
+     ],
+     "typeable": true,
+     "audioText": "l'orage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-fait-doux",
+     "fr": "Il fait doux.",
+     "forms": [
+      "Il fait doux."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Trời ôn hòa.",
+     "viMain": "Trời ôn hòa.",
+     "note": "",
+     "accept": [
+      "Il fait doux."
+     ],
+     "typeable": false,
+     "audioText": "Il fait doux.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-il-fait-frais",
+     "fr": "Il fait frais.",
+     "forms": [
+      "Il fait frais."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Trời mát.",
+     "viMain": "Trời mát.",
+     "note": "",
+     "accept": [
+      "Il fait frais."
+     ],
+     "typeable": false,
+     "audioText": "Il fait frais.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b8",
+   "title": "Kỳ nghỉ, du lịch (1/2)",
+   "words": [
+    {
+     "id": "t11-voyager",
+     "fr": "voyager",
+     "forms": [
+      "voyager"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đi du lịch",
+     "viMain": "đi du lịch",
+     "note": "",
+     "accept": [
+      "voyager"
+     ],
+     "typeable": true,
+     "audioText": "voyager",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-les-vacances",
+     "fr": "les vacances",
+     "forms": [
+      "les vacances"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "kỳ nghỉ",
+     "viMain": "kỳ nghỉ",
+     "note": "",
+     "accept": [
+      "vacances",
+      "les vacances"
+     ],
+     "typeable": true,
+     "audioText": "les vacances",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-partir-en-vacances",
+     "fr": "partir en vacances",
+     "forms": [
+      "partir en vacances"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đi nghỉ",
+     "viMain": "đi nghỉ",
+     "note": "",
+     "accept": [
+      "partir en vacances"
+     ],
+     "typeable": true,
+     "audioText": "partir en vacances",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-voyage",
+     "fr": "le voyage",
+     "forms": [
+      "le voyage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chuyến đi",
+     "viMain": "chuyến đi",
+     "note": "",
+     "accept": [
+      "voyage",
+      "le voyage"
+     ],
+     "typeable": true,
+     "audioText": "le voyage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-valise",
+     "fr": "la valise",
+     "forms": [
+      "la valise"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "va li",
+     "viMain": "va li",
+     "note": "",
+     "accept": [
+      "valise",
+      "la valise"
+     ],
+     "typeable": true,
+     "audioText": "la valise",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-l-hotel",
+     "fr": "l'hôtel",
+     "forms": [
+      "l'hôtel"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "khách sạn",
+     "viMain": "khách sạn",
+     "note": "",
+     "accept": [
+      "hôtel",
+      "l'hôtel"
+     ],
+     "typeable": true,
+     "audioText": "l'hôtel",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-plage",
+     "fr": "la plage",
+     "forms": [
+      "la plage"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bãi biển",
+     "viMain": "bãi biển",
+     "note": "",
+     "accept": [
+      "plage",
+      "la plage"
+     ],
+     "typeable": true,
+     "audioText": "la plage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-mer",
+     "fr": "la mer",
+     "forms": [
+      "la mer"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "biển",
+     "viMain": "biển",
+     "note": "",
+     "accept": [
+      "mer",
+      "la mer"
+     ],
+     "typeable": true,
+     "audioText": "la mer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-montagne",
+     "fr": "la montagne",
+     "forms": [
+      "la montagne"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "núi",
+     "viMain": "núi",
+     "note": "",
+     "accept": [
+      "montagne",
+      "la montagne"
+     ],
+     "typeable": true,
+     "audioText": "la montagne",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-camping",
+     "fr": "le camping",
+     "forms": [
+      "le camping"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cắm trại; khu cắm trại",
+     "viMain": "cắm trại",
+     "note": "",
+     "accept": [
+      "camping",
+      "le camping"
+     ],
+     "typeable": true,
+     "audioText": "le camping",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-visiter",
+     "fr": "visiter",
+     "forms": [
+      "visiter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "tham quan",
+     "viMain": "tham quan",
+     "note": "",
+     "accept": [
+      "visiter"
+     ],
+     "typeable": true,
+     "audioText": "visiter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-se-detendre",
+     "fr": "se détendre",
+     "forms": [
+      "se détendre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "thư giãn",
+     "viMain": "thư giãn",
+     "note": "",
+     "accept": [
+      "se détendre"
+     ],
+     "typeable": true,
+     "audioText": "se détendre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-carte-postale",
+     "fr": "la carte postale",
+     "forms": [
+      "la carte postale"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bưu thiếp",
+     "viMain": "bưu thiếp",
+     "note": "",
+     "accept": [
+      "carte postale",
+      "la carte postale"
+     ],
+     "typeable": true,
+     "audioText": "la carte postale",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t11-b9",
+   "title": "Kỳ nghỉ, du lịch (2/2)",
+   "words": [
+    {
+     "id": "t11-le-tourisme",
+     "fr": "le tourisme",
+     "forms": [
+      "le tourisme"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "du lịch",
+     "viMain": "du lịch",
+     "note": "",
+     "accept": [
+      "tourisme",
+      "le tourisme"
+     ],
+     "typeable": true,
+     "audioText": "le tourisme",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-touriste-la-touriste",
+     "fr": "le touriste / la touriste",
+     "forms": [
+      "le touriste",
+      "la touriste"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "khách du lịch",
+     "viMain": "khách du lịch",
+     "note": "",
+     "accept": [
+      "touriste",
+      "le touriste",
+      "la touriste"
+     ],
+     "typeable": true,
+     "audioText": "le touriste",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-les-bagages",
+     "fr": "les bagages",
+     "forms": [
+      "les bagages"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "hành lý",
+     "viMain": "hành lý",
+     "note": "",
+     "accept": [
+      "bagages",
+      "les bagages"
+     ],
+     "typeable": true,
+     "audioText": "les bagages",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-tente",
+     "fr": "la tente",
+     "forms": [
+      "la tente"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cái lều",
+     "viMain": "cái lều",
+     "note": "",
+     "accept": [
+      "tente",
+      "la tente"
+     ],
+     "typeable": true,
+     "audioText": "la tente",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-caravane",
+     "fr": "la caravane",
+     "forms": [
+      "la caravane"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "xe nhà di động",
+     "viMain": "xe nhà di động",
+     "note": "",
+     "accept": [
+      "caravane",
+      "la caravane"
+     ],
+     "typeable": true,
+     "audioText": "la caravane",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-pique-nique",
+     "fr": "le pique-nique",
+     "forms": [
+      "le pique-nique"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bữa ăn ngoài trời",
+     "viMain": "bữa ăn ngoài trời",
+     "note": "",
+     "accept": [
+      "pique-nique",
+      "le pique-nique"
+     ],
+     "typeable": true,
+     "audioText": "le pique-nique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-douane",
+     "fr": "la douane",
+     "forms": [
+      "la douane"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "hải quan",
+     "viMain": "hải quan",
+     "note": "",
+     "accept": [
+      "douane",
+      "la douane"
+     ],
+     "typeable": true,
+     "audioText": "la douane",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-guide",
+     "fr": "le guide",
+     "forms": [
+      "le guide"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "hướng dẫn viên; sách hướng dẫn",
+     "viMain": "hướng dẫn viên",
+     "note": "",
+     "accept": [
+      "guide",
+      "le guide"
+     ],
+     "typeable": true,
+     "audioText": "le guide",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-le-monument",
+     "fr": "le monument",
+     "forms": [
+      "le monument"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "di tích; công trình",
+     "viMain": "di tích",
+     "note": "",
+     "accept": [
+      "monument",
+      "le monument"
+     ],
+     "typeable": true,
+     "audioText": "le monument",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-visite",
+     "fr": "la visite",
+     "forms": [
+      "la visite"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chuyến tham quan",
+     "viMain": "chuyến tham quan",
+     "note": "",
+     "accept": [
+      "visite",
+      "la visite"
+     ],
+     "typeable": true,
+     "audioText": "la visite",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-reception",
+     "fr": "la réception",
+     "forms": [
+      "la réception"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "quầy lễ tân",
+     "viMain": "quầy lễ tân",
+     "note": "",
+     "accept": [
+      "réception",
+      "la réception"
+     ],
+     "typeable": true,
+     "audioText": "la réception",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-reserver",
+     "fr": "réserver",
+     "forms": [
+      "réserver"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "đặt trước",
+     "viMain": "đặt trước",
+     "note": "",
+     "accept": [
+      "réserver"
+     ],
+     "typeable": true,
+     "audioText": "réserver",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t11-la-promenade",
+     "fr": "la promenade",
+     "forms": [
+      "la promenade"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cuộc đi dạo",
+     "viMain": "cuộc đi dạo",
+     "note": "",
+     "accept": [
+      "promenade",
+      "la promenade"
+     ],
+     "typeable": true,
+     "audioText": "la promenade",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

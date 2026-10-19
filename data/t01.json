@@ -1,0 +1,1209 @@
+{
+ "id": 1,
+ "vi": "Chào hỏi, lịch sự",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t01-b1",
+   "title": "Chào hỏi, tạm biệt · Hỏi thăm",
+   "words": [
+    {
+     "id": "t01-bonjour",
+     "fr": "bonjour",
+     "forms": [
+      "bonjour"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "xin chào (ban ngày)",
+     "viMain": "xin chào (ban ngày)",
+     "note": "",
+     "accept": [
+      "bonjour"
+     ],
+     "typeable": true,
+     "audioText": "bonjour",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bonsoir",
+     "fr": "bonsoir",
+     "forms": [
+      "bonsoir"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "chào buổi tối",
+     "viMain": "chào buổi tối",
+     "note": "",
+     "accept": [
+      "bonsoir"
+     ],
+     "typeable": true,
+     "audioText": "bonsoir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-salut",
+     "fr": "salut",
+     "forms": [
+      "salut"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "chào (thân mật)",
+     "viMain": "chào (thân mật)",
+     "note": "thân mật; dùng khi gặp và khi chia tay",
+     "accept": [
+      "salut"
+     ],
+     "typeable": true,
+     "audioText": "salut",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-au-revoir",
+     "fr": "au revoir",
+     "forms": [
+      "au revoir"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "tạm biệt",
+     "viMain": "tạm biệt",
+     "note": "",
+     "accept": [
+      "au revoir"
+     ],
+     "typeable": true,
+     "audioText": "au revoir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-a-bientot",
+     "fr": "à bientôt",
+     "forms": [
+      "à bientôt"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "hẹn sớm gặp lại",
+     "viMain": "hẹn sớm gặp lại",
+     "note": "",
+     "accept": [
+      "à bientôt"
+     ],
+     "typeable": true,
+     "audioText": "à bientôt",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-a-demain",
+     "fr": "à demain",
+     "forms": [
+      "à demain"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "hẹn mai gặp",
+     "viMain": "hẹn mai gặp",
+     "note": "",
+     "accept": [
+      "à demain"
+     ],
+     "typeable": true,
+     "audioText": "à demain",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bienvenue",
+     "fr": "bienvenue",
+     "forms": [
+      "bienvenue"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "chào mừng",
+     "viMain": "chào mừng",
+     "note": "",
+     "accept": [
+      "bienvenue"
+     ],
+     "typeable": true,
+     "audioText": "bienvenue",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-a-tout-a-l-heure",
+     "fr": "à tout à l'heure",
+     "forms": [
+      "à tout à l'heure"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "hẹn lát nữa gặp",
+     "viMain": "hẹn lát nữa gặp",
+     "note": "",
+     "accept": [
+      "à tout à l'heure"
+     ],
+     "typeable": true,
+     "audioText": "à tout à l'heure",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-comment-allez-vous",
+     "fr": "Comment allez-vous ?",
+     "forms": [
+      "Comment allez-vous ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Ông/bà/bạn khỏe không? (trang trọng)",
+     "viMain": "Ông/bà/bạn khỏe không? (trang trọng)",
+     "note": "",
+     "accept": [
+      "Comment allez-vous ?"
+     ],
+     "typeable": false,
+     "audioText": "Comment allez-vous ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-ca-va",
+     "fr": "Ça va ?",
+     "forms": [
+      "Ça va ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Khỏe không? (thân mật)",
+     "viMain": "Khỏe không? (thân mật)",
+     "note": "",
+     "accept": [
+      "Ça va ?"
+     ],
+     "typeable": false,
+     "audioText": "Ça va ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-ca-va-bien",
+     "fr": "Ça va bien.",
+     "forms": [
+      "Ça va bien."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Tôi khỏe.",
+     "viMain": "Tôi khỏe.",
+     "note": "",
+     "accept": [
+      "Ça va bien."
+     ],
+     "typeable": false,
+     "audioText": "Ça va bien.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-et-vous-et-toi",
+     "fr": "Et vous ? / Et toi ?",
+     "forms": [
+      "Et vous ? / Et toi ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Còn bạn thì sao?",
+     "viMain": "Còn bạn thì sao?",
+     "note": "",
+     "accept": [
+      "Et vous ? / Et toi ?"
+     ],
+     "typeable": false,
+     "audioText": "Et vous ? Et toi ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t01-b2",
+   "title": "Cảm ơn, xin lỗi, nhờ vả",
+   "words": [
+    {
+     "id": "t01-merci",
+     "fr": "merci",
+     "forms": [
+      "merci"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "cảm ơn",
+     "viMain": "cảm ơn",
+     "note": "",
+     "accept": [
+      "merci"
+     ],
+     "typeable": true,
+     "audioText": "merci",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-merci-beaucoup",
+     "fr": "merci beaucoup",
+     "forms": [
+      "merci beaucoup"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "cảm ơn nhiều",
+     "viMain": "cảm ơn nhiều",
+     "note": "",
+     "accept": [
+      "merci beaucoup"
+     ],
+     "typeable": true,
+     "audioText": "merci beaucoup",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-de-rien",
+     "fr": "de rien",
+     "forms": [
+      "de rien"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "không có gì",
+     "viMain": "không có gì",
+     "note": "",
+     "accept": [
+      "de rien"
+     ],
+     "typeable": true,
+     "audioText": "de rien",
+     "sameMeaningGroup": "sm-khong-co-gi",
+     "confusableGroup": "c02"
+    },
+    {
+     "id": "t01-s-il-vous-plait",
+     "fr": "s'il vous plaît",
+     "forms": [
+      "s'il vous plaît"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "làm ơn (trang trọng)",
+     "viMain": "làm ơn (trang trọng)",
+     "note": "",
+     "accept": [
+      "s'il vous plaît"
+     ],
+     "typeable": true,
+     "audioText": "s'il vous plaît",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-s-il-te-plait",
+     "fr": "s'il te plaît",
+     "forms": [
+      "s'il te plaît"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "làm ơn (thân mật)",
+     "viMain": "làm ơn (thân mật)",
+     "note": "",
+     "accept": [
+      "s'il te plaît"
+     ],
+     "typeable": true,
+     "audioText": "s'il te plaît",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-pardon",
+     "fr": "pardon",
+     "forms": [
+      "pardon"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "xin lỗi; xin phép",
+     "viMain": "xin lỗi",
+     "note": "",
+     "accept": [
+      "pardon"
+     ],
+     "typeable": true,
+     "audioText": "pardon",
+     "sameMeaningGroup": "sm-xin-loi",
+     "confusableGroup": "c01"
+    },
+    {
+     "id": "t01-excusez-moi",
+     "fr": "excusez-moi",
+     "forms": [
+      "excusez-moi"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "xin lỗi (trang trọng)",
+     "viMain": "xin lỗi (trang trọng)",
+     "note": "",
+     "accept": [
+      "excusez-moi"
+     ],
+     "typeable": true,
+     "audioText": "excusez-moi",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c01"
+    },
+    {
+     "id": "t01-desole-desolee",
+     "fr": "désolé / désolée",
+     "forms": [
+      "désolé",
+      "désolée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "xin lỗi, rất tiếc",
+     "viMain": "xin lỗi, rất tiếc",
+     "note": "",
+     "accept": [
+      "désolé",
+      "désolée"
+     ],
+     "typeable": true,
+     "audioText": "désolé",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c01"
+    },
+    {
+     "id": "t01-je-vous-en-prie",
+     "fr": "je vous en prie",
+     "forms": [
+      "je vous en prie"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "không có gì; xin mời (trang trọng)",
+     "viMain": "không có gì",
+     "note": "",
+     "accept": [
+      "je vous en prie"
+     ],
+     "typeable": true,
+     "audioText": "je vous en prie",
+     "sameMeaningGroup": "sm-khong-co-gi",
+     "confusableGroup": "c02"
+    },
+    {
+     "id": "t01-ce-n-est-pas-grave",
+     "fr": "ce n'est pas grave",
+     "forms": [
+      "ce n'est pas grave"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "không sao đâu",
+     "viMain": "không sao đâu",
+     "note": "",
+     "accept": [
+      "ce n'est pas grave"
+     ],
+     "typeable": true,
+     "audioText": "ce n'est pas grave",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-ce-n-est-rien",
+     "fr": "ce n'est rien",
+     "forms": [
+      "ce n'est rien"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "không có gì (đáp lời xin lỗi)",
+     "viMain": "không có gì (đáp lời xin lỗi)",
+     "note": "",
+     "accept": [
+      "ce n'est rien"
+     ],
+     "typeable": true,
+     "audioText": "ce n'est rien",
+     "sameMeaningGroup": null,
+     "confusableGroup": "c02"
+    },
+    {
+     "id": "t01-je-vous-remercie",
+     "fr": "je vous remercie",
+     "forms": [
+      "je vous remercie"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "tôi xin cảm ơn (trang trọng)",
+     "viMain": "tôi xin cảm ơn (trang trọng)",
+     "note": "",
+     "accept": [
+      "je vous remercie"
+     ],
+     "typeable": true,
+     "audioText": "je vous remercie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-s-excuser",
+     "fr": "s'excuser",
+     "forms": [
+      "s'excuser"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "xin lỗi",
+     "viMain": "xin lỗi",
+     "note": "",
+     "accept": [
+      "s'excuser"
+     ],
+     "typeable": true,
+     "audioText": "s'excuser",
+     "sameMeaningGroup": "sm-xin-loi",
+     "confusableGroup": "c01"
+    }
+   ]
+  },
+  {
+   "id": "t01-b3",
+   "title": "Xưng hô, đáp lời",
+   "words": [
+    {
+     "id": "t01-oui",
+     "fr": "oui",
+     "forms": [
+      "oui"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "vâng, có",
+     "viMain": "vâng, có",
+     "note": "",
+     "accept": [
+      "oui"
+     ],
+     "typeable": true,
+     "audioText": "oui",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-non",
+     "fr": "non",
+     "forms": [
+      "non"
+     ],
+     "pos": "adv",
+     "posGroup": "adv",
+     "gender": null,
+     "vi": "không",
+     "viMain": "không",
+     "note": "",
+     "accept": [
+      "non"
+     ],
+     "typeable": true,
+     "audioText": "non",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-monsieur",
+     "fr": "monsieur",
+     "forms": [
+      "monsieur"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "ông, ngài",
+     "viMain": "ông, ngài",
+     "note": "",
+     "accept": [
+      "monsieur"
+     ],
+     "typeable": true,
+     "audioText": "monsieur",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-madame",
+     "fr": "madame",
+     "forms": [
+      "madame"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bà, quý bà",
+     "viMain": "bà, quý bà",
+     "note": "",
+     "accept": [
+      "madame"
+     ],
+     "typeable": true,
+     "audioText": "madame",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-mademoiselle",
+     "fr": "mademoiselle",
+     "forms": [
+      "mademoiselle"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cô",
+     "viMain": "cô",
+     "note": "",
+     "accept": [
+      "mademoiselle"
+     ],
+     "typeable": true,
+     "audioText": "mademoiselle",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-tu",
+     "fr": "tu",
+     "forms": [
+      "tu"
+     ],
+     "pos": "pron",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "bạn (thân mật)",
+     "viMain": "bạn (thân mật)",
+     "note": "dùng với bạn bè, người nhà, trẻ em",
+     "accept": [
+      "tu"
+     ],
+     "typeable": true,
+     "audioText": "tu",
+     "sameMeaningGroup": "sm-ban-than-mat",
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-vous",
+     "fr": "vous",
+     "forms": [
+      "vous"
+     ],
+     "pos": "pron",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "ông/bà/các bạn (trang trọng hoặc số nhiều)",
+     "viMain": "ông/bà/các bạn (trang trọng hoặc số nhiều)",
+     "note": "",
+     "accept": [
+      "vous"
+     ],
+     "typeable": true,
+     "audioText": "vous",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-poli-polie",
+     "fr": "poli / polie",
+     "forms": [
+      "poli",
+      "polie"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "lịch sự",
+     "viMain": "lịch sự",
+     "note": "",
+     "accept": [
+      "poli",
+      "polie"
+     ],
+     "typeable": true,
+     "audioText": "poli",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-impoli-impolie",
+     "fr": "impoli / impolie",
+     "forms": [
+      "impoli",
+      "impolie"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "bất lịch sự",
+     "viMain": "bất lịch sự",
+     "note": "",
+     "accept": [
+      "impoli",
+      "impolie"
+     ],
+     "typeable": true,
+     "audioText": "impoli",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t01-b4",
+   "title": "Lời chúc",
+   "words": [
+    {
+     "id": "t01-bonne-journee",
+     "fr": "bonne journée",
+     "forms": [
+      "bonne journée"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc một ngày tốt lành",
+     "viMain": "chúc một ngày tốt lành",
+     "note": "",
+     "accept": [
+      "bonne journée"
+     ],
+     "typeable": true,
+     "audioText": "bonne journée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bonne-soiree",
+     "fr": "bonne soirée",
+     "forms": [
+      "bonne soirée"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc buổi tối vui vẻ",
+     "viMain": "chúc buổi tối vui vẻ",
+     "note": "",
+     "accept": [
+      "bonne soirée"
+     ],
+     "typeable": true,
+     "audioText": "bonne soirée",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bonne-nuit",
+     "fr": "bonne nuit",
+     "forms": [
+      "bonne nuit"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc ngủ ngon",
+     "viMain": "chúc ngủ ngon",
+     "note": "",
+     "accept": [
+      "bonne nuit"
+     ],
+     "typeable": true,
+     "audioText": "bonne nuit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-felicitations",
+     "fr": "félicitations",
+     "forms": [
+      "félicitations"
+     ],
+     "pos": "nfpl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "xin chúc mừng",
+     "viMain": "xin chúc mừng",
+     "note": "",
+     "accept": [
+      "félicitations"
+     ],
+     "typeable": true,
+     "audioText": "félicitations",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-joyeux-anniversaire",
+     "fr": "joyeux anniversaire",
+     "forms": [
+      "joyeux anniversaire"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc mừng sinh nhật",
+     "viMain": "chúc mừng sinh nhật",
+     "note": "",
+     "accept": [
+      "joyeux anniversaire"
+     ],
+     "typeable": true,
+     "audioText": "joyeux anniversaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bonne-chance",
+     "fr": "bonne chance",
+     "forms": [
+      "bonne chance"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc may mắn",
+     "viMain": "chúc may mắn",
+     "note": "",
+     "accept": [
+      "bonne chance"
+     ],
+     "typeable": true,
+     "audioText": "bonne chance",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bon-appetit",
+     "fr": "bon appétit",
+     "forms": [
+      "bon appétit"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc ngon miệng",
+     "viMain": "chúc ngon miệng",
+     "note": "",
+     "accept": [
+      "bon appétit"
+     ],
+     "typeable": true,
+     "audioText": "bon appétit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-sante",
+     "fr": "santé !",
+     "forms": [
+      "santé !"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "cạn ly; chúc sức khỏe",
+     "viMain": "cạn ly",
+     "note": "",
+     "accept": [
+      "santé !"
+     ],
+     "typeable": false,
+     "audioText": "santé !",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bon-week-end",
+     "fr": "bon week-end",
+     "forms": [
+      "bon week-end"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc cuối tuần vui vẻ",
+     "viMain": "chúc cuối tuần vui vẻ",
+     "note": "",
+     "accept": [
+      "bon week-end"
+     ],
+     "typeable": true,
+     "audioText": "bon week-end",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bonnes-vacances",
+     "fr": "bonnes vacances",
+     "forms": [
+      "bonnes vacances"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc kỳ nghỉ vui vẻ",
+     "viMain": "chúc kỳ nghỉ vui vẻ",
+     "note": "",
+     "accept": [
+      "bonnes vacances"
+     ],
+     "typeable": true,
+     "audioText": "bonnes vacances",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bon-voyage",
+     "fr": "bon voyage",
+     "forms": [
+      "bon voyage"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc thượng lộ bình an",
+     "viMain": "chúc thượng lộ bình an",
+     "note": "",
+     "accept": [
+      "bon voyage"
+     ],
+     "typeable": true,
+     "audioText": "bon voyage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bonne-annee",
+     "fr": "bonne année",
+     "forms": [
+      "bonne année"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "chúc mừng năm mới",
+     "viMain": "chúc mừng năm mới",
+     "note": "",
+     "accept": [
+      "bonne année"
+     ],
+     "typeable": true,
+     "audioText": "bonne année",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-joyeux-noel",
+     "fr": "joyeux Noël",
+     "forms": [
+      "joyeux Noël"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Giáng sinh vui vẻ",
+     "viMain": "Giáng sinh vui vẻ",
+     "note": "",
+     "accept": [
+      "joyeux Noël"
+     ],
+     "typeable": true,
+     "audioText": "joyeux Noël",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-bravo",
+     "fr": "bravo",
+     "forms": [
+      "bravo"
+     ],
+     "pos": "interj",
+     "posGroup": "other",
+     "gender": null,
+     "vi": "giỏi lắm; chúc mừng",
+     "viMain": "giỏi lắm",
+     "note": "",
+     "accept": [
+      "bravo"
+     ],
+     "typeable": true,
+     "audioText": "bravo",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-le-cadeau",
+     "fr": "le cadeau",
+     "forms": [
+      "le cadeau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "món quà",
+     "viMain": "món quà",
+     "note": "",
+     "accept": [
+      "cadeau",
+      "le cadeau"
+     ],
+     "typeable": true,
+     "audioText": "le cadeau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-le-bouquet-de-fleurs",
+     "fr": "le bouquet de fleurs",
+     "forms": [
+      "le bouquet de fleurs"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bó hoa",
+     "viMain": "bó hoa",
+     "note": "",
+     "accept": [
+      "bouquet de fleurs",
+      "le bouquet de fleurs"
+     ],
+     "typeable": true,
+     "audioText": "le bouquet de fleurs",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t01-b5",
+   "title": "Giới thiệu, đón tiếp",
+   "words": [
+    {
+     "id": "t01-enchante-enchantee",
+     "fr": "enchanté / enchantée",
+     "forms": [
+      "enchanté",
+      "enchantée"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "rất vui được gặp",
+     "viMain": "rất vui được gặp",
+     "note": "",
+     "accept": [
+      "enchanté",
+      "enchantée"
+     ],
+     "typeable": true,
+     "audioText": "enchanté",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-presenter",
+     "fr": "présenter",
+     "forms": [
+      "présenter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "giới thiệu",
+     "viMain": "giới thiệu",
+     "note": "Je vous présente Anna.",
+     "accept": [
+      "présenter"
+     ],
+     "typeable": true,
+     "audioText": "présenter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-entrer",
+     "fr": "entrer",
+     "forms": [
+      "entrer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "vào",
+     "viMain": "vào",
+     "note": "Entrez, je vous en prie !",
+     "accept": [
+      "entrer"
+     ],
+     "typeable": true,
+     "audioText": "entrer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-s-asseoir",
+     "fr": "s'asseoir",
+     "forms": [
+      "s'asseoir"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ngồi xuống",
+     "viMain": "ngồi xuống",
+     "note": "Asseyez-vous !",
+     "accept": [
+      "s'asseoir"
+     ],
+     "typeable": true,
+     "audioText": "s'asseoir",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-content-contente",
+     "fr": "content / contente",
+     "forms": [
+      "content",
+      "contente"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "vui, hài lòng",
+     "viMain": "vui, hài lòng",
+     "note": "",
+     "accept": [
+      "content",
+      "contente"
+     ],
+     "typeable": true,
+     "audioText": "content",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-ca-me-fait-plaisir",
+     "fr": "Ça me fait plaisir.",
+     "forms": [
+      "Ça me fait plaisir."
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Tôi rất vui.",
+     "viMain": "Tôi rất vui.",
+     "note": "",
+     "accept": [
+      "Ça me fait plaisir."
+     ],
+     "typeable": false,
+     "audioText": "Ça me fait plaisir.",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-serrer-la-main",
+     "fr": "serrer la main",
+     "forms": [
+      "serrer la main"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "bắt tay",
+     "viMain": "bắt tay",
+     "note": "",
+     "accept": [
+      "serrer la main"
+     ],
+     "typeable": true,
+     "audioText": "serrer la main",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t01-faire-la-bise",
+     "fr": "faire la bise",
+     "forms": [
+      "faire la bise"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "hôn má chào",
+     "viMain": "hôn má chào",
+     "note": "thân mật",
+     "accept": [
+      "faire la bise"
+     ],
+     "typeable": true,
+     "audioText": "faire la bise",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}

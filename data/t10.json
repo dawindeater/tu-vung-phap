@@ -1,0 +1,2536 @@
+{
+ "id": 10,
+ "vi": "Đồ ăn thức uống, mua sắm, tiền",
+ "frName": "",
+ "lessons": [
+  {
+   "id": "t10-b1",
+   "title": "Đồ uống · Bánh mì, trứng, sữa",
+   "words": [
+    {
+     "id": "t10-l-eau",
+     "fr": "l'eau",
+     "forms": [
+      "l'eau"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "nước",
+     "viMain": "nước",
+     "note": "",
+     "accept": [
+      "eau",
+      "l'eau"
+     ],
+     "typeable": true,
+     "audioText": "l'eau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-cafe",
+     "fr": "le café",
+     "forms": [
+      "le café"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cà phê (đồ uống)",
+     "viMain": "cà phê (đồ uống)",
+     "note": "",
+     "accept": [
+      "café",
+      "le café"
+     ],
+     "typeable": true,
+     "audioText": "le café",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-the",
+     "fr": "le thé",
+     "forms": [
+      "le thé"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trà",
+     "viMain": "trà",
+     "note": "",
+     "accept": [
+      "thé",
+      "le thé"
+     ],
+     "typeable": true,
+     "audioText": "le thé",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-lait",
+     "fr": "le lait",
+     "forms": [
+      "le lait"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sữa",
+     "viMain": "sữa",
+     "note": "",
+     "accept": [
+      "lait",
+      "le lait"
+     ],
+     "typeable": true,
+     "audioText": "le lait",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-jus-d-orange",
+     "fr": "le jus d'orange",
+     "forms": [
+      "le jus d'orange"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "nước cam ép",
+     "viMain": "nước cam ép",
+     "note": "",
+     "accept": [
+      "jus d'orange",
+      "le jus d'orange"
+     ],
+     "typeable": true,
+     "audioText": "le jus d'orange",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-vin",
+     "fr": "le vin",
+     "forms": [
+      "le vin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "rượu vang",
+     "viMain": "rượu vang",
+     "note": "",
+     "accept": [
+      "vin",
+      "le vin"
+     ],
+     "typeable": true,
+     "audioText": "le vin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-boisson",
+     "fr": "la boisson",
+     "forms": [
+      "la boisson"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đồ uống",
+     "viMain": "đồ uống",
+     "note": "",
+     "accept": [
+      "boisson",
+      "la boisson"
+     ],
+     "typeable": true,
+     "audioText": "la boisson",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-biere",
+     "fr": "la bière",
+     "forms": [
+      "la bière"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bia",
+     "viMain": "bia",
+     "note": "",
+     "accept": [
+      "bière",
+      "la bière"
+     ],
+     "typeable": true,
+     "audioText": "la bière",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-alcool",
+     "fr": "l'alcool",
+     "forms": [
+      "l'alcool"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "rượu bia",
+     "viMain": "rượu bia",
+     "note": "",
+     "accept": [
+      "alcool",
+      "l'alcool"
+     ],
+     "typeable": true,
+     "audioText": "l'alcool",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-pain",
+     "fr": "le pain",
+     "forms": [
+      "le pain"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bánh mì",
+     "viMain": "bánh mì",
+     "note": "",
+     "accept": [
+      "pain",
+      "le pain"
+     ],
+     "typeable": true,
+     "audioText": "le pain",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-baguette",
+     "fr": "la baguette",
+     "forms": [
+      "la baguette"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bánh mì que Pháp",
+     "viMain": "bánh mì que Pháp",
+     "note": "",
+     "accept": [
+      "baguette",
+      "la baguette"
+     ],
+     "typeable": true,
+     "audioText": "la baguette",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-fromage",
+     "fr": "le fromage",
+     "forms": [
+      "le fromage"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "phô mai",
+     "viMain": "phô mai",
+     "note": "",
+     "accept": [
+      "fromage",
+      "le fromage"
+     ],
+     "typeable": true,
+     "audioText": "le fromage",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-beurre",
+     "fr": "le beurre",
+     "forms": [
+      "le beurre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bơ",
+     "viMain": "bơ",
+     "note": "",
+     "accept": [
+      "beurre",
+      "le beurre"
+     ],
+     "typeable": true,
+     "audioText": "le beurre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-oeuf",
+     "fr": "l'œuf",
+     "forms": [
+      "l'œuf"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "trứng",
+     "viMain": "trứng",
+     "note": "số nhiều: les œufs",
+     "accept": [
+      "œuf",
+      "l'œuf"
+     ],
+     "typeable": true,
+     "audioText": "l'œuf",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-yaourt",
+     "fr": "le yaourt",
+     "forms": [
+      "le yaourt"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sữa chua",
+     "viMain": "sữa chua",
+     "note": "",
+     "accept": [
+      "yaourt",
+      "le yaourt"
+     ],
+     "typeable": true,
+     "audioText": "le yaourt",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-croissant",
+     "fr": "le croissant",
+     "forms": [
+      "le croissant"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bánh sừng bò",
+     "viMain": "bánh sừng bò",
+     "note": "",
+     "accept": [
+      "croissant",
+      "le croissant"
+     ],
+     "typeable": true,
+     "audioText": "le croissant",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-farine",
+     "fr": "la farine",
+     "forms": [
+      "la farine"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bột mì",
+     "viMain": "bột mì",
+     "note": "",
+     "accept": [
+      "farine",
+      "la farine"
+     ],
+     "typeable": true,
+     "audioText": "la farine",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b2",
+   "title": "Thịt, cá, hải sản",
+   "words": [
+    {
+     "id": "t10-la-viande",
+     "fr": "la viande",
+     "forms": [
+      "la viande"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thịt",
+     "viMain": "thịt",
+     "note": "",
+     "accept": [
+      "viande",
+      "la viande"
+     ],
+     "typeable": true,
+     "audioText": "la viande",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-poulet",
+     "fr": "le poulet",
+     "forms": [
+      "le poulet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thịt gà",
+     "viMain": "thịt gà",
+     "note": "",
+     "accept": [
+      "poulet",
+      "le poulet"
+     ],
+     "typeable": true,
+     "audioText": "le poulet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-poisson",
+     "fr": "le poisson",
+     "forms": [
+      "le poisson"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cá",
+     "viMain": "cá",
+     "note": "",
+     "accept": [
+      "poisson",
+      "le poisson"
+     ],
+     "typeable": true,
+     "audioText": "le poisson",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-jambon",
+     "fr": "le jambon",
+     "forms": [
+      "le jambon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "giăm bông",
+     "viMain": "giăm bông",
+     "note": "",
+     "accept": [
+      "jambon",
+      "le jambon"
+     ],
+     "typeable": true,
+     "audioText": "le jambon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-porc",
+     "fr": "le porc",
+     "forms": [
+      "le porc"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thịt heo",
+     "viMain": "thịt heo",
+     "note": "",
+     "accept": [
+      "porc",
+      "le porc"
+     ],
+     "typeable": true,
+     "audioText": "le porc",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-boeuf",
+     "fr": "le bœuf",
+     "forms": [
+      "le bœuf"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thịt bò",
+     "viMain": "thịt bò",
+     "note": "",
+     "accept": [
+      "bœuf",
+      "le bœuf"
+     ],
+     "typeable": true,
+     "audioText": "le bœuf",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-canard",
+     "fr": "le canard",
+     "forms": [
+      "le canard"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "vịt",
+     "viMain": "vịt",
+     "note": "",
+     "accept": [
+      "canard",
+      "le canard"
+     ],
+     "typeable": true,
+     "audioText": "le canard",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-saumon",
+     "fr": "le saumon",
+     "forms": [
+      "le saumon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cá hồi",
+     "viMain": "cá hồi",
+     "note": "",
+     "accept": [
+      "saumon",
+      "le saumon"
+     ],
+     "typeable": true,
+     "audioText": "le saumon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-thon",
+     "fr": "le thon",
+     "forms": [
+      "le thon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cá ngừ",
+     "viMain": "cá ngừ",
+     "note": "",
+     "accept": [
+      "thon",
+      "le thon"
+     ],
+     "typeable": true,
+     "audioText": "le thon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-les-crevettes",
+     "fr": "les crevettes",
+     "forms": [
+      "les crevettes"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "tôm",
+     "viMain": "tôm",
+     "note": "",
+     "accept": [
+      "crevettes",
+      "les crevettes"
+     ],
+     "typeable": true,
+     "audioText": "les crevettes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b3",
+   "title": "Cơm, mì, rau củ, trái cây",
+   "words": [
+    {
+     "id": "t10-le-riz",
+     "fr": "le riz",
+     "forms": [
+      "le riz"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "gạo; cơm",
+     "viMain": "gạo",
+     "note": "",
+     "accept": [
+      "riz",
+      "le riz"
+     ],
+     "typeable": true,
+     "audioText": "le riz",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-les-pates",
+     "fr": "les pâtes",
+     "forms": [
+      "les pâtes"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "mì ống",
+     "viMain": "mì ống",
+     "note": "",
+     "accept": [
+      "pâtes",
+      "les pâtes"
+     ],
+     "typeable": true,
+     "audioText": "les pâtes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-salade",
+     "fr": "la salade",
+     "forms": [
+      "la salade"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "xà lách; món salad",
+     "viMain": "xà lách",
+     "note": "",
+     "accept": [
+      "salade",
+      "la salade"
+     ],
+     "typeable": true,
+     "audioText": "la salade",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-les-legumes",
+     "fr": "les légumes",
+     "forms": [
+      "les légumes"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "rau củ",
+     "viMain": "rau củ",
+     "note": "",
+     "accept": [
+      "légumes",
+      "les légumes"
+     ],
+     "typeable": true,
+     "audioText": "les légumes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-pomme-de-terre",
+     "fr": "la pomme de terre",
+     "forms": [
+      "la pomme de terre"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "khoai tây",
+     "viMain": "khoai tây",
+     "note": "",
+     "accept": [
+      "pomme de terre",
+      "la pomme de terre"
+     ],
+     "typeable": true,
+     "audioText": "la pomme de terre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-tomate",
+     "fr": "la tomate",
+     "forms": [
+      "la tomate"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cà chua",
+     "viMain": "cà chua",
+     "note": "",
+     "accept": [
+      "tomate",
+      "la tomate"
+     ],
+     "typeable": true,
+     "audioText": "la tomate",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-les-fruits",
+     "fr": "les fruits",
+     "forms": [
+      "les fruits"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "trái cây",
+     "viMain": "trái cây",
+     "note": "",
+     "accept": [
+      "fruits",
+      "les fruits"
+     ],
+     "typeable": true,
+     "audioText": "les fruits",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-pomme",
+     "fr": "la pomme",
+     "forms": [
+      "la pomme"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "táo",
+     "viMain": "táo",
+     "note": "",
+     "accept": [
+      "pomme",
+      "la pomme"
+     ],
+     "typeable": true,
+     "audioText": "la pomme",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-banane",
+     "fr": "la banane",
+     "forms": [
+      "la banane"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "chuối",
+     "viMain": "chuối",
+     "note": "",
+     "accept": [
+      "banane",
+      "la banane"
+     ],
+     "typeable": true,
+     "audioText": "la banane",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-orange",
+     "fr": "l'orange",
+     "forms": [
+      "l'orange"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cam",
+     "viMain": "cam",
+     "note": "",
+     "accept": [
+      "orange",
+      "l'orange"
+     ],
+     "typeable": true,
+     "audioText": "l'orange",
+     "sameMeaningGroup": "sm-cam",
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-carotte",
+     "fr": "la carotte",
+     "forms": [
+      "la carotte"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cà rốt",
+     "viMain": "cà rốt",
+     "note": "",
+     "accept": [
+      "carotte",
+      "la carotte"
+     ],
+     "typeable": true,
+     "audioText": "la carotte",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-courgette",
+     "fr": "la courgette",
+     "forms": [
+      "la courgette"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bí ngòi",
+     "viMain": "bí ngòi",
+     "note": "",
+     "accept": [
+      "courgette",
+      "la courgette"
+     ],
+     "typeable": true,
+     "audioText": "la courgette",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-les-haricots-verts",
+     "fr": "les haricots verts",
+     "forms": [
+      "les haricots verts"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "đậu cô-ve",
+     "viMain": "đậu cô-ve",
+     "note": "",
+     "accept": [
+      "haricots verts",
+      "les haricots verts"
+     ],
+     "typeable": true,
+     "audioText": "les haricots verts",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-raisin",
+     "fr": "le raisin",
+     "forms": [
+      "le raisin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "nho",
+     "viMain": "nho",
+     "note": "",
+     "accept": [
+      "raisin",
+      "le raisin"
+     ],
+     "typeable": true,
+     "audioText": "le raisin",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-fraise",
+     "fr": "la fraise",
+     "forms": [
+      "la fraise"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "dâu tây",
+     "viMain": "dâu tây",
+     "note": "",
+     "accept": [
+      "fraise",
+      "la fraise"
+     ],
+     "typeable": true,
+     "audioText": "la fraise",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-citron",
+     "fr": "le citron",
+     "forms": [
+      "le citron"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "chanh vàng",
+     "viMain": "chanh vàng",
+     "note": "",
+     "accept": [
+      "citron",
+      "le citron"
+     ],
+     "typeable": true,
+     "audioText": "le citron",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-abricot",
+     "fr": "l'abricot",
+     "forms": [
+      "l'abricot"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "mơ",
+     "viMain": "mơ",
+     "note": "",
+     "accept": [
+      "abricot",
+      "l'abricot"
+     ],
+     "typeable": true,
+     "audioText": "l'abricot",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-frais-fraiche",
+     "fr": "frais / fraîche",
+     "forms": [
+      "frais",
+      "fraîche"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "tươi",
+     "viMain": "tươi",
+     "note": "",
+     "accept": [
+      "frais",
+      "fraîche"
+     ],
+     "typeable": true,
+     "audioText": "frais",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b4",
+   "title": "Gia vị, đồ ngọt",
+   "words": [
+    {
+     "id": "t10-le-sucre",
+     "fr": "le sucre",
+     "forms": [
+      "le sucre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đường",
+     "viMain": "đường",
+     "note": "",
+     "accept": [
+      "sucre",
+      "le sucre"
+     ],
+     "typeable": true,
+     "audioText": "le sucre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-sel",
+     "fr": "le sel",
+     "forms": [
+      "le sel"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "muối",
+     "viMain": "muối",
+     "note": "",
+     "accept": [
+      "sel",
+      "le sel"
+     ],
+     "typeable": true,
+     "audioText": "le sel",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-gateau",
+     "fr": "le gâteau",
+     "forms": [
+      "le gâteau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bánh ngọt",
+     "viMain": "bánh ngọt",
+     "note": "",
+     "accept": [
+      "gâteau",
+      "le gâteau"
+     ],
+     "typeable": true,
+     "audioText": "le gâteau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-chocolat",
+     "fr": "le chocolat",
+     "forms": [
+      "le chocolat"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "sô cô la",
+     "viMain": "sô cô la",
+     "note": "",
+     "accept": [
+      "chocolat",
+      "le chocolat"
+     ],
+     "typeable": true,
+     "audioText": "le chocolat",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-tarte",
+     "fr": "la tarte",
+     "forms": [
+      "la tarte"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "bánh tart",
+     "viMain": "bánh tart",
+     "note": "",
+     "accept": [
+      "tarte",
+      "la tarte"
+     ],
+     "typeable": true,
+     "audioText": "la tarte",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-confiture",
+     "fr": "la confiture",
+     "forms": [
+      "la confiture"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "mứt",
+     "viMain": "mứt",
+     "note": "",
+     "accept": [
+      "confiture",
+      "la confiture"
+     ],
+     "typeable": true,
+     "audioText": "la confiture",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-bonbon",
+     "fr": "le bonbon",
+     "forms": [
+      "le bonbon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "kẹo",
+     "viMain": "kẹo",
+     "note": "",
+     "accept": [
+      "bonbon",
+      "le bonbon"
+     ],
+     "typeable": true,
+     "audioText": "le bonbon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-creme",
+     "fr": "la crème",
+     "forms": [
+      "la crème"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "kem sữa",
+     "viMain": "kem sữa",
+     "note": "",
+     "accept": [
+      "crème",
+      "la crème"
+     ],
+     "typeable": true,
+     "audioText": "la crème",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-huile",
+     "fr": "l'huile",
+     "forms": [
+      "l'huile"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "dầu ăn",
+     "viMain": "dầu ăn",
+     "note": "",
+     "accept": [
+      "huile",
+      "l'huile"
+     ],
+     "typeable": true,
+     "audioText": "l'huile",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-vinaigre",
+     "fr": "le vinaigre",
+     "forms": [
+      "le vinaigre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "giấm",
+     "viMain": "giấm",
+     "note": "",
+     "accept": [
+      "vinaigre",
+      "le vinaigre"
+     ],
+     "typeable": true,
+     "audioText": "le vinaigre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-moutarde",
+     "fr": "la moutarde",
+     "forms": [
+      "la moutarde"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "mù tạt",
+     "viMain": "mù tạt",
+     "note": "",
+     "accept": [
+      "moutarde",
+      "la moutarde"
+     ],
+     "typeable": true,
+     "audioText": "la moutarde",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-poivre",
+     "fr": "le poivre",
+     "forms": [
+      "le poivre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiêu",
+     "viMain": "tiêu",
+     "note": "",
+     "accept": [
+      "poivre",
+      "le poivre"
+     ],
+     "typeable": true,
+     "audioText": "le poivre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b5",
+   "title": "Bữa ăn, nhà hàng",
+   "words": [
+    {
+     "id": "t10-le-repas",
+     "fr": "le repas",
+     "forms": [
+      "le repas"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "bữa ăn",
+     "viMain": "bữa ăn",
+     "note": "",
+     "accept": [
+      "repas",
+      "le repas"
+     ],
+     "typeable": true,
+     "audioText": "le repas",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-dessert",
+     "fr": "le dessert",
+     "forms": [
+      "le dessert"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "món tráng miệng",
+     "viMain": "món tráng miệng",
+     "note": "",
+     "accept": [
+      "dessert",
+      "le dessert"
+     ],
+     "typeable": true,
+     "audioText": "le dessert",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-menu",
+     "fr": "le menu",
+     "forms": [
+      "le menu"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thực đơn trọn gói",
+     "viMain": "thực đơn trọn gói",
+     "note": "thực đơn gọi món: la carte",
+     "accept": [
+      "menu",
+      "le menu"
+     ],
+     "typeable": true,
+     "audioText": "le menu",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-addition",
+     "fr": "l'addition",
+     "forms": [
+      "l'addition"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "hóa đơn (nhà hàng)",
+     "viMain": "hóa đơn (nhà hàng)",
+     "note": "",
+     "accept": [
+      "addition",
+      "l'addition"
+     ],
+     "typeable": true,
+     "audioText": "l'addition",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-manger",
+     "fr": "manger",
+     "forms": [
+      "manger"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "ăn",
+     "viMain": "ăn",
+     "note": "",
+     "accept": [
+      "manger"
+     ],
+     "typeable": true,
+     "audioText": "manger",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-boire",
+     "fr": "boire",
+     "forms": [
+      "boire"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "uống",
+     "viMain": "uống",
+     "note": "",
+     "accept": [
+      "boire"
+     ],
+     "typeable": true,
+     "audioText": "boire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-avoir-faim",
+     "fr": "avoir faim",
+     "forms": [
+      "avoir faim"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "đói",
+     "viMain": "đói",
+     "note": "",
+     "accept": [
+      "avoir faim"
+     ],
+     "typeable": true,
+     "audioText": "avoir faim",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-avoir-soif",
+     "fr": "avoir soif",
+     "forms": [
+      "avoir soif"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "khát",
+     "viMain": "khát",
+     "note": "",
+     "accept": [
+      "avoir soif"
+     ],
+     "typeable": true,
+     "audioText": "avoir soif",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-commander",
+     "fr": "commander",
+     "forms": [
+      "commander"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "gọi món",
+     "viMain": "gọi món",
+     "note": "",
+     "accept": [
+      "commander"
+     ],
+     "typeable": true,
+     "audioText": "commander",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-emporter",
+     "fr": "emporter",
+     "forms": [
+      "emporter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "mang đi",
+     "viMain": "mang đi",
+     "note": "",
+     "accept": [
+      "emporter"
+     ],
+     "typeable": true,
+     "audioText": "emporter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-plat",
+     "fr": "le plat",
+     "forms": [
+      "le plat"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "món ăn; đĩa lớn",
+     "viMain": "món ăn",
+     "note": "",
+     "accept": [
+      "plat",
+      "le plat"
+     ],
+     "typeable": true,
+     "audioText": "le plat",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-recette",
+     "fr": "la recette",
+     "forms": [
+      "la recette"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "công thức nấu ăn",
+     "viMain": "công thức nấu ăn",
+     "note": "",
+     "accept": [
+      "recette",
+      "la recette"
+     ],
+     "typeable": true,
+     "audioText": "la recette",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-aliment",
+     "fr": "l'aliment",
+     "forms": [
+      "l'aliment"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "thực phẩm",
+     "viMain": "thực phẩm",
+     "note": "",
+     "accept": [
+      "aliment",
+      "l'aliment"
+     ],
+     "typeable": true,
+     "audioText": "l'aliment",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b6",
+   "title": "Bát đĩa, dụng cụ ăn · Cửa hàng, thực phẩm",
+   "words": [
+    {
+     "id": "t10-l-assiette",
+     "fr": "l'assiette",
+     "forms": [
+      "l'assiette"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cái đĩa",
+     "viMain": "cái đĩa",
+     "note": "",
+     "accept": [
+      "assiette",
+      "l'assiette"
+     ],
+     "typeable": true,
+     "audioText": "l'assiette",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-verre",
+     "fr": "le verre",
+     "forms": [
+      "le verre"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cái ly",
+     "viMain": "cái ly",
+     "note": "",
+     "accept": [
+      "verre",
+      "le verre"
+     ],
+     "typeable": true,
+     "audioText": "le verre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-fourchette",
+     "fr": "la fourchette",
+     "forms": [
+      "la fourchette"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cái nĩa",
+     "viMain": "cái nĩa",
+     "note": "",
+     "accept": [
+      "fourchette",
+      "la fourchette"
+     ],
+     "typeable": true,
+     "audioText": "la fourchette",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-couteau",
+     "fr": "le couteau",
+     "forms": [
+      "le couteau"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "con dao",
+     "viMain": "con dao",
+     "note": "",
+     "accept": [
+      "couteau",
+      "le couteau"
+     ],
+     "typeable": true,
+     "audioText": "le couteau",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-cuillere",
+     "fr": "la cuillère",
+     "forms": [
+      "la cuillère"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cái thìa",
+     "viMain": "cái thìa",
+     "note": "",
+     "accept": [
+      "cuillère",
+      "la cuillère"
+     ],
+     "typeable": true,
+     "audioText": "la cuillère",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-bol",
+     "fr": "le bol",
+     "forms": [
+      "le bol"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cái tô, bát",
+     "viMain": "cái tô, bát",
+     "note": "",
+     "accept": [
+      "bol",
+      "le bol"
+     ],
+     "typeable": true,
+     "audioText": "le bol",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-magasin",
+     "fr": "le magasin",
+     "forms": [
+      "le magasin"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cửa hàng",
+     "viMain": "cửa hàng",
+     "note": "",
+     "accept": [
+      "magasin",
+      "le magasin"
+     ],
+     "typeable": true,
+     "audioText": "le magasin",
+     "sameMeaningGroup": "sm-cua-hang",
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-boucherie",
+     "fr": "la boucherie",
+     "forms": [
+      "la boucherie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tiệm thịt",
+     "viMain": "tiệm thịt",
+     "note": "",
+     "accept": [
+      "boucherie",
+      "la boucherie"
+     ],
+     "typeable": true,
+     "audioText": "la boucherie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-charcuterie",
+     "fr": "la charcuterie",
+     "forms": [
+      "la charcuterie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tiệm thịt nguội",
+     "viMain": "tiệm thịt nguội",
+     "note": "",
+     "accept": [
+      "charcuterie",
+      "la charcuterie"
+     ],
+     "typeable": true,
+     "audioText": "la charcuterie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-patisserie",
+     "fr": "la pâtisserie",
+     "forms": [
+      "la pâtisserie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tiệm bánh ngọt",
+     "viMain": "tiệm bánh ngọt",
+     "note": "",
+     "accept": [
+      "pâtisserie",
+      "la pâtisserie"
+     ],
+     "typeable": true,
+     "audioText": "la pâtisserie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-epicerie",
+     "fr": "l'épicerie",
+     "forms": [
+      "l'épicerie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tiệm tạp hóa",
+     "viMain": "tiệm tạp hóa",
+     "note": "",
+     "accept": [
+      "épicerie",
+      "l'épicerie"
+     ],
+     "typeable": true,
+     "audioText": "l'épicerie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-boutique",
+     "fr": "la boutique",
+     "forms": [
+      "la boutique"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "cửa hàng nhỏ",
+     "viMain": "cửa hàng nhỏ",
+     "note": "",
+     "accept": [
+      "boutique",
+      "la boutique"
+     ],
+     "typeable": true,
+     "audioText": "la boutique",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-commerce",
+     "fr": "le commerce",
+     "forms": [
+      "le commerce"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "cửa hàng; thương mại",
+     "viMain": "cửa hàng",
+     "note": "",
+     "accept": [
+      "commerce",
+      "le commerce"
+     ],
+     "typeable": true,
+     "audioText": "le commerce",
+     "sameMeaningGroup": "sm-cua-hang",
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-rayon",
+     "fr": "le rayon",
+     "forms": [
+      "le rayon"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "quầy hàng (trong cửa hàng)",
+     "viMain": "quầy hàng (trong cửa hàng)",
+     "note": "",
+     "accept": [
+      "rayon",
+      "le rayon"
+     ],
+     "typeable": true,
+     "audioText": "le rayon",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-marchand-la-marchande",
+     "fr": "le marchand / la marchande",
+     "forms": [
+      "le marchand",
+      "la marchande"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "người bán hàng",
+     "viMain": "người bán hàng",
+     "note": "",
+     "accept": [
+      "marchand",
+      "le marchand",
+      "marchande",
+      "la marchande"
+     ],
+     "typeable": true,
+     "audioText": "le marchand",
+     "sameMeaningGroup": "sm-nguoi-ban-hang",
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b7",
+   "title": "Mua bán, thanh toán (1/2)",
+   "words": [
+    {
+     "id": "t10-acheter",
+     "fr": "acheter",
+     "forms": [
+      "acheter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "mua",
+     "viMain": "mua",
+     "note": "",
+     "accept": [
+      "acheter"
+     ],
+     "typeable": true,
+     "audioText": "acheter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-vendre",
+     "fr": "vendre",
+     "forms": [
+      "vendre"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "bán",
+     "viMain": "bán",
+     "note": "",
+     "accept": [
+      "vendre"
+     ],
+     "typeable": true,
+     "audioText": "vendre",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-payer",
+     "fr": "payer",
+     "forms": [
+      "payer"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "trả tiền",
+     "viMain": "trả tiền",
+     "note": "",
+     "accept": [
+      "payer"
+     ],
+     "typeable": true,
+     "audioText": "payer",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-couter",
+     "fr": "coûter",
+     "forms": [
+      "coûter"
+     ],
+     "pos": "v",
+     "posGroup": "verb",
+     "gender": null,
+     "vi": "có giá",
+     "viMain": "có giá",
+     "note": "",
+     "accept": [
+      "coûter"
+     ],
+     "typeable": true,
+     "audioText": "coûter",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-prix",
+     "fr": "le prix",
+     "forms": [
+      "le prix"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "giá",
+     "viMain": "giá",
+     "note": "",
+     "accept": [
+      "prix",
+      "le prix"
+     ],
+     "typeable": true,
+     "audioText": "le prix",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-cher-chere",
+     "fr": "cher / chère",
+     "forms": [
+      "cher",
+      "chère"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "đắt",
+     "viMain": "đắt",
+     "note": "",
+     "accept": [
+      "cher",
+      "chère"
+     ],
+     "typeable": true,
+     "audioText": "cher",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-bon-marche",
+     "fr": "bon marché",
+     "forms": [
+      "bon marché"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "rẻ",
+     "viMain": "rẻ",
+     "note": "bất biến (không đổi giống, số)",
+     "accept": [
+      "bon marché"
+     ],
+     "typeable": true,
+     "audioText": "bon marché",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-argent",
+     "fr": "l'argent",
+     "forms": [
+      "l'argent"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tiền; bạc",
+     "viMain": "tiền",
+     "note": "",
+     "accept": [
+      "argent",
+      "l'argent"
+     ],
+     "typeable": true,
+     "audioText": "l'argent",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-l-euro",
+     "fr": "l'euro",
+     "forms": [
+      "l'euro"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "đồng euro",
+     "viMain": "đồng euro",
+     "note": "",
+     "accept": [
+      "euro",
+      "l'euro"
+     ],
+     "typeable": true,
+     "audioText": "l'euro",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-monnaie",
+     "fr": "la monnaie",
+     "forms": [
+      "la monnaie"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "tiền lẻ; tiền tệ",
+     "viMain": "tiền lẻ",
+     "note": "",
+     "accept": [
+      "monnaie",
+      "la monnaie"
+     ],
+     "typeable": true,
+     "audioText": "la monnaie",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-carte-bancaire",
+     "fr": "la carte bancaire",
+     "forms": [
+      "la carte bancaire"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "thẻ ngân hàng",
+     "viMain": "thẻ ngân hàng",
+     "note": "",
+     "accept": [
+      "carte bancaire",
+      "la carte bancaire"
+     ],
+     "typeable": true,
+     "audioText": "la carte bancaire",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b8",
+   "title": "Mua bán, thanh toán (2/2)",
+   "words": [
+    {
+     "id": "t10-le-client-la-cliente",
+     "fr": "le client / la cliente",
+     "forms": [
+      "le client",
+      "la cliente"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "khách hàng",
+     "viMain": "khách hàng",
+     "note": "",
+     "accept": [
+      "client",
+      "le client",
+      "cliente",
+      "la cliente"
+     ],
+     "typeable": true,
+     "audioText": "le client",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-caisse",
+     "fr": "la caisse",
+     "forms": [
+      "la caisse"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "quầy thu ngân",
+     "viMain": "quầy thu ngân",
+     "note": "",
+     "accept": [
+      "caisse",
+      "la caisse"
+     ],
+     "typeable": true,
+     "audioText": "la caisse",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-caissier-la-caissiere",
+     "fr": "le caissier / la caissière",
+     "forms": [
+      "le caissier",
+      "la caissière"
+     ],
+     "pos": "nm/nf",
+     "posGroup": "noun",
+     "gender": "nm/nf",
+     "vi": "nhân viên thu ngân",
+     "viMain": "nhân viên thu ngân",
+     "note": "",
+     "accept": [
+      "caissier",
+      "le caissier",
+      "caissière",
+      "la caissière"
+     ],
+     "typeable": true,
+     "audioText": "le caissier",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-les-soldes",
+     "fr": "les soldes",
+     "forms": [
+      "les soldes"
+     ],
+     "pos": "nm pl",
+     "posGroup": "noun",
+     "gender": "nm pl",
+     "vi": "đợt giảm giá",
+     "viMain": "đợt giảm giá",
+     "note": "",
+     "accept": [
+      "soldes",
+      "les soldes"
+     ],
+     "typeable": true,
+     "audioText": "les soldes",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-gratuit-gratuite",
+     "fr": "gratuit / gratuite",
+     "forms": [
+      "gratuit",
+      "gratuite"
+     ],
+     "pos": "adj",
+     "posGroup": "adj",
+     "gender": null,
+     "vi": "miễn phí",
+     "viMain": "miễn phí",
+     "note": "",
+     "accept": [
+      "gratuit",
+      "gratuite"
+     ],
+     "typeable": true,
+     "audioText": "gratuit",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-les-especes",
+     "fr": "les espèces",
+     "forms": [
+      "les espèces"
+     ],
+     "pos": "nf pl",
+     "posGroup": "noun",
+     "gender": "nf pl",
+     "vi": "tiền mặt",
+     "viMain": "tiền mặt",
+     "note": "",
+     "accept": [
+      "espèces",
+      "les espèces"
+     ],
+     "typeable": true,
+     "audioText": "les espèces",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-cheque",
+     "fr": "le chèque",
+     "forms": [
+      "le chèque"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "séc",
+     "viMain": "séc",
+     "note": "",
+     "accept": [
+      "chèque",
+      "le chèque"
+     ],
+     "typeable": true,
+     "audioText": "le chèque",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-billet",
+     "fr": "le billet",
+     "forms": [
+      "le billet"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tờ tiền",
+     "viMain": "tờ tiền",
+     "note": "cũng có nghĩa \"vé\" (xem chủ đề 8)",
+     "accept": [
+      "billet",
+      "le billet"
+     ],
+     "typeable": true,
+     "audioText": "le billet",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-la-piece",
+     "fr": "la pièce",
+     "forms": [
+      "la pièce"
+     ],
+     "pos": "nf",
+     "posGroup": "noun",
+     "gender": "nf",
+     "vi": "đồng xu",
+     "viMain": "đồng xu",
+     "note": "cũng có nghĩa \"phòng\" (xem chủ đề 7)",
+     "accept": [
+      "pièce",
+      "la pièce"
+     ],
+     "typeable": true,
+     "audioText": "la pièce",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-compte",
+     "fr": "le compte",
+     "forms": [
+      "le compte"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "tài khoản; hóa đơn",
+     "viMain": "tài khoản",
+     "note": "",
+     "accept": [
+      "compte",
+      "le compte"
+     ],
+     "typeable": true,
+     "audioText": "le compte",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  },
+  {
+   "id": "t10-b9",
+   "title": "Mẫu câu mua hàng · Đơn vị, số lượng",
+   "words": [
+    {
+     "id": "t10-je-voudrais",
+     "fr": "Je voudrais…",
+     "forms": [
+      "Je voudrais…"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Tôi muốn… (lịch sự)",
+     "viMain": "Tôi muốn… (lịch sự)",
+     "note": "",
+     "accept": [
+      "Je voudrais…"
+     ],
+     "typeable": false,
+     "audioText": "Je voudrais",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-combien-ca-coute",
+     "fr": "Combien ça coûte ?",
+     "forms": [
+      "Combien ça coûte ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Cái này giá bao nhiêu?",
+     "viMain": "Cái này giá bao nhiêu?",
+     "note": "",
+     "accept": [
+      "Combien ça coûte ?"
+     ],
+     "typeable": false,
+     "audioText": "Combien ça coûte ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-c-est-combien",
+     "fr": "C'est combien ?",
+     "forms": [
+      "C'est combien ?"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "Bao nhiêu tiền?",
+     "viMain": "Bao nhiêu tiền?",
+     "note": "",
+     "accept": [
+      "C'est combien ?"
+     ],
+     "typeable": false,
+     "audioText": "C'est combien ?",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-un-kilo-de",
+     "fr": "un kilo de",
+     "forms": [
+      "un kilo de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "một ký …",
+     "viMain": "một ký …",
+     "note": "",
+     "accept": [
+      "kilo de",
+      "un kilo de"
+     ],
+     "typeable": true,
+     "audioText": "un kilo de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-un-litre-de",
+     "fr": "un litre de",
+     "forms": [
+      "un litre de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "một lít …",
+     "viMain": "một lít …",
+     "note": "",
+     "accept": [
+      "litre de",
+      "un litre de"
+     ],
+     "typeable": true,
+     "audioText": "un litre de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-une-bouteille-de",
+     "fr": "une bouteille de",
+     "forms": [
+      "une bouteille de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "một chai …",
+     "viMain": "một chai …",
+     "note": "",
+     "accept": [
+      "bouteille de",
+      "une bouteille de"
+     ],
+     "typeable": true,
+     "audioText": "une bouteille de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-un-paquet-de",
+     "fr": "un paquet de",
+     "forms": [
+      "un paquet de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "một gói …",
+     "viMain": "một gói …",
+     "note": "",
+     "accept": [
+      "paquet de",
+      "un paquet de"
+     ],
+     "typeable": true,
+     "audioText": "un paquet de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-une-boite-de",
+     "fr": "une boîte de",
+     "forms": [
+      "une boîte de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "một hộp …",
+     "viMain": "một hộp …",
+     "note": "",
+     "accept": [
+      "boîte de",
+      "une boîte de"
+     ],
+     "typeable": true,
+     "audioText": "une boîte de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-un-morceau-de",
+     "fr": "un morceau de",
+     "forms": [
+      "un morceau de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "một miếng …",
+     "viMain": "một miếng …",
+     "note": "",
+     "accept": [
+      "morceau de",
+      "un morceau de"
+     ],
+     "typeable": true,
+     "audioText": "un morceau de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-un-peu-de",
+     "fr": "un peu de",
+     "forms": [
+      "un peu de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "một ít …",
+     "viMain": "một ít …",
+     "note": "",
+     "accept": [
+      "peu de",
+      "un peu de"
+     ],
+     "typeable": true,
+     "audioText": "un peu de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-beaucoup-de",
+     "fr": "beaucoup de",
+     "forms": [
+      "beaucoup de"
+     ],
+     "pos": "expr",
+     "posGroup": "expr",
+     "gender": null,
+     "vi": "nhiều …",
+     "viMain": "nhiều …",
+     "note": "",
+     "accept": [
+      "beaucoup de"
+     ],
+     "typeable": true,
+     "audioText": "beaucoup de",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    },
+    {
+     "id": "t10-le-gramme",
+     "fr": "le gramme",
+     "forms": [
+      "le gramme"
+     ],
+     "pos": "nm",
+     "posGroup": "noun",
+     "gender": "nm",
+     "vi": "gam",
+     "viMain": "gam",
+     "note": "",
+     "accept": [
+      "gramme",
+      "le gramme"
+     ],
+     "typeable": true,
+     "audioText": "le gramme",
+     "sameMeaningGroup": null,
+     "confusableGroup": null
+    }
+   ]
+  }
+ ]
+}
